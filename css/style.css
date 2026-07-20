@@ -187,6 +187,26 @@ h1, h2, h3, h4 {
 .header-cta { flex-shrink: 0; }
 .header-cta .btn { padding: 12px 22px; }
 
+.lang-switch { display: flex; gap: 2px; flex-shrink: 0; }
+
+.lang-switch a {
+  font-family: var(--font-head);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--grey);
+  padding: 6px 8px;
+  border-radius: 4px;
+  transition: color .15s ease, background .15s ease;
+}
+
+.lang-switch a:hover { color: var(--gold-light); }
+
+.lang-switch a.active {
+  color: var(--gold-light);
+  background: rgba(201, 158, 51, .14);
+}
+
 .nav-toggle {
   display: none;
   background: none;
@@ -283,6 +303,8 @@ h1, h2, h3, h4 {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  /* keep the full "TS PALLETIUM" sign (x ≈ 34–80 % of the photo) inside the crop */
+  object-position: 50% 40%;
 }
 
 /* Page hero (subpages) */
