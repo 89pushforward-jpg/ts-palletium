@@ -303,8 +303,9 @@ h1, h2, h3, h4 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  /* keep the full "TS PALLETIUM" sign (x ≈ 34–80 % of the photo) inside the crop */
-  object-position: 50% 40%;
+  /* keep the full "TS PALLETIUM" sign (x ≈ 34–80 % of the photo) centred in the
+     visible crop (the gold diagonal hides the left 12 % of the box) */
+  object-position: 59% 40%;
 }
 
 /* Page hero (subpages) */
