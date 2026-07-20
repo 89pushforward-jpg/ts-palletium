@@ -139,6 +139,58 @@ function clean_utf8(string $s): string {
     return mb_check_encoding($s, 'UTF-8') ? $s : mb_convert_encoding($s, 'UTF-8', 'UTF-8');
 }
 
+/* ---------- editor-friendly text conversion ----------
+   Admins edit short texts in a plain format:
+     *zlatý text*     ->  <span class="accent">zlatý text</span>
+     new line         ->  <br>
+     [text](odkaz)    ->  <a href="odkaz">text</a>
+   Stored form is always HTML; these two functions convert both ways. */
+
+function text_to_simple(string $html): string {
+    $s = $html;
+    $s = preg_replace('#<span class="accent">(.*?)</span>#s', '*$1*', $s);
+    $s = preg_replace('#<a href="([^"]*)">(.*?)</a>#s', '[$2]($1)', $s);
+    $s = preg_replace('#<br\s*/?>#i', "\n", $s);
+    $s = strip_tags($s);
+    return html_entity_decode($s, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+}
+
+function simple_to_text(string $simple): string {
+    $s = str_replace("\r", '', clean_utf8($simple));
+    $s = htmlspecialchars($s, ENT_QUOTES, 'UTF-8');
+    $s = preg_replace('#\*([^*\n][^*]*)\*#', '<span class="accent">$1</span>', $s);
+    $s = preg_replace_callback('#\[([^\]]+)\]\(([^)\s]+)\)#', function ($m) {
+        $url = $m[2];
+        if (!preg_match('#^(https?://|mailto:|tel:|/|[a-z0-9-]+\.html)#i', $url)) {
+            return $m[1]; // unknown scheme -> keep the text only
+        }
+        return '<a href="' . $url . '">' . $m[1] . '</a>';
+    }, $s);
+    return str_replace("\n", '<br>', $s);
+}
+
+/* Sanitize rich HTML from the visual editor: allow-listed tags only,
+   attributes stripped (except safe href on links). */
+function sanitize_rich_html(string $html): string {
+    $s = clean_utf8($html);
+    $s = preg_replace('#<(script|style)[^>]*>.*?</\1>#is', '', $s);
+    $s = strip_tags($s, '<h2><h3><p><ul><ol><li><strong><b><em><i><u><a><br>');
+    // normalize plain tags, drop all attributes
+    $s = preg_replace('#<(h2|h3|p|ul|ol|li|strong|b|em|i|u)\b[^>]*>#i', '<$1>', $s);
+    $s = preg_replace('#<br\b[^>]*>#i', '<br>', $s);
+    // links: keep only a safe href
+    $s = preg_replace_callback('#<a\b[^>]*>#i', function ($m) {
+        if (preg_match('#href\s*=\s*"([^"]*)"#i', $m[0], $h)
+            && preg_match('#^(https?://|mailto:|tel:|/|[a-z0-9-]+\.html)#i', $h[1])) {
+            return '<a href="' . htmlspecialchars($h[1], ENT_QUOTES, 'UTF-8') . '">';
+        }
+        return '<a>';
+    }, $s);
+    // drop empty paragraphs the editor tends to leave behind
+    $s = preg_replace('#<p>(\s|&nbsp;|<br>)*</p>#i', '', $s);
+    return trim($s);
+}
+
 function track_view(string $path, string $lang): void {
     try {
         db()->prepare('INSERT INTO views (day, path, lang) VALUES (?,?,?)')

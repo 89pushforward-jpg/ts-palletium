@@ -14,7 +14,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     foreach ($_POST['txt'] ?? [] as $key => $langs) {
         foreach ($langs as $lang => $value) {
             if (!in_array($lang, LANGS, true)) continue;
-            $up->execute([clean_utf8($value), $key, $lang]);
+            $up->execute([simple_to_text($value), $key, $lang]);
             $n += $up->rowCount();
         }
     }
@@ -44,7 +44,7 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
   <?php endforeach; ?>
 </div>
 
-<p class="muted">Texty môžu obsahovať jednoduché HTML značky (napr. &lt;span class="accent"&gt; pre zlatý text, &lt;br&gt; pre nový riadok). Zmeny sa na webe prejavia okamžite po uložení.</p>
+<p class="muted">Píšte bežný text. Ak chcete časť textu <span style="color:var(--gold-light);">zlatou farbou</span>, dajte ju medzi hviezdičky: <code style="color:var(--gold-light);">*takto*</code>. Nový riadok v políčku = nový riadok na webe. Zmeny sa na webe prejavia okamžite po uložení.</p>
 
 <form method="post">
   <?= csrf_field() ?>
@@ -55,7 +55,7 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
         <?php foreach (ADMIN_LANGS as $lang => $lbl): ?>
           <div>
             <span class="lang-tag"><?= $lbl ?></span>
-            <textarea name="txt[<?= esc($key) ?>][<?= $lang ?>]"><?= esc($vals[$key][$lang] ?? '') ?></textarea>
+            <textarea name="txt[<?= esc($key) ?>][<?= $lang ?>]"><?= esc(text_to_simple($vals[$key][$lang] ?? '')) ?></textarea>
           </div>
         <?php endforeach; ?>
       </div>

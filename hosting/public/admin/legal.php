@@ -1,5 +1,5 @@
 <?php
-// Admin — legal documents editor (per document, per language)
+// Admin — legal documents editor (visual editor, per document, per language)
 require_once __DIR__ . '/lib-admin.php';
 require_login();
 
@@ -19,9 +19,12 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     check_csrf();
     $pdo->prepare('UPDATE legal SET title = ?, h1 = ?, "desc" = ?, metaline = ?, html = ? WHERE slug = ? AND lang = ?')
         ->execute([
-            clean_utf8(trim($_POST['title'] ?? '')), clean_utf8(trim($_POST['h1'] ?? '')),
-            clean_utf8(trim($_POST['desc'] ?? '')), clean_utf8(trim($_POST['metaline'] ?? '')),
-            clean_utf8(trim($_POST['html'] ?? '')), $slug, $lang,
+            clean_utf8(trim($_POST['title'] ?? '')),
+            simple_to_text(trim($_POST['h1'] ?? '')),
+            clean_utf8(trim($_POST['desc'] ?? '')),
+            clean_utf8(trim($_POST['metaline'] ?? '')),
+            sanitize_rich_html($_POST['html'] ?? ''),
+            $slug, $lang,
         ]);
     log_activity("Uložený právny dokument '$slug' ($lang)");
     flash('Dokument bol uložený.');
@@ -50,36 +53,85 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
   <?php endforeach; ?>
 </div>
 
-<form method="post">
+<form method="post" id="legalForm">
   <?= csrf_field() ?>
   <div class="card">
-    <div class="grid c2">
+    <p class="muted" style="margin-bottom:14px;">Píšte ako v bežnom textovom editore — označte text a použite tlačidlá. Žiadne značky ani kódy nie sú potrebné.</p>
+    <div class="wtoolbar">
+      <button type="button" data-cmd="h2">Nadpis sekcie</button>
+      <button type="button" data-cmd="p">Bežný odsek</button>
+      <button type="button" data-cmd="ul">• Odrážky</button>
+      <button type="button" data-cmd="bold"><strong>B</strong> Tučné</button>
+      <button type="button" data-cmd="link">🔗 Odkaz</button>
+      <button type="button" data-cmd="clear">Vyčistiť formát</button>
+    </div>
+    <div class="wysiwyg" id="editor" contenteditable="true"><?= $doc['html'] ?></div>
+    <textarea name="html" id="htmlField" hidden></textarea>
+  </div>
+
+  <details class="card" style="padding-top:16px;">
+    <summary style="cursor:pointer; color:var(--gold-light); font-weight:600;">Rozšírené nastavenia (názov, nadpis, popis pre vyhľadávače)</summary>
+    <div class="grid c2" style="margin-top:16px;">
       <div>
-        <label for="title">Názov dokumentu (v menu a titulku)</label>
+        <label for="title">Názov dokumentu (v menu a titulku okna)</label>
         <input type="text" id="title" name="title" value="<?= esc($doc['title']) ?>">
       </div>
       <div>
-        <label for="h1">Nadpis stránky (môže obsahovať HTML)</label>
-        <input type="text" id="h1" name="h1" value="<?= esc($doc['h1']) ?>">
+        <label for="h1">Nadpis stránky (*hviezdičky* = zlatý text)</label>
+        <input type="text" id="h1" name="h1" value="<?= esc(text_to_simple($doc['h1'])) ?>">
       </div>
       <div>
-        <label for="desc">Meta popis (pre vyhľadávače)</label>
+        <label for="desc">Popis pre vyhľadávače</label>
         <input type="text" id="desc" name="desc" value="<?= esc($doc['desc']) ?>">
       </div>
       <div>
-        <label for="metaline">Riadok platnosti (nad dokumentom)</label>
+        <label for="metaline">Riadok platnosti (zobrazuje sa nad dokumentom)</label>
         <input type="text" id="metaline" name="metaline" value="<?= esc($doc['metaline']) ?>">
       </div>
     </div>
-    <p style="margin-top:16px;">
-      <label for="html">Obsah dokumentu (HTML — nadpisy &lt;h2&gt;, odseky &lt;p&gt;, zoznamy &lt;ul&gt;&lt;li&gt;)</label>
-      <textarea class="code" id="html" name="html"><?= esc($doc['html']) ?></textarea>
-    </p>
-  </div>
+  </details>
+
   <div class="savebar">
     <button class="btn" type="submit">Uložiť dokument</button>
     <a class="btn ghost" href="/<?= $langPrefix . $slug ?>.html" target="_blank" rel="noopener">Zobraziť na webe</a>
   </div>
 </form>
+
+<script>
+(function () {
+  var ed = document.getElementById('editor');
+
+  document.querySelectorAll('.wtoolbar button').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      ed.focus();
+      switch (btn.dataset.cmd) {
+        case 'h2': document.execCommand('formatBlock', false, 'h2'); break;
+        case 'p': document.execCommand('formatBlock', false, 'p'); break;
+        case 'ul': document.execCommand('insertUnorderedList'); break;
+        case 'bold': document.execCommand('bold'); break;
+        case 'link':
+          var url = prompt('Adresa odkazu (napr. https://… alebo info@… ako mailto:info@…):');
+          if (url) document.execCommand('createLink', false, url);
+          break;
+        case 'clear':
+          document.execCommand('removeFormat');
+          document.execCommand('formatBlock', false, 'p');
+          break;
+      }
+    });
+  });
+
+  /* paste as plain text so no foreign formatting (Word, web) leaks in */
+  ed.addEventListener('paste', function (e) {
+    e.preventDefault();
+    var text = (e.clipboardData || window.clipboardData).getData('text/plain');
+    document.execCommand('insertText', false, text);
+  });
+
+  document.getElementById('legalForm').addEventListener('submit', function () {
+    document.getElementById('htmlField').value = ed.innerHTML;
+  });
+})();
+</script>
 
 <?php admin_footer();

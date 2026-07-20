@@ -83,6 +83,23 @@ input:focus, textarea:focus, select:focus { outline: none; border-color: var(--g
 .photo-card .ph-body { padding: 10px 12px; font-size: 12px; color: var(--grey); }
 .photo-card .ph-body strong { display: block; color: #fff; font-size: 12.5px; word-break: break-all; }
 
+/* visual editor for legal documents */
+.wtoolbar { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; position: sticky; top: 64px; z-index: 50;
+  background: var(--panel); padding: 8px; border: 1px solid var(--border); border-radius: 6px; }
+.wtoolbar button { background: #0d0d10; border: 1px solid rgba(255,255,255,.15); color: var(--grey);
+  border-radius: 5px; padding: 7px 12px; font-size: 13px; cursor: pointer; font-family: inherit; }
+.wtoolbar button:hover { color: var(--gold-light); border-color: var(--gold); }
+.wysiwyg { background: #0d0d10; border: 1px solid rgba(255,255,255,.15); border-radius: 6px;
+  padding: 22px 26px; min-height: 420px; max-height: 70vh; overflow-y: auto; line-height: 1.65; }
+.wysiwyg:focus { outline: none; border-color: var(--gold); }
+.wysiwyg h2 { font-size: 19px; text-transform: uppercase; letter-spacing: .8px; color: var(--gold-light); margin: 26px 0 10px; }
+.wysiwyg h2:first-child { margin-top: 0; }
+.wysiwyg p { margin-bottom: 12px; color: var(--grey); }
+.wysiwyg ul, .wysiwyg ol { margin: 0 0 12px 24px; color: var(--grey); }
+.wysiwyg li { margin-bottom: 4px; }
+.wysiwyg strong, .wysiwyg b { color: #fff; }
+.wysiwyg a { color: var(--gold-light); text-decoration: underline; }
+
 .login-wrap { max-width: 380px; margin: 12vh auto 0; }
 .muted { color: var(--grey-dark); font-size: 13px; }
 .ok { color: #7c6; } .bad { color: #e88; }
