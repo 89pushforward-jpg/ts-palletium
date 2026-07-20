@@ -182,19 +182,147 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tspalletium.com/obchodne-podmienky.html</loc>
+    <loc>https://tspalletium.com/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/cookies.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/cs/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/cookies.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/en/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/cookies.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/de/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/cookies.html"/>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://tspalletium.com/gdpr.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/gdpr.html"/>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://tspalletium.com/cookies.html</loc>
+    <loc>https://tspalletium.com/cs/gdpr.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/gdpr.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/en/gdpr.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/gdpr.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/de/gdpr.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/gdpr.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/gdpr.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/obchodne-podmienky.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/cs/obchodne-podmienky.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/en/obchodne-podmienky.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/de/obchodne-podmienky.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/obchodne-podmienky.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/obchodne-podmienky.html"/>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://tspalletium.com/pravne-informacie.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/pravne-informacie.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/cs/pravne-informacie.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/pravne-informacie.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/en/pravne-informacie.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/pravne-informacie.html"/>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://tspalletium.com/de/pravne-informacie.html</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tspalletium.com/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tspalletium.com/cs/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tspalletium.com/en/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tspalletium.com/de/pravne-informacie.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tspalletium.com/pravne-informacie.html"/>
     <priority>0.3</priority>
   </url>
 </urlset>

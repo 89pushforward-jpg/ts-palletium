@@ -1,0 +1,26 @@
+{
+  "cookies": {
+    "sk": {"title": "Cookies politika", "h1": "Cookies <span class=\"accent\">politika</span>", "desc": "Cookies politika webovej stránky www.tspalletium.com — aké cookies používame a ako ich môžete spravovať."},
+    "cs": {"title": "Cookies politika", "h1": "Cookies <span class=\"accent\">politika</span>", "desc": "Cookies politika webové stránky www.tspalletium.com — jaké cookies používáme a jak je můžete spravovat."},
+    "en": {"title": "Cookie Policy", "h1": "Cookie <span class=\"accent\">Policy</span>", "desc": "Cookie Policy of www.tspalletium.com — what cookies we use and how you can manage them."},
+    "de": {"title": "Cookie-Richtlinie", "h1": "Cookie-<span class=\"accent\">Richtlinie</span>", "desc": "Cookie-Richtlinie der Website www.tspalletium.com — welche Cookies wir verwenden und wie Sie sie verwalten können."}
+  },
+  "gdpr": {
+    "sk": {"title": "Zásady ochrany osobných údajov", "h1": "Zásady ochrany <span class=\"accent\">osobných údajov</span> (GDPR)", "desc": "Zásady ochrany osobných údajov (GDPR) spoločnosti Tom Kave Company s. r. o. — TS Palletium."},
+    "cs": {"title": "Zásady ochrany osobních údajů", "h1": "Zásady ochrany <span class=\"accent\">osobních údajů</span> (GDPR)", "desc": "Zásady ochrany osobních údajů (GDPR) společnosti Tom Kave Company s. r. o. — TS Palletium."},
+    "en": {"title": "Privacy Policy", "h1": "Privacy <span class=\"accent\">Policy</span> (GDPR)", "desc": "Privacy Policy (GDPR) of Tom Kave Company s. r. o. — TS Palletium."},
+    "de": {"title": "Datenschutzerklärung", "h1": "Datenschutz<span class=\"accent\">erklärung</span> (GDPR)", "desc": "Datenschutzerklärung (GDPR) der Gesellschaft Tom Kave Company s. r. o. — TS Palletium."}
+  },
+  "obchodne-podmienky": {
+    "sk": {"title": "Obchodné podmienky", "h1": "Obchodné <span class=\"accent\">podmienky</span>", "desc": "Obchodné podmienky spoločnosti TS Palletium (Tom Kave Company s. r. o.) pre B2B obchodné vzťahy pri dodávkach paliet."},
+    "cs": {"title": "Obchodní podmínky", "h1": "Obchodní <span class=\"accent\">podmínky</span>", "desc": "Obchodní podmínky společnosti TS Palletium (Tom Kave Company s. r. o.) pro B2B obchodní vztahy při dodávkách palet."},
+    "en": {"title": "Terms and Conditions", "h1": "Terms &amp; <span class=\"accent\">Conditions</span>", "desc": "Terms and Conditions of TS Palletium (Tom Kave Company s. r. o.) for B2B business relationships in pallet supply."},
+    "de": {"title": "Allgemeine Geschäftsbedingungen", "h1": "Allgemeine <span class=\"accent\">Geschäftsbedingungen</span>", "desc": "Allgemeine Geschäftsbedingungen von TS Palletium (Tom Kave Company s. r. o.) für B2B-Geschäftsbeziehungen bei Palettenlieferungen."}
+  },
+  "pravne-informacie": {
+    "sk": {"title": "Právne informácie", "h1": "Právne informácie <span class=\"accent\">(Impressum)</span>", "desc": "Právne informácie (Impressum) webovej stránky www.tspalletium.com — Tom Kave Company s. r. o., obchodná značka TS Palletium."},
+    "cs": {"title": "Právní informace", "h1": "Právní informace <span class=\"accent\">(Impressum)</span>", "desc": "Právní informace (Impressum) webové stránky www.tspalletium.com — Tom Kave Company s. r. o., obchodní značka TS Palletium."},
+    "en": {"title": "Legal Information", "h1": "Legal Information <span class=\"accent\">(Imprint)</span>", "desc": "Legal information (imprint) of www.tspalletium.com — Tom Kave Company s. r. o., trading as TS Palletium."},
+    "de": {"title": "Rechtliche Hinweise", "h1": "Rechtliche Hinweise <span class=\"accent\">(Impressum)</span>", "desc": "Rechtliche Hinweise (Impressum) der Website www.tspalletium.com — Tom Kave Company s. r. o., Handelsmarke TS Palletium."}
+  }
+}

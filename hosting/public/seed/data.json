@@ -1,0 +1,2831 @@
+{
+ "content": {
+  "k001": {
+   "sk": "Domov",
+   "cs": "Domů",
+   "en": "Home",
+   "de": "Start"
+  },
+  "k002": {
+   "sk": "Hlavná navigácia",
+   "cs": "Hlavní navigace",
+   "en": "Main navigation",
+   "de": "Hauptnavigation"
+  },
+  "k003": {
+   "sk": "TS Palletium — domov",
+   "cs": "TS Palletium — domů",
+   "en": "TS Palletium — home",
+   "de": "TS Palletium — Startseite"
+  },
+  "k004": {
+   "sk": "Otvoriť menu",
+   "cs": "Otevřít menu",
+   "en": "Open menu",
+   "de": "Menü öffnen"
+  },
+  "k005": {
+   "sk": "Vyžiadať cenovú ponuku",
+   "cs": "Vyžádat cenovou nabídku",
+   "en": "Request a quote",
+   "de": "Angebot anfordern"
+  },
+  "k006": {
+   "sk": "Vyžiadať ponuku",
+   "cs": "Vyžádat nabídku",
+   "en": "Get a quote",
+   "de": "Angebot anfordern"
+  },
+  "k007": {
+   "sk": "Produkty",
+   "cs": "Produkty",
+   "en": "Products",
+   "de": "Produkte"
+  },
+  "k008": {
+   "sk": "O spoločnosti <span class=\"accent\">TS Palletium</span>",
+   "cs": "O společnosti <span class=\"accent\">TS Palletium</span>",
+   "en": "About <span class=\"accent\">TS Palletium</span>",
+   "de": "Über <span class=\"accent\">TS Palletium</span>"
+  },
+  "k009": {
+   "sk": "O spoločnosti",
+   "cs": "O společnosti",
+   "en": "About us",
+   "de": "Über uns"
+  },
+  "k010": {
+   "sk": "TS Palletium — Váš spoľahlivý partner pre paletové riešenia",
+   "cs": "TS Palletium — Váš spolehlivý partner pro paletová řešení",
+   "en": "TS Palletium — Your reliable partner for pallet solutions",
+   "de": "TS Palletium — Ihr zuverlässiger Partner für Palettenlösungen"
+  },
+  "k011": {
+   "sk": "TS Palletium — nákup, predaj, dodávky a logistická koordinácia drevených a plastových paliet v rámci európskeho trhu. EPAL / EUR palety, CP1–CP9, H1 plastové palety.",
+   "cs": "TS Palletium — nákup, prodej, dodávky a logistická koordinace dřevěných a plastových palet v rámci evropského trhu. EPAL / EUR palety, CP1–CP9, H1 plastové palety.",
+   "en": "TS Palletium — purchase, sale, supply and logistics coordination of wooden and plastic pallets across the European market. EPAL / EUR pallets, CP1–CP9, H1 plastic pallets.",
+   "de": "TS Palletium — Ankauf, Verkauf, Lieferung und logistische Koordination von Holz- und Kunststoffpaletten auf dem europäischen Markt. EPAL- / EUR-Paletten, CP1–CP9, H1-Kunststoffpaletten."
+  },
+  "k012": {
+   "sk": "Váš spoľahlivý partner <span class=\"accent\">pre paletové riešenia</span>",
+   "cs": "Váš spolehlivý partner <span class=\"accent\">pro paletová řešení</span>",
+   "en": "Your reliable partner <span class=\"accent\">for pallet solutions</span>",
+   "de": "Ihr zuverlässiger Partner <span class=\"accent\">für Palettenlösungen</span>"
+  },
+  "k013": {
+   "sk": "Nákup, predaj, dodávky a logistická koordinácia drevených a plastových paliet v rámci európskeho trhu. Nové aj použité EPAL / EUR palety, chemické palety CP1–CP9 a H1 hygienické plastové palety.",
+   "cs": "Nákup, prodej, dodávky a logistická koordinace dřevěných a plastových palet v rámci evropského trhu. Nové i použité EPAL / EUR palety, chemické palety CP1–CP9 a H1 hygienické plastové palety.",
+   "en": "Purchase, sale, supply and logistics coordination of wooden and plastic pallets across the European market. New and used EPAL / EUR pallets, CP1–CP9 chemical pallets and H1 hygienic plastic pallets.",
+   "de": "Ankauf, Verkauf, Lieferung und logistische Koordination von Holz- und Kunststoffpaletten auf dem europäischen Markt. Neue und gebrauchte EPAL- / EUR-Paletten, Chemiepaletten CP1–CP9 und hygienische H1-Kunststoffpaletten."
+  },
+  "k014": {
+   "sk": "Naše <span class=\"accent\">produkty</span>",
+   "cs": "Naše <span class=\"accent\">produkty</span>",
+   "en": "Our <span class=\"accent\">products</span>",
+   "de": "Unsere <span class=\"accent\">Produkte</span>"
+  },
+  "k015": {
+   "sk": "Naše produkty",
+   "cs": "Naše produkty",
+   "en": "Our products",
+   "de": "Unsere Produkte"
+  },
+  "k016": {
+   "sk": "Kvalitné<br>certifikované palety",
+   "cs": "Kvalitní<br>certifikované palety",
+   "en": "Quality<br>certified pallets",
+   "de": "Zertifizierte<br>Qualitätspaletten"
+  },
+  "k017": {
+   "sk": "Rýchle a spoľahlivé<br>dodávky",
+   "cs": "Rychlé a spolehlivé<br>dodávky",
+   "en": "Fast &amp; reliable<br>delivery",
+   "de": "Schnelle &amp; zuverlässige<br>Lieferung"
+  },
+  "k018": {
+   "sk": "Pôsobíme<br>v celej Európe",
+   "cs": "Působíme<br>v celé Evropě",
+   "en": "Serving clients<br>across Europe",
+   "de": "Aktiv in<br>ganz Europa"
+  },
+  "k019": {
+   "sk": "Logistické centrum TS Palletium s paletami pripravenými na expedíciu",
+   "cs": "Logistické centrum TS Palletium s paletami připravenými k expedici",
+   "en": "TS Palletium logistics centre with pallets ready for dispatch",
+   "de": "TS-Palletium-Logistikzentrum mit versandbereiten Paletten"
+  },
+  "k020": {
+   "sk": "Nové aj použité palety a ďalšie riešenia podľa potrieb zákazníka. Povedzte nám, čo potrebujete, a pripravíme ponuku na mieru.",
+   "cs": "Nové i použité palety a další řešení podle potřeb zákazníka. Řekněte nám, co potřebujete, a připravíme nabídku na míru.",
+   "en": "New and used pallets and other solutions tailored to your needs. Tell us what you need and we will prepare a tailored offer.",
+   "de": "Neue und gebrauchte Paletten sowie weitere Lösungen nach Kundenbedarf. Sagen Sie uns, was Sie brauchen, und wir erstellen ein maßgeschneidertes Angebot."
+  },
+  "k021": {
+   "sk": "Nové aj použité palety",
+   "cs": "Nové i použité palety",
+   "en": "New and used pallets",
+   "de": "Neue und gebrauchte Paletten"
+  },
+  "k022": {
+   "sk": "Nové aj použité",
+   "cs": "Nové i použité",
+   "en": "New &amp; used",
+   "de": "Neu &amp; gebraucht"
+  },
+  "k023": {
+   "sk": "palety v ponuke",
+   "cs": "palety v nabídce",
+   "en": "pallets available",
+   "de": "Paletten im Angebot"
+  },
+  "k024": {
+   "sk": "Celá Európa",
+   "cs": "Celá Evropa",
+   "en": "All of Europe",
+   "de": "Ganz Europa"
+  },
+  "k025": {
+   "sk": "dodávky a výkup",
+   "cs": "dodávky a výkup",
+   "en": "supply &amp; buyback",
+   "de": "Lieferung &amp; Ankauf"
+  },
+  "k026": {
+   "sk": "Transparentná",
+   "cs": "Transparentní",
+   "en": "Transparent",
+   "de": "Transparente"
+  },
+  "k027": {
+   "sk": "B2B spolupráca",
+   "cs": "B2B spolupráce",
+   "en": "B2B cooperation",
+   "de": "B2B-Zusammenarbeit"
+  },
+  "k028": {
+   "sk": "Dlhodobé",
+   "cs": "Dlouhodobá",
+   "en": "Long-term",
+   "de": "Langfristige"
+  },
+  "k029": {
+   "sk": "obchodné partnerstvá",
+   "cs": "obchodní partnerství",
+   "en": "business partnerships",
+   "de": "Geschäftspartnerschaften"
+  },
+  "k030": {
+   "sk": "V našej ponuke nájdete nové aj použité palety vrátane EPAL / EUR paliet, CP1–CP9 chemických paliet, H1 hygienických plastových paliet, priemyselných paliet, jednocestných paliet a ďalších riešení podľa potrieb zákazníka.",
+   "cs": "V naší nabídce najdete nové i použité palety včetně EPAL / EUR palet, CP1–CP9 chemických palet, H1 hygienických plastových palet, průmyslových palet, jednocestných palet a dalších řešení podle potřeb zákazníka.",
+   "en": "Our range includes new and used pallets — EPAL / EUR pallets, CP1–CP9 chemical pallets, H1 hygienic plastic pallets, industrial pallets, one-way pallets and other solutions tailored to your needs.",
+   "de": "Unser Sortiment umfasst neue und gebrauchte Paletten — EPAL- / EUR-Paletten, Chemiepaletten CP1–CP9, hygienische H1-Kunststoffpaletten, Industriepaletten, Einwegpaletten und weitere Lösungen nach Kundenbedarf."
+  },
+  "k031": {
+   "sk": "V našej ponuke nájdete nové aj použité palety vrátane EPAL / EUR paliet, CP1–CP9 chemických paliet, H1 hygienických plastových paliet a ďalších riešení podľa potrieb zákazníka.",
+   "cs": "V naší nabídce najdete nové i použité palety včetně EPAL / EUR palet, CP1–CP9 chemických palet, H1 hygienických plastových palet a dalších řešení podle potřeb zákazníka.",
+   "en": "Our range includes new and used pallets — EPAL / EUR pallets, CP1–CP9 chemical pallets, H1 hygienic plastic pallets and other solutions tailored to your needs.",
+   "de": "Unser Sortiment umfasst neue und gebrauchte Paletten — EPAL- / EUR-Paletten, Chemiepaletten CP1–CP9, hygienische H1-Kunststoffpaletten und weitere Lösungen nach Kundenbedarf."
+  },
+  "k032": {
+   "sk": "Drevené palety",
+   "cs": "Dřevěné palety",
+   "en": "Wooden pallets",
+   "de": "Holzpaletten"
+  },
+  "k033": {
+   "sk": "Plastové palety",
+   "cs": "Plastové palety",
+   "en": "Plastic pallets",
+   "de": "Kunststoffpaletten"
+  },
+  "k034": {
+   "sk": "Špeciálne palety",
+   "cs": "Speciální palety",
+   "en": "Special pallets",
+   "de": "Spezialpaletten"
+  },
+  "k035": {
+   "sk": "EPAL / EUR <span class=\"accent\">palety</span>",
+   "cs": "EPAL / EUR <span class=\"accent\">palety</span>",
+   "en": "EPAL / EUR <span class=\"accent\">pallets</span>",
+   "de": "EPAL- / EUR-<span class=\"accent\">Paletten</span>"
+  },
+  "k036": {
+   "sk": "H1 hygienické <span class=\"accent\">plastové palety</span>",
+   "cs": "H1 hygienické <span class=\"accent\">plastové palety</span>",
+   "en": "H1 hygienic <span class=\"accent\">plastic pallets</span>",
+   "de": "Hygienische H1-<span class=\"accent\">Kunststoffpaletten</span>"
+  },
+  "k037": {
+   "sk": "Chemické palety <span class=\"accent\">CP1–CP9</span>",
+   "cs": "Chemické palety <span class=\"accent\">CP1–CP9</span>",
+   "en": "Chemical pallets <span class=\"accent\">CP1–CP9</span>",
+   "de": "Chemiepaletten <span class=\"accent\">CP1–CP9</span>"
+  },
+  "k038": {
+   "sk": "Chemické palety <span class=\"accent\">CP1 – CP9</span>",
+   "cs": "Chemické palety <span class=\"accent\">CP1 – CP9</span>",
+   "en": "Chemical pallets <span class=\"accent\">CP1 – CP9</span>",
+   "de": "Chemiepaletten <span class=\"accent\">CP1 – CP9</span>"
+  },
+  "k039": {
+   "sk": "Kvalitné certifikované EPAL / EUR palety dostupné v novom aj použitom stave, v súlade s európskymi štandardmi.",
+   "cs": "Kvalitní certifikované EPAL / EUR palety dostupné v novém i použitém stavu, v souladu s evropskými standardy.",
+   "en": "High-quality certified EPAL / EUR pallets available new and used, compliant with European standards.",
+   "de": "Hochwertige zertifizierte EPAL- / EUR-Paletten, neu und gebraucht erhältlich, konform mit europäischen Standards."
+  },
+  "k040": {
+   "sk": "Hygienické palety ideálne pre potravinársky, farmaceutický a zdravotnícky priemysel.",
+   "cs": "Hygienické palety ideální pro potravinářský, farmaceutický a zdravotnický průmysl.",
+   "en": "Hygienic pallets ideal for the food, pharmaceutical and healthcare industries.",
+   "de": "Hygienepaletten, ideal für die Lebensmittel-, Pharma- und Gesundheitsbranche."
+  },
+  "k041": {
+   "sk": "Štandardizované chemické palety CP1 až CP9, priemyselné a jednocestné palety podľa potrieb vašej prevádzky.",
+   "cs": "Standardizované chemické palety CP1 až CP9, průmyslové a jednocestné palety podle potřeb vašeho provozu.",
+   "en": "Standardised CP1–CP9 chemical pallets, industrial and one-way pallets to match your operation.",
+   "de": "Standardisierte Chemiepaletten CP1 bis CP9, Industrie- und Einwegpaletten nach den Anforderungen Ihres Betriebs."
+  },
+  "k042": {
+   "sk": "Celá ponuka produktov",
+   "cs": "Celá nabídka produktů",
+   "en": "View all products",
+   "de": "Alle Produkte ansehen"
+  },
+  "k043": {
+   "sk": "EPAL / EUR drevené palety",
+   "cs": "EPAL / EUR dřevěné palety",
+   "en": "EPAL / EUR wooden pallets",
+   "de": "EPAL- / EUR-Holzpaletten"
+  },
+  "k044": {
+   "sk": "H1 hygienická plastová paleta",
+   "cs": "H1 hygienická plastová paleta",
+   "en": "H1 hygienic plastic pallet",
+   "de": "Hygienische H1-Kunststoffpalette"
+  },
+  "k045": {
+   "sk": "Chemické a priemyselné palety",
+   "cs": "Chemické a průmyslové palety",
+   "en": "Chemical and industrial pallets",
+   "de": "Chemie- und Industriepaletten"
+  },
+  "k046": {
+   "sk": "Nové aj použité palety: EPAL / EUR palety, chemické palety CP1–CP9, H1 hygienické plastové palety, priemyselné a jednocestné palety. TS Palletium.",
+   "cs": "Nové i použité palety: EPAL / EUR palety, chemické palety CP1–CP9, H1 hygienické plastové palety, průmyslové a jednocestné palety. TS Palletium.",
+   "en": "New and used pallets: EPAL / EUR pallets, CP1–CP9 chemical pallets, H1 hygienic plastic pallets, industrial and one-way pallets. TS Palletium.",
+   "de": "Neue und gebrauchte Paletten: EPAL- / EUR-Paletten, Chemiepaletten CP1–CP9, hygienische H1-Kunststoffpaletten, Industrie- und Einwegpaletten. TS Palletium."
+  },
+  "k047": {
+   "sk": "Certifikované europalety 1200 × 800 mm — základ európskej logistiky. Dostupné v novom aj použitom stave, vhodné pre výmenné systémy a v súlade s európskymi štandardmi.",
+   "cs": "Certifikované europalety 1200 × 800 mm — základ evropské logistiky. Dostupné v novém i použitém stavu, vhodné pro výměnné systémy a v souladu s evropskými standardy.",
+   "en": "Certified Euro pallets 1200 × 800 mm — the backbone of European logistics. Available new and used, suitable for exchange systems and compliant with European standards.",
+   "de": "Zertifizierte Europaletten 1200 × 800 mm — das Rückgrat der europäischen Logistik. Neu und gebraucht erhältlich, tauschfähig und konform mit europäischen Standards."
+  },
+  "k048": {
+   "sk": "Chemický priemysel",
+   "cs": "Chemický průmysl",
+   "en": "Chemical industry",
+   "de": "Chemieindustrie"
+  },
+  "k049": {
+   "sk": "Štandardizované palety CP1 až CP9 vyvinuté pre chemický priemysel. Rôzne rozmery a nosnosti podľa konkrétneho typu prevádzky a prepravovaného materiálu.",
+   "cs": "Standardizované palety CP1 až CP9 vyvinuté pro chemický průmysl. Různé rozměry a nosnosti podle konkrétního typu provozu a přepravovaného materiálu.",
+   "en": "Standardised CP1 to CP9 pallets developed for the chemical industry. Various dimensions and load capacities depending on your operation and the material transported.",
+   "de": "Standardisierte Paletten CP1 bis CP9, entwickelt für die Chemieindustrie. Verschiedene Abmessungen und Tragfähigkeiten je nach Betrieb und Transportgut."
+  },
+  "k050": {
+   "sk": "Hygienické plastové palety ideálne pre potravinársky, farmaceutický a zdravotnícky priemysel. Ľahko umývateľné, odolné a vhodné do prevádzok s vysokými hygienickými nárokmi.",
+   "cs": "Hygienické plastové palety ideální pro potravinářský, farmaceutický a zdravotnický průmysl. Snadno omyvatelné, odolné a vhodné do provozů s vysokými hygienickými nároky.",
+   "en": "Hygienic plastic pallets ideal for the food, pharmaceutical and healthcare industries. Easy to wash, durable and suitable for operations with strict hygiene requirements.",
+   "de": "Hygienische Kunststoffpaletten, ideal für Lebensmittel-, Pharma- und Gesundheitsbranche. Leicht zu reinigen, robust und geeignet für Betriebe mit hohen Hygieneanforderungen."
+  },
+  "k051": {
+   "sk": "Priemyselné <span class=\"accent\">palety</span>",
+   "cs": "Průmyslové <span class=\"accent\">palety</span>",
+   "en": "Industrial <span class=\"accent\">pallets</span>",
+   "de": "Industrie&shy;<span class=\"accent\">paletten</span>"
+  },
+  "k052": {
+   "sk": "Priemysel",
+   "cs": "Průmysl",
+   "en": "Industrial",
+   "de": "Industrie"
+  },
+  "k053": {
+   "sk": "Palety pre priemyselné použitie v rôznych rozmeroch a vyhotoveniach — podľa požiadaviek vašej výroby, skladovania alebo distribúcie.",
+   "cs": "Palety pro průmyslové použití v různých rozměrech a provedeních — podle požadavků vaší výroby, skladování nebo distribuce.",
+   "en": "Pallets for industrial use in various dimensions and designs — matched to your production, warehousing or distribution requirements.",
+   "de": "Paletten für den industriellen Einsatz in verschiedenen Abmessungen und Ausführungen — passend zu Ihren Produktions-, Lager- oder Distributionsanforderungen."
+  },
+  "k054": {
+   "sk": "Jednocestné <span class=\"accent\">palety</span>",
+   "cs": "Jednocestné <span class=\"accent\">palety</span>",
+   "en": "One-way <span class=\"accent\">pallets</span>",
+   "de": "Einweg&shy;<span class=\"accent\">paletten</span>"
+  },
+  "k055": {
+   "sk": "Ekonomické riešenie pre jednosmernú prepravu a export. Vyrábané v rozmeroch podľa potrieb zákazníka bez nutnosti spätného zvozu.",
+   "cs": "Ekonomické řešení pro jednosměrnou přepravu a export. Vyráběné v rozměrech podle potřeb zákazníka bez nutnosti zpětného svozu.",
+   "en": "An economical solution for one-way transport and export. Made to customer dimensions with no return logistics required.",
+   "de": "Die wirtschaftliche Lösung für Einwegtransporte und Export. Gefertigt in kundenspezifischen Abmessungen, ohne Rückführungslogistik."
+  },
+  "k056": {
+   "sk": "Riešenia <span class=\"accent\">na mieru</span>",
+   "cs": "Řešení <span class=\"accent\">na míru</span>",
+   "en": "Tailor-made <span class=\"accent\">solutions</span>",
+   "de": "Maßgeschneiderte <span class=\"accent\">Lösungen</span>"
+  },
+  "k057": {
+   "sk": "Individuálny <span class=\"accent\">prístup</span>",
+   "cs": "Individuální <span class=\"accent\">přístup</span>",
+   "en": "Individual <span class=\"accent\">approach</span>",
+   "de": "Individueller <span class=\"accent\">Ansatz</span>"
+  },
+  "k058": {
+   "sk": "Každému klientovi pristupujeme individuálne. Či už potrebujete jednorazovú dodávku alebo dlhodobého obchodného partnera, naším cieľom je poskytovať spoľahlivé služby, transparentnú komunikáciu a riešenia, na ktoré sa môžete spoľahnúť.",
+   "cs": "Ke každému klientovi přistupujeme individuálně. Ať už potřebujete jednorázovou dodávku, nebo dlouhodobého obchodního partnera, naším cílem je poskytovat spolehlivé služby, transparentní komunikaci a řešení, na která se můžete spolehnout.",
+   "en": "We treat every client individually. Whether you need a one-off delivery or a long-term business partner, our goal is to provide reliable service, transparent communication and solutions you can count on.",
+   "de": "Wir betreuen jeden Kunden individuell. Ob Einmallieferung oder langfristige Partnerschaft — unser Ziel sind zuverlässiger Service, transparente Kommunikation und Lösungen, auf die Sie sich verlassen können."
+  },
+  "k059": {
+   "sk": "jednorazové aj pravidelné dodávky",
+   "cs": "jednorázové i pravidelné dodávky",
+   "en": "one-off and regular deliveries",
+   "de": "Einmal- und Regelmäßige Lieferungen"
+  },
+  "k060": {
+   "sk": "flexibilné objemy podľa vašej prevádzky",
+   "cs": "flexibilní objemy podle vašeho provozu",
+   "en": "flexible volumes to suit your operation",
+   "de": "flexible Mengen je nach Betrieb"
+  },
+  "k061": {
+   "sk": "nové aj použité palety podľa požiadaviek",
+   "cs": "nové i použité palety podle požadavků",
+   "en": "new and used pallets on request",
+   "de": "neue und gebrauchte Paletten nach Bedarf"
+  },
+  "k062": {
+   "sk": "logistická koordinácia dodávok v celej Európe",
+   "cs": "logistická koordinace dodávek v celé Evropě",
+   "en": "logistics coordination across Europe",
+   "de": "logistische Koordination europaweit"
+  },
+  "k063": {
+   "sk": "Nenašli ste, čo hľadáte?",
+   "cs": "Nenašli jste, co hledáte?",
+   "en": "Can't find what you're looking for?",
+   "de": "Nicht gefunden, was Sie suchen?"
+  },
+  "k064": {
+   "sk": "Ponuku pripravujeme vždy individuálne — podľa množstva, typu paliet, miesta a termínu dodania. Napíšte nám, čo potrebujete.",
+   "cs": "Nabídku připravujeme vždy individuálně — podle množství, typu palet, místa a termínu dodání. Napište nám, co potřebujete.",
+   "en": "Every offer is prepared individually — based on quantity, pallet type, delivery location and date. Tell us what you need.",
+   "de": "Jedes Angebot wird individuell erstellt — nach Menge, Palettentyp, Lieferort und Termin. Schreiben Sie uns, was Sie brauchen."
+  },
+  "k065": {
+   "sk": "Kontaktovať nás",
+   "cs": "Kontaktovat nás",
+   "en": "Contact us",
+   "de": "Kontaktieren Sie uns"
+  },
+  "k066": {
+   "sk": "Chemické palety CP1 až CP9",
+   "cs": "Chemické palety CP1 až CP9",
+   "en": "CP1 to CP9 chemical pallets",
+   "de": "Chemiepaletten CP1 bis CP9"
+  },
+  "k067": {
+   "sk": "Priemyselné palety",
+   "cs": "Průmyslové palety",
+   "en": "Industrial pallets",
+   "de": "Industriepaletten"
+  },
+  "k068": {
+   "sk": "Jednocestné palety",
+   "cs": "Jednocestné palety",
+   "en": "One-way pallets",
+   "de": "Einwegpaletten"
+  },
+  "k069": {
+   "sk": "Logistika a manipulácia s paletami",
+   "cs": "Logistika a manipulace s paletami",
+   "en": "Pallet logistics and handling",
+   "de": "Palettenlogistik und -handling"
+  },
+  "k070": {
+   "sk": "Hlavné <span class=\"accent\">činnosti</span>",
+   "cs": "Hlavní <span class=\"accent\">činnosti</span>",
+   "en": "What <span class=\"accent\">we do</span>",
+   "de": "Unsere <span class=\"accent\">Leistungen</span>"
+  },
+  "k071": {
+   "sk": "Pokrývame celý obchodný a logistický cyklus palety — od výkupu cez dodávky až po koordináciu pohybu medzi dodávateľmi a odberateľmi.",
+   "cs": "Pokrýváme celý obchodní a logistický cyklus palety — od výkupu přes dodávky až po koordinaci pohybu mezi dodavateli a odběrateli.",
+   "en": "We cover the entire trading and logistics cycle of a pallet — from buyback through supply to coordinating movement between suppliers and customers.",
+   "de": "Wir decken den gesamten Handels- und Logistikzyklus einer Palette ab — vom Ankauf über die Lieferung bis zur Koordination zwischen Lieferanten und Abnehmern."
+  },
+  "k072": {
+   "sk": "Výkup a nákup použitých EPAL paliet",
+   "cs": "Výkup a nákup použitých EPAL palet",
+   "en": "Buyback and purchase of used EPAL pallets",
+   "de": "Ankauf gebrauchter EPAL-Paletten"
+  },
+  "k073": {
+   "sk": "Výkup a nákup paliet",
+   "cs": "Výkup a nákup palet",
+   "en": "Pallet buyback &amp; purchasing",
+   "de": "Ankauf von Paletten"
+  },
+  "k074": {
+   "sk": "Zabezpečujeme výkup a nákup nových aj použitých EUR, priemyselných a ďalších typov drevených paliet od spoločností naprieč Európou. Celý proces je rýchly, transparentný a logisticky koordinovaný.",
+   "cs": "Zajišťujeme výkup a nákup nových i použitých EUR, průmyslových a dalších typů dřevěných palet od společností napříč Evropou. Celý proces je rychlý, transparentní a logisticky koordinovaný.",
+   "en": "We buy new and used EUR, industrial and other types of wooden pallets from companies across Europe. The entire process is fast, transparent and logistically coordinated.",
+   "de": "Wir kaufen neue und gebrauchte EUR-, Industrie- und andere Holzpaletten von Unternehmen in ganz Europa an. Der gesamte Prozess ist schnell, transparent und logistisch koordiniert."
+  },
+  "k075": {
+   "sk": "Dodávky nových a použitých paliet",
+   "cs": "Dodávky nových a použitých palet",
+   "en": "Supply of new and used pallets",
+   "de": "Lieferung neuer und gebrauchter Paletten"
+  },
+  "k076": {
+   "sk": "Dodávky paliet",
+   "cs": "Dodávky palet",
+   "en": "Pallet supply",
+   "de": "Palettenlieferung"
+  },
+  "k077": {
+   "sk": "Dodávame nové aj použité drevené a plastové palety pre výrobu, skladovanie, logistiku a distribúciu podľa individuálnych požiadaviek zákazníkov a v súlade s európskymi štandardmi.",
+   "cs": "Dodáváme nové i použité dřevěné a plastové palety pro výrobu, skladování, logistiku a distribuci podle individuálních požadavků zákazníků a v souladu s evropskými standardy.",
+   "en": "We supply new and used wooden and plastic pallets for production, warehousing, logistics and distribution — to individual customer requirements and in line with European standards.",
+   "de": "Wir liefern neue und gebrauchte Holz- und Kunststoffpaletten für Produktion, Lagerung, Logistik und Distribution — nach individuellen Kundenanforderungen und gemäß europäischen Standards."
+  },
+  "k078": {
+   "sk": "Logistická koordinácia dodávok paliet",
+   "cs": "Logistická koordinace dodávek palet",
+   "en": "Logistics coordination of pallet deliveries",
+   "de": "Logistische Koordination von Palettenlieferungen"
+  },
+  "k079": {
+   "sk": "Logistická koordinácia",
+   "cs": "Logistická koordinace",
+   "en": "Logistics coordination",
+   "de": "Logistische Koordination"
+  },
+  "k080": {
+   "sk": "Koordinujeme pohyb paliet medzi dodávateľmi a odberateľmi tak, aby boli zabezpečené spoľahlivé dodávky, efektívne využitie kapacít a plynulosť logistických procesov.",
+   "cs": "Koordinujeme pohyb palet mezi dodavateli a odběrateli tak, aby byly zajištěny spolehlivé dodávky, efektivní využití kapacit a plynulost logistických procesů.",
+   "en": "We coordinate the movement of pallets between suppliers and customers to ensure reliable deliveries, efficient use of capacity and smooth logistics processes.",
+   "de": "Wir koordinieren den Palettenfluss zwischen Lieferanten und Abnehmern — für zuverlässige Lieferungen, effiziente Kapazitätsauslastung und reibungslose Logistikprozesse."
+  },
+  "k081": {
+   "sk": "Prečo <span class=\"accent\">TS Palletium</span>",
+   "cs": "Proč <span class=\"accent\">TS Palletium</span>",
+   "en": "Why <span class=\"accent\">TS Palletium</span>",
+   "de": "Warum <span class=\"accent\">TS Palletium</span>"
+  },
+  "k082": {
+   "sk": "V modernej logistike nie je paleta iba prepravným nosičom — je neoddeliteľnou súčasťou infraštruktúry dodávateľského reťazca. Preto sa zameriavame na stabilný, predvídateľný a efektívny tok paliet.",
+   "cs": "V moderní logistice není paleta jen přepravním nosičem — je nedílnou součástí infrastruktury dodavatelského řetězce. Proto se zaměřujeme na stabilní, předvídatelný a efektivní tok palet.",
+   "en": "In modern logistics, a pallet is not just a carrier — it is an integral part of supply chain infrastructure. That is why we focus on a stable, predictable and efficient flow of pallets.",
+   "de": "In der modernen Logistik ist die Palette nicht nur ein Ladungsträger — sie ist fester Bestandteil der Lieferketten-Infrastruktur. Deshalb konzentrieren wir uns auf einen stabilen, planbaren und effizienten Palettenfluss."
+  },
+  "k083": {
+   "sk": "stabilné dodávky paliet v rámci celej Európy",
+   "cs": "stabilní dodávky palet v rámci celé Evropy",
+   "en": "stable pallet supply across Europe",
+   "de": "stabile Palettenlieferungen in ganz Europa"
+  },
+  "k084": {
+   "sk": "stabilné dodávky v rámci celej Európy",
+   "cs": "stabilní dodávky v rámci celé Evropy",
+   "en": "stable supply across Europe",
+   "de": "stabile Lieferungen in ganz Europa"
+  },
+  "k085": {
+   "sk": "spoľahlivá logistická koordinácia",
+   "cs": "spolehlivá logistická koordinace",
+   "en": "reliable logistics coordination",
+   "de": "zuverlässige logistische Koordination"
+  },
+  "k086": {
+   "sk": "rýchle obchodné riešenia",
+   "cs": "rychlá obchodní řešení",
+   "en": "fast business solutions",
+   "de": "schnelle Handelslösungen"
+  },
+  "k087": {
+   "sk": "transparentná B2B spolupráca",
+   "cs": "transparentní B2B spolupráce",
+   "en": "transparent B2B cooperation",
+   "de": "transparente B2B-Zusammenarbeit"
+  },
+  "k088": {
+   "sk": "individuálny prístup ku každému partnerovi",
+   "cs": "individuální přístup ke každému partnerovi",
+   "en": "individual approach to every partner",
+   "de": "individueller Ansatz für jeden Partner"
+  },
+  "k089": {
+   "sk": "flexibilné objemy dodávok",
+   "cs": "flexibilní objemy dodávek",
+   "en": "flexible delivery volumes",
+   "de": "flexible Liefermengen"
+  },
+  "k090": {
+   "sk": "dlhodobé obchodné partnerstvá",
+   "cs": "dlouhodobá obchodní partnerství",
+   "en": "long-term business partnerships",
+   "de": "langfristige Geschäftspartnerschaften"
+  },
+  "k091": {
+   "sk": "dôraz na kvalitu, spoľahlivosť a kontinuitu dodávok",
+   "cs": "důraz na kvalitu, spolehlivost a kontinuitu dodávek",
+   "en": "focus on quality, reliability and continuity of supply",
+   "de": "Fokus auf Qualität, Zuverlässigkeit und Lieferkontinuität"
+  },
+  "k092": {
+   "sk": "dôraz na kvalitu a kontinuitu dodávok",
+   "cs": "důraz na kvalitu a kontinuitu dodávek",
+   "en": "focus on quality and continuity of supply",
+   "de": "Fokus auf Qualität und Lieferkontinuität"
+  },
+  "k093": {
+   "sk": "Manipulácia s EPAL paletami na sklade",
+   "cs": "Manipulace s EPAL paletami na skladě",
+   "en": "Handling EPAL pallets in the warehouse",
+   "de": "Handling von EPAL-Paletten im Lager"
+  },
+  "k094": {
+   "sk": "TS Palletium je moderná B2B spoločnosť zameraná na nákup, predaj, dodávky a logistickú koordináciu drevených a plastových paliet v rámci európskeho trhu.",
+   "cs": "TS Palletium je moderní B2B společnost zaměřená na nákup, prodej, dodávky a logistickou koordinaci dřevěných a plastových palet v rámci evropského trhu.",
+   "en": "TS Palletium is a modern B2B company focused on the purchase, sale, supply and logistics coordination of wooden and plastic pallets across the European market.",
+   "de": "TS Palletium ist ein modernes B2B-Unternehmen, spezialisiert auf Ankauf, Verkauf, Lieferung und logistische Koordination von Holz- und Kunststoffpaletten auf dem europäischen Markt."
+  },
+  "k095": {
+   "sk": "Spájame výrobcov, dodávateľov a odberateľov do spoľahlivej obchodnej siete, ktorá zabezpečuje stabilné dodávky paliet pre výrobný, logistický a distribučný sektor. Naším cieľom je prinášať do paletovej logistiky stabilitu, efektivitu a transparentnosť, ktoré sú nevyhnutné pre moderné dodávateľské reťazce.",
+   "cs": "Spojujeme výrobce, dodavatele a odběratele do spolehlivé obchodní sítě, která zajišťuje stabilní dodávky palet pro výrobní, logistický a distribuční sektor. Naším cílem je přinášet do paletové logistiky stabilitu, efektivitu a transparentnost, které jsou nezbytné pro moderní dodavatelské řetězce.",
+   "en": "We connect manufacturers, suppliers and customers into a reliable trading network that ensures stable pallet supply for the manufacturing, logistics and distribution sectors. Our goal is to bring the stability, efficiency and transparency that modern supply chains demand.",
+   "de": "Wir verbinden Hersteller, Lieferanten und Abnehmer zu einem zuverlässigen Handelsnetzwerk, das eine stabile Palettenversorgung für Produktion, Logistik und Distribution sicherstellt. Unser Ziel: Stabilität, Effizienz und Transparenz, wie moderne Lieferketten sie brauchen."
+  },
+  "k096": {
+   "sk": "Spájame výrobcov, dodávateľov a odberateľov do spoľahlivej obchodnej siete, ktorá zabezpečuje stabilné dodávky paliet pre výrobný, logistický a distribučný sektor. Naším cieľom je prinášať do paletovej logistiky stabilitu, efektivitu a transparentnosť.",
+   "cs": "Spojujeme výrobce, dodavatele a odběratele do spolehlivé obchodní sítě, která zajišťuje stabilní dodávky palet pro výrobní, logistický a distribuční sektor. Naším cílem je přinášet do paletové logistiky stabilitu, efektivitu a transparentnost.",
+   "en": "We connect manufacturers, suppliers and customers into a reliable trading network that ensures stable pallet supply for the manufacturing, logistics and distribution sectors. Our goal is to bring stability, efficiency and transparency to pallet logistics.",
+   "de": "Wir verbinden Hersteller, Lieferanten und Abnehmer zu einem zuverlässigen Handelsnetzwerk, das eine stabile Palettenversorgung für Produktion, Logistik und Distribution sicherstellt. Unser Ziel: Stabilität, Effizienz und Transparenz in der Palettenlogistik."
+  },
+  "k097": {
+   "sk": "Spájame výrobcov, dodávateľov a odberateľov paliet do spoľahlivej obchodnej siete pre celú Európu.",
+   "cs": "Spojujeme výrobce, dodavatele a odběratele palet do spolehlivé obchodní sítě pro celou Evropu.",
+   "en": "Connecting pallet manufacturers, suppliers and customers into a reliable trading network for all of Europe.",
+   "de": "Wir verbinden Hersteller, Lieferanten und Abnehmer von Paletten zu einem zuverlässigen Handelsnetzwerk für ganz Europa."
+  },
+  "k098": {
+   "sk": "Účelom našej spoločnosti je pomáhať výrobcom, dodávateľom a odberateľom obchodovať s paletami jednoduchšie, rýchlejšie, bezpečnejšie a výhodnejšie.",
+   "cs": "Účelem naší společnosti je pomáhat výrobcům, dodavatelům a odběratelům obchodovat s paletami jednodušeji, rychleji, bezpečněji a výhodněji.",
+   "en": "Our purpose is to help manufacturers, suppliers and customers trade pallets more simply, faster, more safely and at better value.",
+   "de": "Unser Zweck ist es, Herstellern, Lieferanten und Abnehmern den Palettenhandel einfacher, schneller, sicherer und günstiger zu machen."
+  },
+  "k099": {
+   "sk": "Viac o nás",
+   "cs": "Více o nás",
+   "en": "More about us",
+   "de": "Mehr über uns"
+  },
+  "k100": {
+   "sk": "Sklad plný drevených EPAL paliet",
+   "cs": "Sklad plný dřevěných EPAL palet",
+   "en": "Warehouse full of wooden EPAL pallets",
+   "de": "Lager voller EPAL-Holzpaletten"
+  },
+  "k101": {
+   "sk": "Sklad EPAL paliet TS Palletium",
+   "cs": "Sklad EPAL palet TS Palletium",
+   "en": "TS Palletium EPAL pallet warehouse",
+   "de": "EPAL-Palettenlager von TS Palletium"
+  },
+  "k102": {
+   "sk": "Kto <span class=\"accent\">sme</span>",
+   "cs": "Kdo <span class=\"accent\">jsme</span>",
+   "en": "Who <span class=\"accent\">we are</span>",
+   "de": "Wer <span class=\"accent\">wir sind</span>"
+  },
+  "k103": {
+   "sk": "Náš <span class=\"accent\">prístup</span>",
+   "cs": "Náš <span class=\"accent\">přístup</span>",
+   "en": "Our <span class=\"accent\">approach</span>",
+   "de": "Unser <span class=\"accent\">Ansatz</span>"
+  },
+  "k104": {
+   "sk": "V modernej logistike nie je paleta iba prepravným nosičom. Je neoddeliteľnou súčasťou infraštruktúry dodávateľského reťazca.",
+   "cs": "V moderní logistice není paleta jen přepravním nosičem. Je nedílnou součástí infrastruktury dodavatelského řetězce.",
+   "en": "In modern logistics, a pallet is not just a carrier. It is an integral part of supply chain infrastructure.",
+   "de": "In der modernen Logistik ist die Palette nicht nur ein Ladungsträger. Sie ist fester Bestandteil der Lieferketten-Infrastruktur."
+  },
+  "k105": {
+   "sk": "Preto sa zameriavame na vytváranie stabilného, predvídateľného a efektívneho toku paliet, ktorý podporuje plynulosť výroby, skladovania a distribúcie.",
+   "cs": "Proto se zaměřujeme na vytváření stabilního, předvídatelného a efektivního toku palet, který podporuje plynulost výroby, skladování a distribuce.",
+   "en": "That is why we focus on creating a stable, predictable and efficient flow of pallets that keeps production, warehousing and distribution running smoothly.",
+   "de": "Deshalb konzentrieren wir uns auf einen stabilen, planbaren und effizienten Palettenfluss, der Produktion, Lagerung und Distribution reibungslos hält."
+  },
+  "k106": {
+   "sk": "Každý obchodný aj logistický proces budujeme na štyroch pilieroch:",
+   "cs": "Každý obchodní i logistický proces stavíme na čtyřech pilířích:",
+   "en": "Every business and logistics process we build stands on four pillars:",
+   "de": "Jeder Handels- und Logistikprozess bei uns steht auf vier Säulen:"
+  },
+  "k107": {
+   "sk": "spoľahlivosť",
+   "cs": "spolehlivost",
+   "en": "reliability",
+   "de": "Zuverlässigkeit"
+  },
+  "k108": {
+   "sk": "transparentnosť",
+   "cs": "transparentnost",
+   "en": "transparency",
+   "de": "Transparenz"
+  },
+  "k109": {
+   "sk": "flexibilita",
+   "cs": "flexibilita",
+   "en": "flexibility",
+   "de": "Flexibilität"
+  },
+  "k110": {
+   "sk": "dlhodobé partnerstvo",
+   "cs": "dlouhodobé partnerství",
+   "en": "long-term partnership",
+   "de": "langfristige Partnerschaft"
+  },
+  "k111": {
+   "sk": "Rady paliet v modernom sklade",
+   "cs": "Řady palet v moderním skladu",
+   "en": "Rows of pallets in a modern warehouse",
+   "de": "Palettenreihen in einem modernen Lager"
+  },
+  "k112": {
+   "sk": "Naša vízia: <span class=\"accent\">prepojená Európa paliet</span>",
+   "cs": "Naše vize: <span class=\"accent\">propojená Evropa palet</span>",
+   "en": "Our vision: <span class=\"accent\">a connected Europe of pallets</span>",
+   "de": "Unsere Vision: <span class=\"accent\">ein vernetztes Europa der Paletten</span>"
+  },
+  "k113": {
+   "sk": "Naša <span class=\"accent\">vízia</span>",
+   "cs": "Naše <span class=\"accent\">vize</span>",
+   "en": "Our <span class=\"accent\">vision</span>",
+   "de": "Unsere <span class=\"accent\">Vision</span>"
+  },
+  "k114": {
+   "sk": "Našou ambíciou je stať sa jedným z najspoľahlivejších partnerov pre obchodovanie s drevenými a plastovými paletami v Európe.",
+   "cs": "Naší ambicí je stát se jedním z nejspolehlivějších partnerů pro obchodování s dřevěnými a plastovými paletami v Evropě.",
+   "en": "Our ambition is to become one of the most reliable partners for trading wooden and plastic pallets in Europe.",
+   "de": "Unser Anspruch ist es, einer der zuverlässigsten Partner für den Handel mit Holz- und Kunststoffpaletten in Europa zu werden."
+  },
+  "k115": {
+   "sk": "Veríme, že budúcnosť paletového priemyslu spočíva vo väčšej prepojenosti, efektívnej logistike a transparentnej spolupráci medzi výrobcami, dodávateľmi a odberateľmi. Preto postupne budujeme silnú európsku obchodnú sieť, ktorá prispeje k efektívnejšiemu fungovaniu dnešného fragmentovaného trhu.",
+   "cs": "Věříme, že budoucnost paletového průmyslu spočívá ve větší propojenosti, efektivní logistice a transparentní spolupráci mezi výrobci, dodavateli a odběrateli. Proto postupně budujeme silnou evropskou obchodní síť, která přispěje k efektivnějšímu fungování dnešního fragmentovaného trhu.",
+   "en": "We believe the future of the pallet industry lies in greater connectivity, efficient logistics and transparent cooperation between manufacturers, suppliers and customers. That is why we are gradually building a strong European trading network to make today's fragmented market work more efficiently.",
+   "de": "Wir sind überzeugt, dass die Zukunft der Palettenbranche in stärkerer Vernetzung, effizienter Logistik und transparenter Zusammenarbeit zwischen Herstellern, Lieferanten und Abnehmern liegt. Deshalb bauen wir Schritt für Schritt ein starkes europäisches Handelsnetzwerk auf, das den heute fragmentierten Markt effizienter macht."
+  },
+  "k116": {
+   "sk": "Veríme, že budúcnosť paletového priemyslu spočíva vo väčšej prepojenosti, efektívnej logistike a transparentnej spolupráci medzi výrobcami, dodávateľmi a odberateľmi. Preto postupne budujeme silnú európsku obchodnú sieť.",
+   "cs": "Věříme, že budoucnost paletového průmyslu spočívá ve větší propojenosti, efektivní logistice a transparentní spolupráci mezi výrobci, dodavateli a odběrateli. Proto postupně budujeme silnou evropskou obchodní síť.",
+   "en": "We believe the future of the pallet industry lies in greater connectivity, efficient logistics and transparent cooperation between manufacturers, suppliers and customers. That is why we are gradually building a strong European trading network.",
+   "de": "Wir sind überzeugt, dass die Zukunft der Palettenbranche in stärkerer Vernetzung, effizienter Logistik und transparenter Zusammenarbeit zwischen Herstellern, Lieferanten und Abnehmern liegt. Deshalb bauen wir Schritt für Schritt ein starkes europäisches Handelsnetzwerk auf."
+  },
+  "k117": {
+   "sk": "Dlhodobou víziou spoločnosti TS Palletium je vybudovať poprednú európsku obchodnú platformu, ktorá bude prepájať výrobcov, dodávateľov a odberateľov paliet a zjednodušovať obchodovanie naprieč Európou.",
+   "cs": "Dlouhodobou vizí společnosti TS Palletium je vybudovat přední evropskou obchodní platformu, která bude propojovat výrobce, dodavatele a odběratele palet a zjednodušovat obchodování napříč Evropou.",
+   "en": "The long-term vision of TS Palletium is to build a leading European trading platform that connects pallet manufacturers, suppliers and customers and makes trading across Europe simpler.",
+   "de": "Die langfristige Vision von TS Palletium ist eine führende europäische Handelsplattform, die Hersteller, Lieferanten und Abnehmer von Paletten verbindet und den Handel in ganz Europa vereinfacht."
+  },
+  "k118": {
+   "sk": "Spoznajte našu víziu",
+   "cs": "Poznejte naši vizi",
+   "en": "Discover our vision",
+   "de": "Unsere Vision entdecken"
+  },
+  "k119": {
+   "sk": "S kým <span class=\"accent\">spolupracujeme</span>",
+   "cs": "S kým <span class=\"accent\">spolupracujeme</span>",
+   "en": "Who we <span class=\"accent\">work with</span>",
+   "de": "Mit wem wir <span class=\"accent\">zusammenarbeiten</span>"
+  },
+  "k120": {
+   "sk": "Spolupracujeme s výrobnými podnikmi, logistickými operátormi, distribučnými centrami, skladovými spoločnosťami a priemyselnými firmami naprieč Európou. Tam, kde palety predstavujú neoddeliteľnú súčasť každodennej prevádzky, prinášame stabilitu, spoľahlivosť a dlhodobé partnerstvo.",
+   "cs": "Spolupracujeme s výrobními podniky, logistickými operátory, distribučními centry, skladovými společnostmi a průmyslovými firmami napříč Evropou. Tam, kde palety představují nedílnou součást každodenního provozu, přinášíme stabilitu, spolehlivost a dlouhodobé partnerství.",
+   "en": "We work with manufacturing companies, logistics operators, distribution centres, warehousing companies and industrial firms across Europe. Wherever pallets are an integral part of daily operations, we bring stability, reliability and long-term partnership.",
+   "de": "Wir arbeiten mit Produktionsbetrieben, Logistikdienstleistern, Distributionszentren, Lagerunternehmen und Industriefirmen in ganz Europa zusammen. Überall dort, wo Paletten fester Bestandteil des Tagesgeschäfts sind, bringen wir Stabilität, Zuverlässigkeit und langfristige Partnerschaft."
+  },
+  "k121": {
+   "sk": "Spolupracujeme s výrobnými podnikmi, logistickými operátormi, distribučnými centrami, skladovými spoločnosťami a priemyselnými firmami naprieč Európou.",
+   "cs": "Spolupracujeme s výrobními podniky, logistickými operátory, distribučními centry, skladovými společnostmi a průmyslovými firmami napříč Evropou.",
+   "en": "We work with manufacturing companies, logistics operators, distribution centres, warehousing companies and industrial firms across Europe.",
+   "de": "Wir arbeiten mit Produktionsbetrieben, Logistikdienstleistern, Distributionszentren, Lagerunternehmen und Industriefirmen in ganz Europa zusammen."
+  },
+  "k122": {
+   "sk": "Tam, kde palety predstavujú neoddeliteľnú súčasť každodennej prevádzky, prinášame stabilitu, spoľahlivosť, efektívnu koordináciu a dlhodobé obchodné partnerstvo.",
+   "cs": "Tam, kde palety představují nedílnou součást každodenního provozu, přinášíme stabilitu, spolehlivost, efektivní koordinaci a dlouhodobé obchodní partnerství.",
+   "en": "Wherever pallets are an integral part of daily operations, we bring stability, reliability, efficient coordination and long-term business partnership.",
+   "de": "Überall dort, wo Paletten fester Bestandteil des Tagesgeschäfts sind, bringen wir Stabilität, Zuverlässigkeit, effiziente Koordination und langfristige Geschäftspartnerschaft."
+  },
+  "k123": {
+   "sk": "Výroba a priemysel",
+   "cs": "Výroba a průmysl",
+   "en": "Manufacturing &amp; industry",
+   "de": "Produktion &amp; Industrie"
+  },
+  "k124": {
+   "sk": "Výrobné podniky a priemyselné firmy, ktoré potrebujú stabilný prísun paliet pre svoju produkciu.",
+   "cs": "Výrobní podniky a průmyslové firmy, které potřebují stabilní přísun palet pro svou produkci.",
+   "en": "Manufacturing and industrial companies that need a stable inflow of pallets for their production.",
+   "de": "Produktions- und Industrieunternehmen, die einen stabilen Palettennachschub für ihre Fertigung brauchen."
+  },
+  "k125": {
+   "sk": "Logistika a distribúcia",
+   "cs": "Logistika a distribuce",
+   "en": "Logistics &amp; distribution",
+   "de": "Logistik &amp; Distribution"
+  },
+  "k126": {
+   "sk": "Logistickí operátori a distribučné centrá, pre ktoré je plynulý tok paliet základom prevádzky.",
+   "cs": "Logističtí operátoři a distribuční centra, pro které je plynulý tok palet základem provozu.",
+   "en": "Logistics operators and distribution centres for whom a smooth flow of pallets is the backbone of operations.",
+   "de": "Logistikdienstleister und Distributionszentren, für die ein reibungsloser Palettenfluss die Basis des Betriebs ist."
+  },
+  "k127": {
+   "sk": "Sklady a obchod",
+   "cs": "Sklady a obchod",
+   "en": "Warehousing &amp; trade",
+   "de": "Lager &amp; Handel"
+  },
+  "k128": {
+   "sk": "Skladové spoločnosti a obchodní partneri, ktorí hľadajú spoľahlivý výkup aj dodávky paliet.",
+   "cs": "Skladové společnosti a obchodní partneři, kteří hledají spolehlivý výkup i dodávky palet.",
+   "en": "Warehousing companies and trading partners looking for reliable pallet buyback and supply.",
+   "de": "Lagerunternehmen und Handelspartner, die zuverlässigen Ankauf und Lieferung von Paletten suchen."
+  },
+  "k129": {
+   "sk": "Spolupráca",
+   "cs": "Spolupráce",
+   "en": "Partnerships",
+   "de": "Zusammenarbeit"
+  },
+  "k130": {
+   "sk": "Hľadáte spoľahlivého partnera pre palety?",
+   "cs": "Hledáte spolehlivého partnera pro palety?",
+   "en": "Looking for a reliable pallet partner?",
+   "de": "Suchen Sie einen zuverlässigen Partner für Paletten?"
+  },
+  "k131": {
+   "sk": "Potrebujete poradiť a rýchlo doručiť palety? Kontaktujte nás a radi vám pripravíme riešenie prispôsobené potrebám vašej spoločnosti.",
+   "cs": "Potřebujete poradit a rychle doručit palety? Kontaktujte nás a rádi vám připravíme řešení přizpůsobené potřebám vaší společnosti.",
+   "en": "Need advice and fast pallet delivery? Contact us and we will gladly prepare a solution tailored to your company's needs.",
+   "de": "Sie brauchen Beratung und schnelle Palettenlieferung? Kontaktieren Sie uns — wir erstellen gerne eine Lösung nach den Bedürfnissen Ihres Unternehmens."
+  },
+  "k132": {
+   "sk": "Staňte sa naším obchodným partnerom",
+   "cs": "Staňte se naším obchodním partnerem",
+   "en": "Become our business partner",
+   "de": "Werden Sie unser Geschäftspartner"
+  },
+  "k133": {
+   "sk": "Či už potrebujete jednorazovú dodávku alebo dlhodobého obchodného partnera, pripravíme vám riešenie na mieru.",
+   "cs": "Ať už potřebujete jednorázovou dodávku, nebo dlouhodobého obchodního partnera, připravíme vám řešení na míru.",
+   "en": "Whether you need a one-off delivery or a long-term business partner, we will prepare a tailored solution.",
+   "de": "Ob Einmallieferung oder langfristige Partnerschaft — wir erstellen Ihnen eine maßgeschneiderte Lösung."
+  },
+  "k134": {
+   "sk": "Obchodujte s paletami jednoduchšie",
+   "cs": "Obchodujte s paletami jednodušeji",
+   "en": "Trade pallets the easy way",
+   "de": "Palettenhandel — einfach gemacht"
+  },
+  "k135": {
+   "sk": "Jednoduchšie, rýchlejšie, bezpečnejšie a výhodnejšie — to je TS Palletium.",
+   "cs": "Jednodušeji, rychleji, bezpečněji a výhodněji — to je TS Palletium.",
+   "en": "Simpler, faster, safer and at better value — that is TS Palletium.",
+   "de": "Einfacher, schneller, sicherer und günstiger — das ist TS Palletium."
+  },
+  "k136": {
+   "sk": "Vyžiadajte si nezáväznú cenovú ponuku na drevené alebo plastové palety. TS Palletium — dodávky paliet v rámci celej Európy.",
+   "cs": "Vyžádejte si nezávaznou cenovou nabídku na dřevěné nebo plastové palety. TS Palletium — dodávky palet v rámci celé Evropy.",
+   "en": "Request a no-obligation quote for wooden or plastic pallets. TS Palletium — pallet supply across Europe.",
+   "de": "Fordern Sie ein unverbindliches Angebot für Holz- oder Kunststoffpaletten an. TS Palletium — Palettenlieferung in ganz Europa."
+  },
+  "k137": {
+   "sk": "Vyžiadať <span class=\"accent\">cenovú ponuku</span>",
+   "cs": "Vyžádat <span class=\"accent\">cenovou nabídku</span>",
+   "en": "Request a <span class=\"accent\">quote</span>",
+   "de": "Angebot <span class=\"accent\">anfordern</span>"
+  },
+  "k138": {
+   "sk": "Všetky cenové ponuky vypracúvame individuálne — na základe požadovaného množstva, typu paliet, miesta dodania, termínu a aktuálnej situácie na trhu.",
+   "cs": "Všechny cenové nabídky zpracováváme individuálně — na základě požadovaného množství, typu palet, místa dodání, termínu a aktuální situace na trhu.",
+   "en": "Every quote is prepared individually — based on the required quantity, pallet type, delivery location, date and current market situation.",
+   "de": "Jedes Angebot wird individuell erstellt — auf Basis von Menge, Palettentyp, Lieferort, Termin und aktueller Marktlage."
+  },
+  "k139": {
+   "sk": "Ako to prebieha",
+   "cs": "Jak to probíhá",
+   "en": "How it works",
+   "de": "So funktioniert es"
+  },
+  "k140": {
+   "sk": "Krok 1",
+   "cs": "Krok 1",
+   "en": "Step 1",
+   "de": "Schritt 1"
+  },
+  "k141": {
+   "sk": "Krok 2",
+   "cs": "Krok 2",
+   "en": "Step 2",
+   "de": "Schritt 2"
+  },
+  "k142": {
+   "sk": "Krok 3",
+   "cs": "Krok 3",
+   "en": "Step 3",
+   "de": "Schritt 3"
+  },
+  "k143": {
+   "sk": "Pošlete nám dopyt s typom paliet, množstvom a miestom dodania.",
+   "cs": "Pošlete nám poptávku s typem palet, množstvím a místem dodání.",
+   "en": "Send us an enquiry with the pallet type, quantity and delivery location.",
+   "de": "Senden Sie uns eine Anfrage mit Palettentyp, Menge und Lieferort."
+  },
+  "k144": {
+   "sk": "Ozveme sa vám s individuálnou cenovou ponukou.",
+   "cs": "Ozveme se vám s individuální cenovou nabídkou.",
+   "en": "We will get back to you with an individual quote.",
+   "de": "Wir melden uns mit einem individuellen Angebot."
+  },
+  "k145": {
+   "sk": "Po potvrdení objednávky zabezpečíme dodávku vrátane logistiky.",
+   "cs": "Po potvrzení objednávky zajistíme dodávku včetně logistiky.",
+   "en": "Once the order is confirmed, we arrange delivery including logistics.",
+   "de": "Nach Auftragsbestätigung übernehmen wir die Lieferung inklusive Logistik."
+  },
+  "k146": {
+   "sk": "Radšej priamy kontakt?",
+   "cs": "Raději přímý kontakt?",
+   "en": "Prefer direct contact?",
+   "de": "Lieber direkter Kontakt?"
+  },
+  "k147": {
+   "sk": "Nezáväzný <span style=\"color:var(--gold);\">dopyt</span>",
+   "cs": "Nezávazná <span style=\"color:var(--gold);\">poptávka</span>",
+   "en": "No-obligation <span style=\"color:var(--gold);\">enquiry</span>",
+   "de": "Unverbindliche <span style=\"color:var(--gold);\">Anfrage</span>"
+  },
+  "k148": {
+   "sk": "Meno a priezvisko",
+   "cs": "Jméno a příjmení",
+   "en": "Full name",
+   "de": "Name"
+  },
+  "k149": {
+   "sk": "Spoločnosť",
+   "cs": "Společnost",
+   "en": "Company",
+   "de": "Firma"
+  },
+  "k150": {
+   "sk": "Typ paliet",
+   "cs": "Typ palet",
+   "en": "Pallet type",
+   "de": "Palettentyp"
+  },
+  "k151": {
+   "sk": "Množstvo (ks)",
+   "cs": "Množství (ks)",
+   "en": "Quantity (pcs)",
+   "de": "Menge (Stk.)"
+  },
+  "k152": {
+   "sk": "Miesto dodania",
+   "cs": "Místo dodání",
+   "en": "Delivery location",
+   "de": "Lieferort"
+  },
+  "k153": {
+   "sk": "Správa",
+   "cs": "Zpráva",
+   "en": "Message",
+   "de": "Nachricht"
+  },
+  "k154": {
+   "sk": "— vyberte —",
+   "cs": "— vyberte —",
+   "en": "— select —",
+   "de": "— auswählen —"
+  },
+  "k155": {
+   "sk": "EPAL / EUR palety — nové",
+   "cs": "EPAL / EUR palety — nové",
+   "en": "EPAL / EUR pallets — new",
+   "de": "EPAL- / EUR-Paletten — neu"
+  },
+  "k156": {
+   "sk": "EPAL / EUR palety — použité",
+   "cs": "EPAL / EUR palety — použité",
+   "en": "EPAL / EUR pallets — used",
+   "de": "EPAL- / EUR-Paletten — gebraucht"
+  },
+  "k157": {
+   "sk": "Chemické palety CP1–CP9",
+   "cs": "Chemické palety CP1–CP9",
+   "en": "Chemical pallets CP1–CP9",
+   "de": "Chemiepaletten CP1–CP9"
+  },
+  "k158": {
+   "sk": "H1 hygienické plastové palety",
+   "cs": "H1 hygienické plastové palety",
+   "en": "H1 hygienic plastic pallets",
+   "de": "Hygienische H1-Kunststoffpaletten"
+  },
+  "k159": {
+   "sk": "Výkup paliet",
+   "cs": "Výkup palet",
+   "en": "Pallet buyback",
+   "de": "Palettenankauf"
+  },
+  "k160": {
+   "sk": "Iné / riešenie na mieru",
+   "cs": "Jiné / řešení na míru",
+   "en": "Other / custom solution",
+   "de": "Sonstiges / individuelle Lösung"
+  },
+  "k161": {
+   "sk": "napr. 500",
+   "cs": "např. 500",
+   "en": "e.g. 500",
+   "de": "z. B. 500"
+  },
+  "k162": {
+   "sk": "mesto, krajina",
+   "cs": "město, země",
+   "en": "city, country",
+   "de": "Stadt, Land"
+  },
+  "k163": {
+   "sk": "Doplňujúce informácie — termín dodania, špecifické požiadavky…",
+   "cs": "Doplňující informace — termín dodání, specifické požadavky…",
+   "en": "Additional information — delivery date, specific requirements…",
+   "de": "Zusätzliche Informationen — Liefertermin, besondere Anforderungen…"
+  },
+  "k164": {
+   "sk": "Odoslať dopyt",
+   "cs": "Odeslat poptávku",
+   "en": "Send enquiry",
+   "de": "Anfrage senden"
+  },
+  "k165": {
+   "sk": "Odoslaním dopytu súhlasíte so spracovaním osobných údajov podľa dokumentu <a href=\"gdpr.html\">Zásady ochrany osobných údajov</a>. Samotné odoslanie dopytu nezakladá vznik zmluvného vzťahu.",
+   "cs": "Odesláním poptávky souhlasíte se zpracováním osobních údajů podle dokumentu <a href=\"gdpr.html\">Zásady ochrany osobných údajov</a>. Samotné odeslání poptávky nezakládá vznik smluvního vztahu.",
+   "en": "By sending the enquiry you agree to the processing of personal data as described in our <a href=\"gdpr.html\">Privacy policy</a>. Sending an enquiry does not constitute a contractual relationship.",
+   "de": "Mit dem Absenden der Anfrage stimmen Sie der Verarbeitung personenbezogener Daten gemäß unserer <a href=\"gdpr.html\">Datenschutzerklärung</a> zu. Das Absenden einer Anfrage begründet kein Vertragsverhältnis."
+  },
+  "k166": {
+   "sk": "Ďakujeme! Dopyt sa otvoril vo vašom e-mailovom klientovi — stačí ho odoslať. Ak sa e-mail neotvoril, napíšte nám priamo na <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a>.",
+   "cs": "Děkujeme! Poptávka se otevřela ve vašem e-mailovém klientu — stačí ji odeslat. Pokud se e-mail neotevřel, napište nám přímo na <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a>.",
+   "en": "Thank you! The enquiry has opened in your e-mail client — just send it. If it did not open, write to us directly at <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a>.",
+   "de": "Vielen Dank! Die Anfrage wurde in Ihrem E-Mail-Programm geöffnet — einfach absenden. Falls sich nichts geöffnet hat, schreiben Sie uns direkt an <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a>."
+  },
+  "k167": {
+   "sk": "Kontaktujte TS Palletium — nákup, predaj a dodávky drevených a plastových paliet v rámci celej Európy. Telefón +420 704 222 545, info@tspalletium.com.",
+   "cs": "Kontaktujte TS Palletium — nákup, prodej a dodávky dřevěných a plastových palet v rámci celé Evropy. Telefon +420 704 222 545, info@tspalletium.com.",
+   "en": "Contact TS Palletium — purchase, sale and supply of wooden and plastic pallets across Europe. Phone +420 704 222 545, info@tspalletium.com.",
+   "de": "Kontaktieren Sie TS Palletium — Ankauf, Verkauf und Lieferung von Holz- und Kunststoffpaletten in ganz Europa. Telefon +420 704 222 545, info@tspalletium.com."
+  },
+  "k168": {
+   "sk": "Kontaktujte <span class=\"accent\">nás</span>",
+   "cs": "Kontaktujte <span class=\"accent\">nás</span>",
+   "en": "Contact <span class=\"accent\">us</span>",
+   "de": "Kontaktieren <span class=\"accent\">Sie uns</span>"
+  },
+  "k169": {
+   "sk": "Hľadáte spoľahlivého partnera pre nákup alebo dodávky drevených prípadne plastových paliet? Potrebujete poradiť a rýchlo doručiť klientom palety? Radi vám pripravíme riešenie prispôsobené potrebám vašej spoločnosti.",
+   "cs": "Hledáte spolehlivého partnera pro nákup nebo dodávky dřevěných případně plastových palet? Potřebujete poradit a rychle doručit klientům palety? Rádi vám připravíme řešení přizpůsobené potřebám vaší společnosti.",
+   "en": "Looking for a reliable partner for buying or supplying wooden or plastic pallets? Need advice and fast delivery to your clients? We will gladly prepare a solution tailored to your company's needs.",
+   "de": "Suchen Sie einen zuverlässigen Partner für Ankauf oder Lieferung von Holz- oder Kunststoffpaletten? Brauchen Sie Beratung und schnelle Lieferung? Wir erstellen gerne eine Lösung nach den Bedürfnissen Ihres Unternehmens."
+  },
+  "k170": {
+   "sk": "Kontaktné údaje",
+   "cs": "Kontaktní údaje",
+   "en": "Contact details",
+   "de": "Kontaktdaten"
+  },
+  "k171": {
+   "sk": "Telefón",
+   "cs": "Telefon",
+   "en": "Phone",
+   "de": "Telefon"
+  },
+  "k172": {
+   "sk": "Sídlo",
+   "cs": "Sídlo",
+   "en": "Registered office",
+   "de": "Firmensitz"
+  },
+  "k173": {
+   "sk": "Fakturačné údaje",
+   "cs": "Fakturační údaje",
+   "en": "Billing details",
+   "de": "Rechnungsdaten"
+  },
+  "k174": {
+   "sk": "Slovenská republika",
+   "cs": "Slovenská republika",
+   "en": "Slovak Republic",
+   "de": "Slowakische Republik"
+  },
+  "k175": {
+   "sk": "Napíšte nám",
+   "cs": "Napište nám",
+   "en": "Write to us",
+   "de": "Schreiben Sie uns"
+  },
+  "k176": {
+   "sk": "Najrýchlejšou cestou k cenovej ponuke je náš dopytový formulár — ozveme sa vám späť s individuálnou ponukou.",
+   "cs": "Nejrychlejší cestou k cenové nabídce je náš poptávkový formulář — ozveme se vám zpět s individuální nabídkou.",
+   "en": "The fastest route to a quote is our enquiry form — we will get back to you with an individual offer.",
+   "de": "Der schnellste Weg zum Angebot ist unser Anfrageformular — wir melden uns mit einem individuellen Angebot zurück."
+  },
+  "k177": {
+   "sk": "Logistické centrum TS Palletium",
+   "cs": "Logistické centrum TS Palletium",
+   "en": "TS Palletium logistics centre",
+   "de": "TS-Palletium-Logistikzentrum"
+  },
+  "k178": {
+   "sk": "Kontakt",
+   "cs": "Kontakt",
+   "en": "Contact",
+   "de": "Kontakt"
+  },
+  "k179": {
+   "sk": "Moderná B2B spoločnosť pre nákup, predaj, dodávky a logistickú koordináciu drevených a plastových paliet v rámci európskeho trhu.",
+   "cs": "Moderní B2B společnost pro nákup, prodej, dodávky a logistickou koordinaci dřevěných a plastových palet v rámci evropského trhu.",
+   "en": "A modern B2B company for the purchase, sale, supply and logistics coordination of wooden and plastic pallets across the European market.",
+   "de": "Ein modernes B2B-Unternehmen für Ankauf, Verkauf, Lieferung und logistische Koordination von Holz- und Kunststoffpaletten auf dem europäischen Markt."
+  },
+  "k180": {
+   "sk": "Navigácia",
+   "cs": "Navigace",
+   "en": "Navigation",
+   "de": "Navigation"
+  },
+  "k181": {
+   "sk": "Právne informácie",
+   "cs": "Právní informace",
+   "en": "Legal information",
+   "de": "Rechtliche Hinweise"
+  },
+  "k182": {
+   "sk": "Obchodné podmienky",
+   "cs": "Obchodní podmínky",
+   "en": "Terms &amp; conditions",
+   "de": "AGB"
+  },
+  "k183": {
+   "sk": "Ochrana osobných údajov",
+   "cs": "Ochrana osobních údajů",
+   "en": "Privacy policy",
+   "de": "Datenschutz"
+  },
+  "k184": {
+   "sk": "Cookies politika",
+   "cs": "Cookies politika",
+   "en": "Cookie policy",
+   "de": "Cookie-Richtlinie"
+  },
+  "k185": {
+   "sk": "040 01 Košice — Juh, Slovensko",
+   "cs": "040 01 Košice — Juh, Slovensko",
+   "en": "040 01 Košice — Juh, Slovakia",
+   "de": "040 01 Košice — Juh, Slowakei"
+  },
+  "k186": {
+   "sk": "© 2026 Tom Kave Company s. r. o. — obchodná značka TS Palletium. Všetky práva vyhradené.",
+   "cs": "© 2026 Tom Kave Company s. r. o. — obchodní značka TS Palletium. Všechna práva vyhrazena.",
+   "en": "© 2026 Tom Kave Company s. r. o. — trading as TS Palletium. All rights reserved.",
+   "de": "© 2026 Tom Kave Company s. r. o. — Handelsmarke TS Palletium. Alle Rechte vorbehalten."
+  },
+  "k187": {
+   "sk": "IČO: 56483155 &nbsp;|&nbsp; DIČ: 2122320134 &nbsp;|&nbsp; DIČ CZ: CZ688486306",
+   "cs": "IČO: 56483155 &nbsp;|&nbsp; DIČ: 2122320134 &nbsp;|&nbsp; DIČ CZ: CZ688486306",
+   "en": "Company ID: 56483155 &nbsp;|&nbsp; Tax ID (SK): 2122320134 &nbsp;|&nbsp; VAT ID (CZ): CZ688486306",
+   "de": "Reg.-Nr. (IČO): 56483155 &nbsp;|&nbsp; Steuer-ID (SK): 2122320134 &nbsp;|&nbsp; USt-IdNr. (CZ): CZ688486306"
+  },
+  "k188": {
+   "sk": "IČO: 56483155<br>DIČ: 2122320134<br>DIČ CZ: CZ688486306",
+   "cs": "IČO: 56483155<br>DIČ: 2122320134<br>DIČ CZ: CZ688486306",
+   "en": "Company ID: 56483155<br>Tax ID (SK): 2122320134<br>VAT ID (CZ): CZ688486306",
+   "de": "Reg.-Nr. (IČO): 56483155<br>Steuer-ID (SK): 2122320134<br>USt-IdNr. (CZ): CZ688486306"
+  },
+  "k189": {
+   "sk": "Používame cookies",
+   "cs": "Používáme cookies",
+   "en": "We use cookies",
+   "de": "Wir verwenden Cookies"
+  },
+  "k190": {
+   "sk": "Táto webová stránka používa nevyhnutné cookies na zabezpečenie správneho fungovania. Analytické cookies použijeme iba s vaším súhlasom. Viac v dokumente <a href=\"cookies.html\">Cookies politika</a>.",
+   "cs": "Tato webová stránka používá nezbytné cookies pro zajištění správného fungování. Analytické cookies použijeme pouze s vaším souhlasem. Více v dokumentu <a href=\"cookies.html\">Cookies politika</a>.",
+   "en": "This website uses essential cookies to function properly. Analytics cookies will only be used with your consent. See our <a href=\"cookies.html\">Cookie policy</a> for details.",
+   "de": "Diese Website verwendet notwendige Cookies für den ordnungsgemäßen Betrieb. Analyse-Cookies setzen wir nur mit Ihrer Einwilligung ein. Mehr in unserer <a href=\"cookies.html\">Cookie-Richtlinie</a>."
+  },
+  "k191": {
+   "sk": "Prijať všetky",
+   "cs": "Přijmout vše",
+   "en": "Accept all",
+   "de": "Alle akzeptieren"
+  },
+  "k192": {
+   "sk": "Iba nevyhnutné",
+   "cs": "Pouze nezbytné",
+   "en": "Essential only",
+   "de": "Nur notwendige"
+  },
+  "k193": {
+   "sk": "Nastavenia cookies",
+   "cs": "Nastavení cookies",
+   "en": "Cookie settings",
+   "de": "Cookie-Einstellungen"
+  },
+  "form.success": {
+   "sk": "Ďakujeme! Váš dopyt bol odoslaný. Ozveme sa vám čo najskôr.",
+   "cs": "Děkujeme! Vaše poptávka byla odeslána. Ozveme se vám co nejdříve.",
+   "en": "Thank you! Your enquiry has been sent. We will get back to you as soon as possible.",
+   "de": "Vielen Dank! Ihre Anfrage wurde gesendet. Wir melden uns so schnell wie möglich."
+  },
+  "form.error": {
+   "sk": "Odoslanie zlyhalo. Napíšte nám prosím priamo na info@tspalletium.com.",
+   "cs": "Odeslání selhalo. Napište nám prosím přímo na info@tspalletium.com.",
+   "en": "Sending failed. Please write to us directly at info@tspalletium.com.",
+   "de": "Das Senden ist fehlgeschlagen. Bitte schreiben Sie uns direkt an info@tspalletium.com."
+  },
+  "form.invalid": {
+   "sk": "Vyplňte prosím všetky povinné polia.",
+   "cs": "Vyplňte prosím všechna povinná pole.",
+   "en": "Please fill in all required fields.",
+   "de": "Bitte füllen Sie alle Pflichtfelder aus."
+  }
+ },
+ "meta": {
+  "k001": {
+   "label": "Domov",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 0
+  },
+  "k002": {
+   "label": "Hlavná navigácia",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 1
+  },
+  "k003": {
+   "label": "TS Palletium — domov",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 2
+  },
+  "k004": {
+   "label": "Otvoriť menu",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 3
+  },
+  "k005": {
+   "label": "Vyžiadať cenovú ponuku",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "dopyt",
+    "kontakt"
+   ],
+   "ord": 4
+  },
+  "k006": {
+   "label": "Vyžiadať ponuku",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 5
+  },
+  "k007": {
+   "label": "Produkty",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 6
+  },
+  "k008": {
+   "label": "O spoločnosti TS Palletium",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 7
+  },
+  "k009": {
+   "label": "O spoločnosti",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 8
+  },
+  "k010": {
+   "label": "TS Palletium — Váš spoľahlivý partner pre paletové riešenia",
+   "pages": [
+    "index"
+   ],
+   "ord": 9
+  },
+  "k011": {
+   "label": "TS Palletium — nákup, predaj, dodávky a logistická koordinácia drevený",
+   "pages": [
+    "index"
+   ],
+   "ord": 10
+  },
+  "k012": {
+   "label": "Váš spoľahlivý partner pre paletové riešenia",
+   "pages": [
+    "index"
+   ],
+   "ord": 11
+  },
+  "k013": {
+   "label": "Nákup, predaj, dodávky a logistická koordinácia drevených a plastových",
+   "pages": [
+    "index"
+   ],
+   "ord": 12
+  },
+  "k014": {
+   "label": "Naše produkty",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 13
+  },
+  "k015": {
+   "label": "Naše produkty",
+   "pages": [
+    "index"
+   ],
+   "ord": 14
+  },
+  "k016": {
+   "label": "Kvalitné certifikované palety",
+   "pages": [
+    "index"
+   ],
+   "ord": 15
+  },
+  "k017": {
+   "label": "Rýchle a spoľahlivé dodávky",
+   "pages": [
+    "index"
+   ],
+   "ord": 16
+  },
+  "k018": {
+   "label": "Pôsobíme v celej Európe",
+   "pages": [
+    "index"
+   ],
+   "ord": 17
+  },
+  "k019": {
+   "label": "Logistické centrum TS Palletium s paletami pripravenými na expedíciu",
+   "pages": [
+    "index"
+   ],
+   "ord": 18
+  },
+  "k020": {
+   "label": "Nové aj použité palety a ďalšie riešenia podľa potrieb zákazníka. Pove",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 19
+  },
+  "k021": {
+   "label": "Nové aj použité palety",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 20
+  },
+  "k022": {
+   "label": "Nové aj použité",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 21
+  },
+  "k023": {
+   "label": "palety v ponuke",
+   "pages": [
+    "index"
+   ],
+   "ord": 22
+  },
+  "k024": {
+   "label": "Celá Európa",
+   "pages": [
+    "index"
+   ],
+   "ord": 23
+  },
+  "k025": {
+   "label": "dodávky a výkup",
+   "pages": [
+    "index"
+   ],
+   "ord": 24
+  },
+  "k026": {
+   "label": "Transparentná",
+   "pages": [
+    "index"
+   ],
+   "ord": 25
+  },
+  "k027": {
+   "label": "B2B spolupráca",
+   "pages": [
+    "index"
+   ],
+   "ord": 26
+  },
+  "k028": {
+   "label": "Dlhodobé",
+   "pages": [
+    "index"
+   ],
+   "ord": 27
+  },
+  "k029": {
+   "label": "obchodné partnerstvá",
+   "pages": [
+    "index"
+   ],
+   "ord": 28
+  },
+  "k030": {
+   "label": "V našej ponuke nájdete nové aj použité palety vrátane EPAL / EUR palie",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 29
+  },
+  "k031": {
+   "label": "V našej ponuke nájdete nové aj použité palety vrátane EPAL / EUR palie",
+   "pages": [
+    "index"
+   ],
+   "ord": 30
+  },
+  "k032": {
+   "label": "Drevené palety",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 31
+  },
+  "k033": {
+   "label": "Plastové palety",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 32
+  },
+  "k034": {
+   "label": "Špeciálne palety",
+   "pages": [
+    "index"
+   ],
+   "ord": 33
+  },
+  "k035": {
+   "label": "EPAL / EUR palety",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 34
+  },
+  "k036": {
+   "label": "H1 hygienické plastové palety",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 35
+  },
+  "k037": {
+   "label": "Chemické palety CP1–CP9",
+   "pages": [
+    "index"
+   ],
+   "ord": 36
+  },
+  "k038": {
+   "label": "Chemické palety CP1 – CP9",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 37
+  },
+  "k039": {
+   "label": "Kvalitné certifikované EPAL / EUR palety dostupné v novom aj použitom ",
+   "pages": [
+    "index"
+   ],
+   "ord": 38
+  },
+  "k040": {
+   "label": "Hygienické palety ideálne pre potravinársky, farmaceutický a zdravotní",
+   "pages": [
+    "index"
+   ],
+   "ord": 39
+  },
+  "k041": {
+   "label": "Štandardizované chemické palety CP1 až CP9, priemyselné a jednocestné ",
+   "pages": [
+    "index"
+   ],
+   "ord": 40
+  },
+  "k042": {
+   "label": "Celá ponuka produktov",
+   "pages": [
+    "index"
+   ],
+   "ord": 41
+  },
+  "k043": {
+   "label": "EPAL / EUR drevené palety",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 42
+  },
+  "k044": {
+   "label": "H1 hygienická plastová paleta",
+   "pages": [
+    "index",
+    "produkty"
+   ],
+   "ord": 43
+  },
+  "k045": {
+   "label": "Chemické a priemyselné palety",
+   "pages": [
+    "index"
+   ],
+   "ord": 44
+  },
+  "k046": {
+   "label": "Nové aj použité palety: EPAL / EUR palety, chemické palety CP1–CP9, H1",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 45
+  },
+  "k047": {
+   "label": "Certifikované europalety 1200 × 800 mm — základ európskej logistiky. D",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 46
+  },
+  "k048": {
+   "label": "Chemický priemysel",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 47
+  },
+  "k049": {
+   "label": "Štandardizované palety CP1 až CP9 vyvinuté pre chemický priemysel. Rôz",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 48
+  },
+  "k050": {
+   "label": "Hygienické plastové palety ideálne pre potravinársky, farmaceutický a ",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 49
+  },
+  "k051": {
+   "label": "Priemyselné palety",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 50
+  },
+  "k052": {
+   "label": "Priemysel",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 51
+  },
+  "k053": {
+   "label": "Palety pre priemyselné použitie v rôznych rozmeroch a vyhotoveniach — ",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 52
+  },
+  "k054": {
+   "label": "Jednocestné palety",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 53
+  },
+  "k055": {
+   "label": "Ekonomické riešenie pre jednosmernú prepravu a export. Vyrábané v rozm",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 54
+  },
+  "k056": {
+   "label": "Riešenia na mieru",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 55
+  },
+  "k057": {
+   "label": "Individuálny prístup",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 56
+  },
+  "k058": {
+   "label": "Každému klientovi pristupujeme individuálne. Či už potrebujete jednora",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 57
+  },
+  "k059": {
+   "label": "jednorazové aj pravidelné dodávky",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 58
+  },
+  "k060": {
+   "label": "flexibilné objemy podľa vašej prevádzky",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 59
+  },
+  "k061": {
+   "label": "nové aj použité palety podľa požiadaviek",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 60
+  },
+  "k062": {
+   "label": "logistická koordinácia dodávok v celej Európe",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 61
+  },
+  "k063": {
+   "label": "Nenašli ste, čo hľadáte?",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 62
+  },
+  "k064": {
+   "label": "Ponuku pripravujeme vždy individuálne — podľa množstva, typu paliet, m",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 63
+  },
+  "k065": {
+   "label": "Kontaktovať nás",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 64
+  },
+  "k066": {
+   "label": "Chemické palety CP1 až CP9",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 65
+  },
+  "k067": {
+   "label": "Priemyselné palety",
+   "pages": [
+    "produkty",
+    "dopyt"
+   ],
+   "ord": 66
+  },
+  "k068": {
+   "label": "Jednocestné palety",
+   "pages": [
+    "produkty",
+    "dopyt"
+   ],
+   "ord": 67
+  },
+  "k069": {
+   "label": "Logistika a manipulácia s paletami",
+   "pages": [
+    "produkty"
+   ],
+   "ord": 68
+  },
+  "k070": {
+   "label": "Hlavné činnosti",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 69
+  },
+  "k071": {
+   "label": "Pokrývame celý obchodný a logistický cyklus palety — od výkupu cez dod",
+   "pages": [
+    "index"
+   ],
+   "ord": 70
+  },
+  "k072": {
+   "label": "Výkup a nákup použitých EPAL paliet",
+   "pages": [
+    "index"
+   ],
+   "ord": 71
+  },
+  "k073": {
+   "label": "Výkup a nákup paliet",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 72
+  },
+  "k074": {
+   "label": "Zabezpečujeme výkup a nákup nových aj použitých EUR, priemyselných a ď",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 73
+  },
+  "k075": {
+   "label": "Dodávky nových a použitých paliet",
+   "pages": [
+    "index"
+   ],
+   "ord": 74
+  },
+  "k076": {
+   "label": "Dodávky paliet",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 75
+  },
+  "k077": {
+   "label": "Dodávame nové aj použité drevené a plastové palety pre výrobu, skladov",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 76
+  },
+  "k078": {
+   "label": "Logistická koordinácia dodávok paliet",
+   "pages": [
+    "index"
+   ],
+   "ord": 77
+  },
+  "k079": {
+   "label": "Logistická koordinácia",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 78
+  },
+  "k080": {
+   "label": "Koordinujeme pohyb paliet medzi dodávateľmi a odberateľmi tak, aby bol",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 79
+  },
+  "k081": {
+   "label": "Prečo TS Palletium",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 80
+  },
+  "k082": {
+   "label": "V modernej logistike nie je paleta iba prepravným nosičom — je neoddel",
+   "pages": [
+    "index"
+   ],
+   "ord": 81
+  },
+  "k083": {
+   "label": "stabilné dodávky paliet v rámci celej Európy",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 82
+  },
+  "k084": {
+   "label": "stabilné dodávky v rámci celej Európy",
+   "pages": [
+    "index"
+   ],
+   "ord": 83
+  },
+  "k085": {
+   "label": "spoľahlivá logistická koordinácia",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 84
+  },
+  "k086": {
+   "label": "rýchle obchodné riešenia",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 85
+  },
+  "k087": {
+   "label": "transparentná B2B spolupráca",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 86
+  },
+  "k088": {
+   "label": "individuálny prístup ku každému partnerovi",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 87
+  },
+  "k089": {
+   "label": "flexibilné objemy dodávok",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 88
+  },
+  "k090": {
+   "label": "dlhodobé obchodné partnerstvá",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 89
+  },
+  "k091": {
+   "label": "dôraz na kvalitu, spoľahlivosť a kontinuitu dodávok",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 90
+  },
+  "k092": {
+   "label": "dôraz na kvalitu a kontinuitu dodávok",
+   "pages": [
+    "index"
+   ],
+   "ord": 91
+  },
+  "k093": {
+   "label": "Manipulácia s EPAL paletami na sklade",
+   "pages": [
+    "index"
+   ],
+   "ord": 92
+  },
+  "k094": {
+   "label": "TS Palletium je moderná B2B spoločnosť zameraná na nákup, predaj, dodá",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 93
+  },
+  "k095": {
+   "label": "Spájame výrobcov, dodávateľov a odberateľov do spoľahlivej obchodnej s",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 94
+  },
+  "k096": {
+   "label": "Spájame výrobcov, dodávateľov a odberateľov do spoľahlivej obchodnej s",
+   "pages": [
+    "index"
+   ],
+   "ord": 95
+  },
+  "k097": {
+   "label": "Spájame výrobcov, dodávateľov a odberateľov paliet do spoľahlivej obch",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 96
+  },
+  "k098": {
+   "label": "Účelom našej spoločnosti je pomáhať výrobcom, dodávateľom a odberateľo",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 97
+  },
+  "k099": {
+   "label": "Viac o nás",
+   "pages": [
+    "index"
+   ],
+   "ord": 98
+  },
+  "k100": {
+   "label": "Sklad plný drevených EPAL paliet",
+   "pages": [
+    "index"
+   ],
+   "ord": 99
+  },
+  "k101": {
+   "label": "Sklad EPAL paliet TS Palletium",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 100
+  },
+  "k102": {
+   "label": "Kto sme",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 101
+  },
+  "k103": {
+   "label": "Náš prístup",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 102
+  },
+  "k104": {
+   "label": "V modernej logistike nie je paleta iba prepravným nosičom. Je neoddeli",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 103
+  },
+  "k105": {
+   "label": "Preto sa zameriavame na vytváranie stabilného, predvídateľného a efekt",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 104
+  },
+  "k106": {
+   "label": "Každý obchodný aj logistický proces budujeme na štyroch pilieroch:",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 105
+  },
+  "k107": {
+   "label": "spoľahlivosť",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 106
+  },
+  "k108": {
+   "label": "transparentnosť",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 107
+  },
+  "k109": {
+   "label": "flexibilita",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 108
+  },
+  "k110": {
+   "label": "dlhodobé partnerstvo",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 109
+  },
+  "k111": {
+   "label": "Rady paliet v modernom sklade",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 110
+  },
+  "k112": {
+   "label": "Naša vízia: prepojená Európa paliet",
+   "pages": [
+    "index"
+   ],
+   "ord": 111
+  },
+  "k113": {
+   "label": "Naša vízia",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 112
+  },
+  "k114": {
+   "label": "Našou ambíciou je stať sa jedným z najspoľahlivejších partnerov pre ob",
+   "pages": [
+    "index",
+    "o-spolocnosti"
+   ],
+   "ord": 113
+  },
+  "k115": {
+   "label": "Veríme, že budúcnosť paletového priemyslu spočíva vo väčšej prepojenos",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 114
+  },
+  "k116": {
+   "label": "Veríme, že budúcnosť paletového priemyslu spočíva vo väčšej prepojenos",
+   "pages": [
+    "index"
+   ],
+   "ord": 115
+  },
+  "k117": {
+   "label": "Dlhodobou víziou spoločnosti TS Palletium je vybudovať poprednú európs",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 116
+  },
+  "k118": {
+   "label": "Spoznajte našu víziu",
+   "pages": [
+    "index"
+   ],
+   "ord": 117
+  },
+  "k119": {
+   "label": "S kým spolupracujeme",
+   "pages": [
+    "index"
+   ],
+   "ord": 118
+  },
+  "k120": {
+   "label": "Spolupracujeme s výrobnými podnikmi, logistickými operátormi, distribu",
+   "pages": [
+    "index"
+   ],
+   "ord": 119
+  },
+  "k121": {
+   "label": "Spolupracujeme s výrobnými podnikmi, logistickými operátormi, distribu",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 120
+  },
+  "k122": {
+   "label": "Tam, kde palety predstavujú neoddeliteľnú súčasť každodennej prevádzky",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 121
+  },
+  "k123": {
+   "label": "Výroba a priemysel",
+   "pages": [
+    "index"
+   ],
+   "ord": 122
+  },
+  "k124": {
+   "label": "Výrobné podniky a priemyselné firmy, ktoré potrebujú stabilný prísun p",
+   "pages": [
+    "index"
+   ],
+   "ord": 123
+  },
+  "k125": {
+   "label": "Logistika a distribúcia",
+   "pages": [
+    "index"
+   ],
+   "ord": 124
+  },
+  "k126": {
+   "label": "Logistickí operátori a distribučné centrá, pre ktoré je plynulý tok pa",
+   "pages": [
+    "index"
+   ],
+   "ord": 125
+  },
+  "k127": {
+   "label": "Sklady a obchod",
+   "pages": [
+    "index"
+   ],
+   "ord": 126
+  },
+  "k128": {
+   "label": "Skladové spoločnosti a obchodní partneri, ktorí hľadajú spoľahlivý výk",
+   "pages": [
+    "index"
+   ],
+   "ord": 127
+  },
+  "k129": {
+   "label": "Spolupráca",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 128
+  },
+  "k130": {
+   "label": "Hľadáte spoľahlivého partnera pre palety?",
+   "pages": [
+    "index"
+   ],
+   "ord": 129
+  },
+  "k131": {
+   "label": "Potrebujete poradiť a rýchlo doručiť palety? Kontaktujte nás a radi vá",
+   "pages": [
+    "index"
+   ],
+   "ord": 130
+  },
+  "k132": {
+   "label": "Staňte sa naším obchodným partnerom",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 131
+  },
+  "k133": {
+   "label": "Či už potrebujete jednorazovú dodávku alebo dlhodobého obchodného part",
+   "pages": [
+    "o-spolocnosti"
+   ],
+   "ord": 132
+  },
+  "k134": {
+   "label": "Obchodujte s paletami jednoduchšie",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 133
+  },
+  "k135": {
+   "label": "Jednoduchšie, rýchlejšie, bezpečnejšie a výhodnejšie — to je TS Pallet",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 134
+  },
+  "k136": {
+   "label": "Vyžiadajte si nezáväznú cenovú ponuku na drevené alebo plastové palety",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 135
+  },
+  "k137": {
+   "label": "Vyžiadať cenovú ponuku",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 136
+  },
+  "k138": {
+   "label": "Všetky cenové ponuky vypracúvame individuálne — na základe požadovanéh",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 137
+  },
+  "k139": {
+   "label": "Ako to prebieha",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 138
+  },
+  "k140": {
+   "label": "Krok 1",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 139
+  },
+  "k141": {
+   "label": "Krok 2",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 140
+  },
+  "k142": {
+   "label": "Krok 3",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 141
+  },
+  "k143": {
+   "label": "Pošlete nám dopyt s typom paliet, množstvom a miestom dodania.",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 142
+  },
+  "k144": {
+   "label": "Ozveme sa vám s individuálnou cenovou ponukou.",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 143
+  },
+  "k145": {
+   "label": "Po potvrdení objednávky zabezpečíme dodávku vrátane logistiky.",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 144
+  },
+  "k146": {
+   "label": "Radšej priamy kontakt?",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 145
+  },
+  "k147": {
+   "label": "Nezáväzný dopyt",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 146
+  },
+  "k148": {
+   "label": "Meno a priezvisko",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 147
+  },
+  "k149": {
+   "label": "Spoločnosť",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 148
+  },
+  "k150": {
+   "label": "Typ paliet",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 149
+  },
+  "k151": {
+   "label": "Množstvo (ks)",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 150
+  },
+  "k152": {
+   "label": "Miesto dodania",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 151
+  },
+  "k153": {
+   "label": "Správa",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 152
+  },
+  "k154": {
+   "label": "— vyberte —",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 153
+  },
+  "k155": {
+   "label": "EPAL / EUR palety — nové",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 154
+  },
+  "k156": {
+   "label": "EPAL / EUR palety — použité",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 155
+  },
+  "k157": {
+   "label": "Chemické palety CP1–CP9",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 156
+  },
+  "k158": {
+   "label": "H1 hygienické plastové palety",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 157
+  },
+  "k159": {
+   "label": "Výkup paliet",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 158
+  },
+  "k160": {
+   "label": "Iné / riešenie na mieru",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 159
+  },
+  "k161": {
+   "label": "napr. 500",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 160
+  },
+  "k162": {
+   "label": "mesto, krajina",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 161
+  },
+  "k163": {
+   "label": "Doplňujúce informácie — termín dodania, špecifické požiadavky…",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 162
+  },
+  "k164": {
+   "label": "Odoslať dopyt",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 163
+  },
+  "k165": {
+   "label": "Odoslaním dopytu súhlasíte so spracovaním osobných údajov podľa dokume",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 164
+  },
+  "k166": {
+   "label": "Ďakujeme! Dopyt sa otvoril vo vašom e-mailovom klientovi — stačí ho od",
+   "pages": [
+    "dopyt"
+   ],
+   "ord": 165
+  },
+  "k167": {
+   "label": "Kontaktujte TS Palletium — nákup, predaj a dodávky drevených a plastov",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 166
+  },
+  "k168": {
+   "label": "Kontaktujte nás",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 167
+  },
+  "k169": {
+   "label": "Hľadáte spoľahlivého partnera pre nákup alebo dodávky drevených prípad",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 168
+  },
+  "k170": {
+   "label": "Kontaktné údaje",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 169
+  },
+  "k171": {
+   "label": "Telefón",
+   "pages": [
+    "dopyt",
+    "kontakt"
+   ],
+   "ord": 170
+  },
+  "k172": {
+   "label": "Sídlo",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 171
+  },
+  "k173": {
+   "label": "Fakturačné údaje",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 172
+  },
+  "k174": {
+   "label": "Slovenská republika",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 173
+  },
+  "k175": {
+   "label": "Napíšte nám",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 174
+  },
+  "k176": {
+   "label": "Najrýchlejšou cestou k cenovej ponuke je náš dopytový formulár — ozvem",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 175
+  },
+  "k177": {
+   "label": "Logistické centrum TS Palletium",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 176
+  },
+  "k178": {
+   "label": "Kontakt",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 177
+  },
+  "k179": {
+   "label": "Moderná B2B spoločnosť pre nákup, predaj, dodávky a logistickú koordin",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 178
+  },
+  "k180": {
+   "label": "Navigácia",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 179
+  },
+  "k181": {
+   "label": "Právne informácie",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 180
+  },
+  "k182": {
+   "label": "Obchodné podmienky",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 181
+  },
+  "k183": {
+   "label": "Ochrana osobných údajov",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 182
+  },
+  "k184": {
+   "label": "Cookies politika",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 183
+  },
+  "k185": {
+   "label": "040 01 Košice — Juh, Slovensko",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 184
+  },
+  "k186": {
+   "label": "© 2026 Tom Kave Company s. r. o. — obchodná značka TS Palletium. Všetk",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 185
+  },
+  "k187": {
+   "label": "IČO: 56483155 &nbsp;|&nbsp; DIČ: 2122320134 &nbsp;|&nbsp; DIČ CZ: CZ68",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 186
+  },
+  "k188": {
+   "label": "IČO: 56483155 DIČ: 2122320134 DIČ CZ: CZ688486306",
+   "pages": [
+    "kontakt"
+   ],
+   "ord": 187
+  },
+  "k189": {
+   "label": "Používame cookies",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 188
+  },
+  "k190": {
+   "label": "Táto webová stránka používa nevyhnutné cookies na zabezpečenie správne",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 189
+  },
+  "k191": {
+   "label": "Prijať všetky",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 190
+  },
+  "k192": {
+   "label": "Iba nevyhnutné",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 191
+  },
+  "k193": {
+   "label": "Nastavenia cookies",
+   "pages": [
+    "index",
+    "o-spolocnosti",
+    "produkty",
+    "dopyt",
+    "kontakt",
+    "legal-chrome"
+   ],
+   "ord": 192
+  },
+  "form.success": {
+   "label": "Ďakujeme! Váš dopyt bol odoslaný. Ozveme sa vám čo najskôr.",
+   "pages": [
+    "system"
+   ],
+   "ord": 900
+  },
+  "form.error": {
+   "label": "Odoslanie zlyhalo. Napíšte nám prosím priamo na info@tspalletium.com.",
+   "pages": [
+    "system"
+   ],
+   "ord": 900
+  },
+  "form.invalid": {
+   "label": "Vyplňte prosím všetky povinné polia.",
+   "pages": [
+    "system"
+   ],
+   "ord": 900
+  }
+ },
+ "legal": {
+  "cookies": {
+   "sk": {
+    "title": "Cookies politika",
+    "h1": "Cookies <span class=\"accent\">politika</span>",
+    "desc": "Cookies politika webovej stránky www.tspalletium.com — aké cookies používame a ako ich môžete spravovať.",
+    "metaline": "Platnosť od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodná značka TS Palletium",
+    "html": "<h2>1. Úvod</h2>\n        <p>Táto Cookies politika vysvetľuje, ako spoločnosť <strong>Tom Kave Company s. r. o.</strong>, vystupujúca pod obchodnou značkou <strong>TS Palletium</strong>, používa súbory cookies a podobné technológie na webovej stránke www.tspalletium.com.</p>\n        <p>Používaním našej webovej stránky môžete byť požiadaní o udelenie súhlasu s používaním určitých kategórií cookies prostredníctvom cookie lišty.</p>\n\n        <h2>2. Čo sú cookies</h2>\n        <p>Cookies sú malé textové súbory, ktoré sa ukladajú vo vašom zariadení pri návšteve webovej stránky. Pomáhajú zabezpečiť správne fungovanie webu, zlepšujú používateľský komfort a umožňujú získavať štatistické informácie o návštevnosti.</p>\n\n        <h2>3. Aké cookies používame</h2>\n        <p><strong>Nevyhnutné cookies</strong></p>\n        <p>Tieto cookies sú potrebné na správne fungovanie webovej stránky. Bez nich nie je možné zabezpečiť základné funkcie webu, ako napríklad odoslanie kontaktného formulára alebo uloženie vašich nastavení cookies. Tieto cookies nie je možné vypnúť.</p>\n        <p><strong>Analytické cookies</strong></p>\n        <p>Ak návštevník udelí súhlas, môžeme používať analytické nástroje na meranie návštevnosti webovej stránky. Tieto údaje nám pomáhajú pochopiť:</p>\n        <ul>\n          <li>koľko návštevníkov navštívilo web,</li>\n          <li>ktoré stránky sú najnavštevovanejšie,</li>\n          <li>ako sa návštevníci pohybujú po stránke,</li>\n          <li>ako môžeme web zlepšovať.</li>\n        </ul>\n        <p><strong>Marketingové cookies</strong></p>\n        <p>V súčasnosti webová stránka TS Palletium marketingové cookies nepoužíva. Ak by boli v budúcnosti implementované reklamné alebo remarketingové nástroje, budú používané iba na základe vášho súhlasu.</p>\n\n        <h2>4. Cookies tretích strán</h2>\n        <p>Naša webová stránka môže v budúcnosti využívať služby tretích strán, napríklad:</p>\n        <ul>\n          <li>Google Analytics,</li>\n          <li>Google Tag Manager,</li>\n          <li>Google Maps,</li>\n          <li>YouTube,</li>\n          <li>reCAPTCHA.</li>\n        </ul>\n        <p>Používanie týchto služieb môže viesť k ukladaniu cookies tretích strán v súlade s ich vlastnými zásadami ochrany osobných údajov.</p>\n\n        <h2>5. Ako môžete spravovať cookies</h2>\n        <p>Pri prvej návšteve webovej stránky môžete prostredníctvom cookie lišty:</p>\n        <ul>\n          <li>prijať všetky cookies,</li>\n          <li>odmietnuť nepovinné cookies,</li>\n          <li>upraviť svoje nastavenia.</li>\n        </ul>\n        <p>Svoj súhlas môžete neskôr zmeniť alebo odvolať. Cookies môžete odstrániť alebo zablokovať aj vo svojom internetovom prehliadači. Upozorňujeme, že zablokovanie nevyhnutných cookies môže ovplyvniť správne fungovanie webovej stránky.</p>\n\n        <h2>6. Zmeny Cookies politiky</h2>\n        <p>Spoločnosť Tom Kave Company s. r. o. si vyhradzuje právo túto Cookies politiku primerane aktualizovať v prípade zmien právnych predpisov alebo technického riešenia webovej stránky. Aktuálne znenie dokumentu je vždy dostupné na webovej stránke www.tspalletium.com.</p>\n\n        <h2>7. Kontaktné údaje</h2>\n        <p>Ak máte otázky týkajúce sa používania cookies alebo ochrany osobných údajov, môžete nás kontaktovať:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — mestská časť Juh, Slovenská republika<br>E-mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>Web: www.tspalletium.com</p>"
+   },
+   "cs": {
+    "title": "Cookies politika",
+    "h1": "Cookies <span class=\"accent\">politika</span>",
+    "desc": "Cookies politika webové stránky www.tspalletium.com — jaké cookies používáme a jak je můžete spravovat.",
+    "metaline": "Platnost od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodní značka TS Palletium",
+    "html": "<h2>1. Úvod</h2>\n        <p>Tato Cookies politika vysvětluje, jak společnost <strong>Tom Kave Company s. r. o.</strong>, vystupující pod obchodní značkou <strong>TS Palletium</strong>, používá soubory cookies a podobné technologie na webové stránce www.tspalletium.com.</p>\n        <p>Při používání naší webové stránky můžete být požádáni o udělení souhlasu s používáním určitých kategorií cookies prostřednictvím cookie lišty.</p>\n\n        <h2>2. Co jsou cookies</h2>\n        <p>Cookies jsou malé textové soubory, které se ukládají ve vašem zařízení při návštěvě webové stránky. Pomáhají zajistit správné fungování webu, zlepšují uživatelský komfort a umožňují získávat statistické informace o návštěvnosti.</p>\n\n        <h2>3. Jaké cookies používáme</h2>\n        <p><strong>Nezbytné cookies</strong></p>\n        <p>Tyto cookies jsou potřebné pro správné fungování webové stránky. Bez nich není možné zajistit základní funkce webu, jako například odeslání kontaktního formuláře nebo uložení vašeho nastavení cookies. Tyto cookies není možné vypnout.</p>\n        <p><strong>Analytické cookies</strong></p>\n        <p>Pokud návštěvník udělí souhlas, můžeme používat analytické nástroje k měření návštěvnosti webové stránky. Tyto údaje nám pomáhají pochopit:</p>\n        <ul>\n          <li>kolik návštěvníků web navštívilo,</li>\n          <li>které stránky jsou nejnavštěvovanější,</li>\n          <li>jak se návštěvníci po stránce pohybují,</li>\n          <li>jak můžeme web zlepšovat.</li>\n        </ul>\n        <p><strong>Marketingové cookies</strong></p>\n        <p>V současnosti webová stránka TS Palletium marketingové cookies nepoužívá. Pokud by v budoucnu byly implementovány reklamní nebo remarketingové nástroje, budou používány pouze na základě vašeho souhlasu.</p>\n\n        <h2>4. Cookies třetích stran</h2>\n        <p>Naše webová stránka může v budoucnu využívat služby třetích stran, například:</p>\n        <ul>\n          <li>Google Analytics,</li>\n          <li>Google Tag Manager,</li>\n          <li>Google Maps,</li>\n          <li>YouTube,</li>\n          <li>reCAPTCHA.</li>\n        </ul>\n        <p>Používání těchto služeb může vést k ukládání cookies třetích stran v souladu s jejich vlastními zásadami ochrany osobních údajů.</p>\n\n        <h2>5. Jak můžete cookies spravovat</h2>\n        <p>Při první návštěvě webové stránky můžete prostřednictvím cookie lišty:</p>\n        <ul>\n          <li>přijmout všechny cookies,</li>\n          <li>odmítnout nepovinné cookies,</li>\n          <li>upravit své nastavení.</li>\n        </ul>\n        <p>Svůj souhlas můžete později změnit nebo odvolat. Cookies můžete odstranit nebo zablokovat i ve svém internetovém prohlížeči. Upozorňujeme, že zablokování nezbytných cookies může ovlivnit správné fungování webové stránky.</p>\n\n        <h2>6. Změny Cookies politiky</h2>\n        <p>Společnost Tom Kave Company s. r. o. si vyhrazuje právo tuto Cookies politiku přiměřeně aktualizovat v případě změn právních předpisů nebo technického řešení webové stránky. Aktuální znění dokumentu je vždy dostupné na webové stránce www.tspalletium.com.</p>\n\n        <h2>7. Kontaktní údaje</h2>\n        <p>Máte-li otázky týkající se používání cookies nebo ochrany osobních údajů, můžete nás kontaktovat:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — městská část Juh, Slovenská republika<br>E-mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>Web: www.tspalletium.com</p>"
+   },
+   "en": {
+    "title": "Cookie Policy",
+    "h1": "Cookie <span class=\"accent\">Policy</span>",
+    "desc": "Cookie Policy of www.tspalletium.com — what cookies we use and how you can manage them.",
+    "metaline": "Effective from: 16 July 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., trading as TS Palletium",
+    "html": "<h2>1. Introduction</h2>\n        <p>This Cookie Policy explains how <strong>Tom Kave Company s. r. o.</strong>, trading as <strong>TS Palletium</strong>, uses cookies and similar technologies on the website www.tspalletium.com.</p>\n        <p>When using our website, you may be asked to consent to the use of certain categories of cookies via the cookie banner.</p>\n\n        <h2>2. What cookies are</h2>\n        <p>Cookies are small text files stored on your device when you visit a website. They help the website function properly, improve user experience and allow us to collect statistical information about site traffic.</p>\n\n        <h2>3. What cookies we use</h2>\n        <p><strong>Essential cookies</strong></p>\n        <p>These cookies are required for the website to function properly. Without them, basic features such as submitting the contact form or saving your cookie preferences cannot be provided. These cookies cannot be switched off.</p>\n        <p><strong>Analytics cookies</strong></p>\n        <p>With the visitor's consent, we may use analytics tools to measure website traffic. This data helps us understand:</p>\n        <ul>\n          <li>how many visitors came to the website,</li>\n          <li>which pages are visited most,</li>\n          <li>how visitors move around the site,</li>\n          <li>how we can improve the website.</li>\n        </ul>\n        <p><strong>Marketing cookies</strong></p>\n        <p>The TS Palletium website currently does not use marketing cookies. If advertising or remarketing tools are implemented in the future, they will only be used with your consent.</p>\n\n        <h2>4. Third-party cookies</h2>\n        <p>Our website may in the future use third-party services, for example:</p>\n        <ul>\n          <li>Google Analytics,</li>\n          <li>Google Tag Manager,</li>\n          <li>Google Maps,</li>\n          <li>YouTube,</li>\n          <li>reCAPTCHA.</li>\n        </ul>\n        <p>The use of these services may result in third-party cookies being stored in accordance with their own privacy policies.</p>\n\n        <h2>5. How you can manage cookies</h2>\n        <p>On your first visit to the website, the cookie banner allows you to:</p>\n        <ul>\n          <li>accept all cookies,</li>\n          <li>reject optional cookies,</li>\n          <li>adjust your preferences.</li>\n        </ul>\n        <p>You can change or withdraw your consent at any later time. You can also delete or block cookies in your web browser. Please note that blocking essential cookies may affect the proper functioning of the website.</p>\n\n        <h2>6. Changes to this Cookie Policy</h2>\n        <p>Tom Kave Company s. r. o. reserves the right to update this Cookie Policy as appropriate in the event of changes to legislation or to the technical implementation of the website. The current version of this document is always available at www.tspalletium.com.</p>\n\n        <h2>7. Contact details</h2>\n        <p>If you have any questions about the use of cookies or the protection of personal data, you can contact us:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — Juh district, Slovak Republic<br>E-mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>Web: www.tspalletium.com</p>"
+   },
+   "de": {
+    "title": "Cookie-Richtlinie",
+    "h1": "Cookie-<span class=\"accent\">Richtlinie</span>",
+    "desc": "Cookie-Richtlinie der Website www.tspalletium.com — welche Cookies wir verwenden und wie Sie sie verwalten können.",
+    "metaline": "Gültig ab: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., Handelsmarke TS Palletium",
+    "html": "<h2>1. Einleitung</h2>\n        <p>Diese Cookie-Richtlinie erklärt, wie <strong>Tom Kave Company s. r. o.</strong>, tätig unter der Handelsmarke <strong>TS Palletium</strong>, Cookies und ähnliche Technologien auf der Website www.tspalletium.com verwendet.</p>\n        <p>Bei der Nutzung unserer Website können Sie über die Cookie-Leiste um Ihre Einwilligung in bestimmte Cookie-Kategorien gebeten werden.</p>\n\n        <h2>2. Was Cookies sind</h2>\n        <p>Cookies sind kleine Textdateien, die beim Besuch einer Website auf Ihrem Gerät gespeichert werden. Sie sorgen für das ordnungsgemäße Funktionieren der Website, verbessern den Nutzerkomfort und ermöglichen statistische Auswertungen der Besucherzahlen.</p>\n\n        <h2>3. Welche Cookies wir verwenden</h2>\n        <p><strong>Notwendige Cookies</strong></p>\n        <p>Diese Cookies sind für das ordnungsgemäße Funktionieren der Website erforderlich. Ohne sie können grundlegende Funktionen wie das Absenden des Kontaktformulars oder das Speichern Ihrer Cookie-Einstellungen nicht bereitgestellt werden. Diese Cookies können nicht deaktiviert werden.</p>\n        <p><strong>Analyse-Cookies</strong></p>\n        <p>Mit Einwilligung des Besuchers können wir Analysetools zur Messung der Website-Besucherzahlen einsetzen. Diese Daten helfen uns zu verstehen:</p>\n        <ul>\n          <li>wie viele Besucher die Website besucht haben,</li>\n          <li>welche Seiten am häufigsten besucht werden,</li>\n          <li>wie sich Besucher auf der Website bewegen,</li>\n          <li>wie wir die Website verbessern können.</li>\n        </ul>\n        <p><strong>Marketing-Cookies</strong></p>\n        <p>Die Website von TS Palletium verwendet derzeit keine Marketing-Cookies. Sollten künftig Werbe- oder Remarketing-Tools eingesetzt werden, geschieht dies nur auf Grundlage Ihrer Einwilligung.</p>\n\n        <h2>4. Cookies von Drittanbietern</h2>\n        <p>Unsere Website kann künftig Dienste von Drittanbietern nutzen, zum Beispiel:</p>\n        <ul>\n          <li>Google Analytics,</li>\n          <li>Google Tag Manager,</li>\n          <li>Google Maps,</li>\n          <li>YouTube,</li>\n          <li>reCAPTCHA.</li>\n        </ul>\n        <p>Die Nutzung dieser Dienste kann dazu führen, dass Cookies von Drittanbietern gemäß deren eigenen Datenschutzrichtlinien gespeichert werden.</p>\n\n        <h2>5. Wie Sie Cookies verwalten können</h2>\n        <p>Beim ersten Besuch der Website können Sie über die Cookie-Leiste:</p>\n        <ul>\n          <li>alle Cookies akzeptieren,</li>\n          <li>optionale Cookies ablehnen,</li>\n          <li>Ihre Einstellungen anpassen.</li>\n        </ul>\n        <p>Sie können Ihre Einwilligung später jederzeit ändern oder widerrufen. Cookies können Sie auch in Ihrem Browser löschen oder blockieren. Bitte beachten Sie, dass das Blockieren notwendiger Cookies das ordnungsgemäße Funktionieren der Website beeinträchtigen kann.</p>\n\n        <h2>6. Änderungen dieser Cookie-Richtlinie</h2>\n        <p>Tom Kave Company s. r. o. behält sich das Recht vor, diese Cookie-Richtlinie bei Änderungen der Rechtsvorschriften oder der technischen Umsetzung der Website angemessen zu aktualisieren. Die aktuelle Fassung dieses Dokuments ist stets unter www.tspalletium.com verfügbar.</p>\n\n        <h2>7. Kontaktdaten</h2>\n        <p>Bei Fragen zur Verwendung von Cookies oder zum Schutz personenbezogener Daten können Sie uns kontaktieren:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — Stadtteil Juh, Slowakische Republik<br>E-Mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>Web: www.tspalletium.com</p>"
+   }
+  },
+  "gdpr": {
+   "sk": {
+    "title": "Zásady ochrany osobných údajov",
+    "h1": "Zásady ochrany <span class=\"accent\">osobných údajov</span> (GDPR)",
+    "desc": "Zásady ochrany osobných údajov (GDPR) spoločnosti Tom Kave Company s. r. o. — TS Palletium.",
+    "metaline": "Platnosť od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodná značka TS Palletium",
+    "html": "<h2>1. Úvod</h2>\n        <p>Spoločnosť <strong>Tom Kave Company s. r. o.</strong>, vystupujúca pod obchodnou značkou <strong>TS Palletium</strong>, rešpektuje súkromie návštevníkov svojej webovej stránky a obchodných partnerov. Tieto Zásady ochrany osobných údajov vysvetľujú, aké osobné údaje spracúvame, na aký účel ich používame a aké práva máte v súvislosti s ich spracúvaním.</p>\n\n        <h2>2. Prevádzkovateľ</h2>\n        <p><strong>Obchodné meno:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Obchodná značka:</strong> TS Palletium<br>\n        <strong>Sídlo:</strong> Južná trieda 2881/4B, 040 01 Košice — mestská časť Juh, Slovenská republika<br>\n        <strong>IČO:</strong> 56483155<br>\n        <strong>DIČ:</strong> 2122320134<br>\n        <strong>DIČ CZ:</strong> CZ688486306<br>\n        <strong>Webová stránka:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Aké údaje spracúvame</h2>\n        <p><strong>Kontaktné údaje</strong></p>\n        <ul>\n          <li>meno a priezvisko,</li>\n          <li>názov spoločnosti,</li>\n          <li>e-mailová adresa,</li>\n          <li>telefónne číslo,</li>\n          <li>pracovná pozícia.</li>\n        </ul>\n        <p><strong>Obchodné údaje</strong></p>\n        <ul>\n          <li>obsah dopytu,</li>\n          <li>objednávky,</li>\n          <li>cenové ponuky,</li>\n          <li>obchodná komunikácia.</li>\n        </ul>\n        <p><strong>Technické údaje</strong></p>\n        <ul>\n          <li>IP adresa,</li>\n          <li>typ zariadenia,</li>\n          <li>typ internetového prehliadača,</li>\n          <li>údaje o návšteve webovej stránky.</li>\n        </ul>\n\n        <h2>4. Účely spracúvania údajov</h2>\n        <p>Osobné údaje spracúvame najmä za účelom:</p>\n        <ul>\n          <li>vybavenia obchodných dopytov,</li>\n          <li>prípravy cenových ponúk,</li>\n          <li>komunikácie s obchodnými partnermi,</li>\n          <li>plnenia zmluvných povinností,</li>\n          <li>vedenia účtovnej a daňovej evidencie,</li>\n          <li>ochrany oprávnených záujmov spoločnosti,</li>\n          <li>zabezpečenia funkčnosti webovej stránky.</li>\n        </ul>\n\n        <h2>5. Právny základ spracúvania</h2>\n        <p><strong>Oprávnený záujem</strong> — napríklad pri obchodnej komunikácii medzi podnikateľskými subjektmi.</p>\n        <p><strong>Plnenie zmluvy</strong> — ak je spracúvanie potrebné na uzatvorenie alebo plnenie obchodného vzťahu.</p>\n        <p><strong>Plnenie zákonných povinností</strong> — najmä podľa účtovných, daňových a súvisiacich právnych predpisov.</p>\n        <p><strong>Súhlas</strong> — v prípadoch, keď je súhlas podľa právnych predpisov potrebný.</p>\n\n        <h2>6. Doba uchovávania údajov</h2>\n        <p>Osobné údaje uchovávame iba počas obdobia nevyhnutného na splnenie účelu, na ktorý boli získané. Údaje súvisiace s obchodnými vzťahmi a účtovníctvom uchovávame počas lehôt vyžadovaných právnymi predpismi Slovenskej republiky.</p>\n\n        <h2>7. Príjemcovia údajov</h2>\n        <p>Osobné údaje môžu byť sprístupnené:</p>\n        <ul>\n          <li>poskytovateľom IT služieb,</li>\n          <li>poskytovateľom hostingu,</li>\n          <li>účtovným a daňovým poradcom,</li>\n          <li>právnym poradcom,</li>\n          <li>orgánom verejnej moci, ak to vyžaduje zákon.</li>\n        </ul>\n        <p>Všetci príjemcovia sú povinní zabezpečiť primeranú ochranu osobných údajov.</p>\n\n        <h2>8. Prenos údajov do tretích krajín</h2>\n        <p>Spoločnosť štandardne neprenáša osobné údaje mimo Európskej únie alebo Európskeho hospodárskeho priestoru. Ak by k takémuto prenosu došlo, bude vykonaný v súlade s platnými právnymi predpismi.</p>\n\n        <h2>9. Práva dotknutých osôb</h2>\n        <p>Máte právo:</p>\n        <ul>\n          <li>požadovať prístup k svojim údajom,</li>\n          <li>požadovať opravu nesprávnych údajov,</li>\n          <li>požadovať vymazanie údajov,</li>\n          <li>požadovať obmedzenie spracúvania,</li>\n          <li>namietať proti spracúvaniu,</li>\n          <li>preniesť údaje inému prevádzkovateľovi, ak to umožňuje zákon,</li>\n          <li>podať sťažnosť dozornému orgánu.</li>\n        </ul>\n\n        <h2>10. Dozorný orgán</h2>\n        <p>Dozorným orgánom v Slovenskej republike je:</p>\n        <p><strong>Úrad na ochranu osobných údajov Slovenskej republiky</strong><br>Galvaniho Business Centrum II, Galvaniho 7/B, 821 04 Bratislava, Slovenská republika<br>Web: www.dataprotection.gov.sk</p>\n\n        <h2>11. Bezpečnosť údajov</h2>\n        <p>Spoločnosť prijíma primerané technické a organizačné opatrenia na ochranu osobných údajov pred stratou, zneužitím, neoprávneným prístupom alebo zverejnením.</p>\n\n        <h2>12. Kontaktné údaje pre GDPR</h2>\n        <p>Ak máte otázky týkajúce sa ochrany osobných údajov, môžete nás kontaktovať na e-maile: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>13. Záverečné ustanovenia</h2>\n        <p>Spoločnosť si vyhradzuje právo tieto Zásady ochrany osobných údajov primerane aktualizovať. Aktuálne znenie je vždy dostupné na webovej stránke www.tspalletium.com.</p>"
+   },
+   "cs": {
+    "title": "Zásady ochrany osobních údajů",
+    "h1": "Zásady ochrany <span class=\"accent\">osobních údajů</span> (GDPR)",
+    "desc": "Zásady ochrany osobních údajů (GDPR) společnosti Tom Kave Company s. r. o. — TS Palletium.",
+    "metaline": "Platnost od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodní značka TS Palletium",
+    "html": "<h2>1. Úvod</h2>\n        <p>Společnost <strong>Tom Kave Company s. r. o.</strong>, vystupující pod obchodní značkou <strong>TS Palletium</strong>, respektuje soukromí návštěvníků své webové stránky a obchodních partnerů. Tyto Zásady ochrany osobních údajů vysvětlují, jaké osobní údaje zpracováváme, za jakým účelem je používáme a jaká práva máte v souvislosti s jejich zpracováním.</p>\n\n        <h2>2. Správce</h2>\n        <p><strong>Obchodní jméno:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Obchodní značka:</strong> TS Palletium<br>\n        <strong>Sídlo:</strong> Južná trieda 2881/4B, 040 01 Košice — městská část Juh, Slovenská republika<br>\n        <strong>IČO:</strong> 56483155<br>\n        <strong>DIČ:</strong> 2122320134<br>\n        <strong>DIČ CZ:</strong> CZ688486306<br>\n        <strong>Webová stránka:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Jaké údaje zpracováváme</h2>\n        <p><strong>Kontaktní údaje</strong></p>\n        <ul>\n          <li>jméno a příjmení,</li>\n          <li>název společnosti,</li>\n          <li>e-mailová adresa,</li>\n          <li>telefonní číslo,</li>\n          <li>pracovní pozice.</li>\n        </ul>\n        <p><strong>Obchodní údaje</strong></p>\n        <ul>\n          <li>obsah poptávky,</li>\n          <li>objednávky,</li>\n          <li>cenové nabídky,</li>\n          <li>obchodní komunikace.</li>\n        </ul>\n        <p><strong>Technické údaje</strong></p>\n        <ul>\n          <li>IP adresa,</li>\n          <li>typ zařízení,</li>\n          <li>typ internetového prohlížeče,</li>\n          <li>údaje o návštěvě webové stránky.</li>\n        </ul>\n\n        <h2>4. Účely zpracování údajů</h2>\n        <p>Osobní údaje zpracováváme zejména za účelem:</p>\n        <ul>\n          <li>vyřízení obchodních poptávek,</li>\n          <li>přípravy cenových nabídek,</li>\n          <li>komunikace s obchodními partnery,</li>\n          <li>plnění smluvních povinností,</li>\n          <li>vedení účetní a daňové evidence,</li>\n          <li>ochrany oprávněných zájmů společnosti,</li>\n          <li>zajištění funkčnosti webové stránky.</li>\n        </ul>\n\n        <h2>5. Právní základ zpracování</h2>\n        <p><strong>Oprávněný zájem</strong> — například při obchodní komunikaci mezi podnikatelskými subjekty.</p>\n        <p><strong>Plnění smlouvy</strong> — pokud je zpracování potřebné k uzavření nebo plnění obchodního vztahu.</p>\n        <p><strong>Plnění zákonných povinností</strong> — zejména podle účetních, daňových a souvisejících právních předpisů.</p>\n        <p><strong>Souhlas</strong> — v případech, kdy je souhlas podle právních předpisů potřebný.</p>\n\n        <h2>6. Doba uchovávání údajů</h2>\n        <p>Osobní údaje uchováváme pouze po dobu nezbytnou ke splnění účelu, pro který byly získány. Údaje související s obchodními vztahy a účetnictvím uchováváme po dobu lhůt vyžadovaných právními předpisy Slovenské republiky.</p>\n\n        <h2>7. Příjemci údajů</h2>\n        <p>Osobní údaje mohou být zpřístupněny:</p>\n        <ul>\n          <li>poskytovatelům IT služeb,</li>\n          <li>poskytovatelům hostingu,</li>\n          <li>účetním a daňovým poradcům,</li>\n          <li>právním poradcům,</li>\n          <li>orgánům veřejné moci, pokud to vyžaduje zákon.</li>\n        </ul>\n        <p>Všichni příjemci jsou povinni zajistit přiměřenou ochranu osobních údajů.</p>\n\n        <h2>8. Předávání údajů do třetích zemí</h2>\n        <p>Společnost standardně nepředává osobní údaje mimo Evropskou unii nebo Evropský hospodářský prostor. Pokud by k takovému předání došlo, bude provedeno v souladu s platnými právními předpisy.</p>\n\n        <h2>9. Práva subjektů údajů</h2>\n        <p>Máte právo:</p>\n        <ul>\n          <li>požadovat přístup ke svým údajům,</li>\n          <li>požadovat opravu nesprávných údajů,</li>\n          <li>požadovat výmaz údajů,</li>\n          <li>požadovat omezení zpracování,</li>\n          <li>vznést námitku proti zpracování,</li>\n          <li>přenést údaje jinému správci, pokud to umožňuje zákon,</li>\n          <li>podat stížnost dozorovému orgánu.</li>\n        </ul>\n\n        <h2>10. Dozorový orgán</h2>\n        <p>Dozorovým orgánem ve Slovenské republice je:</p>\n        <p><strong>Úrad na ochranu osobných údajov Slovenskej republiky</strong><br>Galvaniho Business Centrum II, Galvaniho 7/B, 821 04 Bratislava, Slovenská republika<br>Web: www.dataprotection.gov.sk</p>\n\n        <h2>11. Bezpečnost údajů</h2>\n        <p>Společnost přijímá přiměřená technická a organizační opatření k ochraně osobních údajů před ztrátou, zneužitím, neoprávněným přístupem nebo zveřejněním.</p>\n\n        <h2>12. Kontaktní údaje pro GDPR</h2>\n        <p>Máte-li otázky týkající se ochrany osobních údajů, můžete nás kontaktovat na e-mailu: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>13. Závěrečná ustanovení</h2>\n        <p>Společnost si vyhrazuje právo tyto Zásady ochrany osobních údajů přiměřeně aktualizovat. Aktuální znění je vždy dostupné na webové stránce www.tspalletium.com.</p>"
+   },
+   "en": {
+    "title": "Privacy Policy",
+    "h1": "Privacy <span class=\"accent\">Policy</span> (GDPR)",
+    "desc": "Privacy Policy (GDPR) of Tom Kave Company s. r. o. — TS Palletium.",
+    "metaline": "Effective from: 16 July 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., trading as TS Palletium",
+    "html": "<h2>1. Introduction</h2>\n        <p><strong>Tom Kave Company s. r. o.</strong>, trading as <strong>TS Palletium</strong>, respects the privacy of its website visitors and business partners. This Privacy Policy explains what personal data we process, for what purposes we use it and what rights you have in relation to its processing.</p>\n\n        <h2>2. Data controller</h2>\n        <p><strong>Company name:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Trading name:</strong> TS Palletium<br>\n        <strong>Registered office:</strong> Južná trieda 2881/4B, 040 01 Košice — Juh district, Slovak Republic<br>\n        <strong>Company ID (IČO):</strong> 56483155<br>\n        <strong>Tax ID (SK):</strong> 2122320134<br>\n        <strong>VAT ID (CZ):</strong> CZ688486306<br>\n        <strong>Website:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. What data we process</h2>\n        <p><strong>Contact details</strong></p>\n        <ul>\n          <li>first name and surname,</li>\n          <li>company name,</li>\n          <li>e-mail address,</li>\n          <li>phone number,</li>\n          <li>job position.</li>\n        </ul>\n        <p><strong>Business data</strong></p>\n        <ul>\n          <li>content of enquiries,</li>\n          <li>orders,</li>\n          <li>quotations,</li>\n          <li>business correspondence.</li>\n        </ul>\n        <p><strong>Technical data</strong></p>\n        <ul>\n          <li>IP address,</li>\n          <li>device type,</li>\n          <li>browser type,</li>\n          <li>website visit data.</li>\n        </ul>\n\n        <h2>4. Purposes of processing</h2>\n        <p>We process personal data in particular in order to:</p>\n        <ul>\n          <li>handle business enquiries,</li>\n          <li>prepare quotations,</li>\n          <li>communicate with business partners,</li>\n          <li>fulfil contractual obligations,</li>\n          <li>keep accounting and tax records,</li>\n          <li>protect the company's legitimate interests,</li>\n          <li>ensure the functionality of the website.</li>\n        </ul>\n\n        <h2>5. Legal basis for processing</h2>\n        <p><strong>Legitimate interest</strong> — for example in business communication between business entities.</p>\n        <p><strong>Performance of a contract</strong> — where processing is necessary to enter into or perform a business relationship.</p>\n        <p><strong>Compliance with legal obligations</strong> — in particular under accounting, tax and related legislation.</p>\n        <p><strong>Consent</strong> — in cases where consent is required by law.</p>\n\n        <h2>6. Data retention period</h2>\n        <p>We retain personal data only for the period necessary to fulfil the purpose for which it was collected. Data related to business relationships and accounting is retained for the periods required by the laws of the Slovak Republic.</p>\n\n        <h2>7. Recipients of data</h2>\n        <p>Personal data may be disclosed to:</p>\n        <ul>\n          <li>IT service providers,</li>\n          <li>hosting providers,</li>\n          <li>accounting and tax advisors,</li>\n          <li>legal advisors,</li>\n          <li>public authorities where required by law.</li>\n        </ul>\n        <p>All recipients are obliged to ensure adequate protection of personal data.</p>\n\n        <h2>8. Transfers to third countries</h2>\n        <p>The company does not, as a rule, transfer personal data outside the European Union or the European Economic Area. Should such a transfer occur, it will be carried out in accordance with applicable legislation.</p>\n\n        <h2>9. Rights of data subjects</h2>\n        <p>You have the right to:</p>\n        <ul>\n          <li>request access to your data,</li>\n          <li>request rectification of inaccurate data,</li>\n          <li>request erasure of data,</li>\n          <li>request restriction of processing,</li>\n          <li>object to processing,</li>\n          <li>have your data transferred to another controller where permitted by law,</li>\n          <li>lodge a complaint with the supervisory authority.</li>\n        </ul>\n\n        <h2>10. Supervisory authority</h2>\n        <p>The supervisory authority in the Slovak Republic is:</p>\n        <p><strong>Office for Personal Data Protection of the Slovak Republic (Úrad na ochranu osobných údajov Slovenskej republiky)</strong><br>Galvaniho Business Centrum II, Galvaniho 7/B, 821 04 Bratislava, Slovak Republic<br>Web: www.dataprotection.gov.sk</p>\n\n        <h2>11. Data security</h2>\n        <p>The company takes appropriate technical and organisational measures to protect personal data against loss, misuse, unauthorised access or disclosure.</p>\n\n        <h2>12. GDPR contact details</h2>\n        <p>If you have any questions regarding the protection of personal data, you can contact us at: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>13. Final provisions</h2>\n        <p>The company reserves the right to update this Privacy Policy as appropriate. The current version is always available at www.tspalletium.com.</p>"
+   },
+   "de": {
+    "title": "Datenschutzerklärung",
+    "h1": "Datenschutz<span class=\"accent\">erklärung</span> (GDPR)",
+    "desc": "Datenschutzerklärung (GDPR) der Gesellschaft Tom Kave Company s. r. o. — TS Palletium.",
+    "metaline": "Gültig ab: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., Handelsmarke TS Palletium",
+    "html": "<h2>1. Einleitung</h2>\n        <p>Die Gesellschaft <strong>Tom Kave Company s. r. o.</strong>, tätig unter der Handelsmarke <strong>TS Palletium</strong>, respektiert die Privatsphäre der Besucher ihrer Website und ihrer Geschäftspartner. Diese Datenschutzerklärung erläutert, welche personenbezogenen Daten wir verarbeiten, zu welchen Zwecken wir sie verwenden und welche Rechte Ihnen im Zusammenhang mit ihrer Verarbeitung zustehen.</p>\n\n        <h2>2. Verantwortlicher</h2>\n        <p><strong>Firmenname:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Handelsmarke:</strong> TS Palletium<br>\n        <strong>Sitz:</strong> Južná trieda 2881/4B, 040 01 Košice — Stadtteil Juh, Slowakische Republik<br>\n        <strong>Reg.-Nr. (IČO):</strong> 56483155<br>\n        <strong>Steuer-ID (SK):</strong> 2122320134<br>\n        <strong>USt-IdNr. (CZ):</strong> CZ688486306<br>\n        <strong>Website:</strong> www.tspalletium.com<br>\n        <strong>E-Mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Welche Daten wir verarbeiten</h2>\n        <p><strong>Kontaktdaten</strong></p>\n        <ul>\n          <li>Vor- und Nachname,</li>\n          <li>Firmenname,</li>\n          <li>E-Mail-Adresse,</li>\n          <li>Telefonnummer,</li>\n          <li>Position im Unternehmen.</li>\n        </ul>\n        <p><strong>Geschäftsdaten</strong></p>\n        <ul>\n          <li>Inhalt der Anfrage,</li>\n          <li>Bestellungen,</li>\n          <li>Angebote,</li>\n          <li>Geschäftskorrespondenz.</li>\n        </ul>\n        <p><strong>Technische Daten</strong></p>\n        <ul>\n          <li>IP-Adresse,</li>\n          <li>Gerätetyp,</li>\n          <li>Browsertyp,</li>\n          <li>Daten über den Website-Besuch.</li>\n        </ul>\n\n        <h2>4. Zwecke der Datenverarbeitung</h2>\n        <p>Wir verarbeiten personenbezogene Daten insbesondere zu folgenden Zwecken:</p>\n        <ul>\n          <li>Bearbeitung geschäftlicher Anfragen,</li>\n          <li>Erstellung von Angeboten,</li>\n          <li>Kommunikation mit Geschäftspartnern,</li>\n          <li>Erfüllung vertraglicher Pflichten,</li>\n          <li>Führung der Buchhaltungs- und Steuerunterlagen,</li>\n          <li>Schutz der berechtigten Interessen der Gesellschaft,</li>\n          <li>Sicherstellung der Funktionsfähigkeit der Website.</li>\n        </ul>\n\n        <h2>5. Rechtsgrundlage der Verarbeitung</h2>\n        <p><strong>Berechtigtes Interesse</strong> — zum Beispiel bei der geschäftlichen Kommunikation zwischen Unternehmen.</p>\n        <p><strong>Vertragserfüllung</strong> — wenn die Verarbeitung für den Abschluss oder die Erfüllung einer Geschäftsbeziehung erforderlich ist.</p>\n        <p><strong>Erfüllung gesetzlicher Pflichten</strong> — insbesondere nach buchhalterischen, steuerlichen und damit zusammenhängenden Rechtsvorschriften.</p>\n        <p><strong>Einwilligung</strong> — in Fällen, in denen eine Einwilligung gesetzlich erforderlich ist.</p>\n\n        <h2>6. Speicherdauer</h2>\n        <p>Wir speichern personenbezogene Daten nur so lange, wie es zur Erfüllung des Zwecks, für den sie erhoben wurden, erforderlich ist. Daten im Zusammenhang mit Geschäftsbeziehungen und Buchhaltung speichern wir für die von den Rechtsvorschriften der Slowakischen Republik geforderten Fristen.</p>\n\n        <h2>7. Empfänger der Daten</h2>\n        <p>Personenbezogene Daten können zugänglich gemacht werden:</p>\n        <ul>\n          <li>IT-Dienstleistern,</li>\n          <li>Hosting-Anbietern,</li>\n          <li>Buchhaltungs- und Steuerberatern,</li>\n          <li>Rechtsberatern,</li>\n          <li>Behörden, soweit gesetzlich vorgeschrieben.</li>\n        </ul>\n        <p>Alle Empfänger sind verpflichtet, einen angemessenen Schutz personenbezogener Daten zu gewährleisten.</p>\n\n        <h2>8. Übermittlung in Drittländer</h2>\n        <p>Die Gesellschaft übermittelt personenbezogene Daten grundsätzlich nicht außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums. Sollte eine solche Übermittlung erfolgen, wird sie im Einklang mit den geltenden Rechtsvorschriften durchgeführt.</p>\n\n        <h2>9. Rechte der betroffenen Personen</h2>\n        <p>Sie haben das Recht:</p>\n        <ul>\n          <li>Auskunft über Ihre Daten zu verlangen,</li>\n          <li>die Berichtigung unrichtiger Daten zu verlangen,</li>\n          <li>die Löschung der Daten zu verlangen,</li>\n          <li>die Einschränkung der Verarbeitung zu verlangen,</li>\n          <li>der Verarbeitung zu widersprechen,</li>\n          <li>Ihre Daten an einen anderen Verantwortlichen übertragen zu lassen, soweit gesetzlich zulässig,</li>\n          <li>Beschwerde bei der Aufsichtsbehörde einzulegen.</li>\n        </ul>\n\n        <h2>10. Aufsichtsbehörde</h2>\n        <p>Aufsichtsbehörde in der Slowakischen Republik ist:</p>\n        <p><strong>Amt für den Schutz personenbezogener Daten der Slowakischen Republik (Úrad na ochranu osobných údajov Slovenskej republiky)</strong><br>Galvaniho Business Centrum II, Galvaniho 7/B, 821 04 Bratislava, Slowakische Republik<br>Web: www.dataprotection.gov.sk</p>\n\n        <h2>11. Datensicherheit</h2>\n        <p>Die Gesellschaft trifft angemessene technische und organisatorische Maßnahmen zum Schutz personenbezogener Daten vor Verlust, Missbrauch, unbefugtem Zugriff oder Offenlegung.</p>\n\n        <h2>12. Kontakt für Datenschutzfragen</h2>\n        <p>Bei Fragen zum Schutz personenbezogener Daten können Sie uns kontaktieren unter: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>13. Schlussbestimmungen</h2>\n        <p>Die Gesellschaft behält sich das Recht vor, diese Datenschutzerklärung angemessen zu aktualisieren. Die aktuelle Fassung ist stets unter www.tspalletium.com verfügbar.</p>"
+   }
+  },
+  "obchodne-podmienky": {
+   "sk": {
+    "title": "Obchodné podmienky",
+    "h1": "Obchodné <span class=\"accent\">podmienky</span>",
+    "desc": "Obchodné podmienky spoločnosti TS Palletium (Tom Kave Company s. r. o.) pre B2B obchodné vzťahy pri dodávkach paliet.",
+    "metaline": "Platnosť od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodná značka TS Palletium",
+    "html": "<h2>1. Úvodné ustanovenia</h2>\n        <p>Tieto Obchodné podmienky upravujú obchodné vzťahy medzi spoločnosťou <strong>Tom Kave Company s. r. o.</strong>, ktorá vystupuje pod obchodnou značkou <strong>TS Palletium</strong>, a jej obchodnými partnermi pri dodávke drevených paliet, logistických služieb a súvisiacich obchodných činností.</p>\n        <p>Tieto podmienky sa vzťahujú výlučne na obchodné vzťahy medzi podnikateľmi (B2B).</p>\n\n        <h2>2. Identifikačné údaje spoločnosti</h2>\n        <p><strong>Obchodné meno:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Obchodná značka:</strong> TS Palletium<br>\n        <strong>Sídlo:</strong> Južná trieda 2881/4B, 040 01 Košice — mestská časť Juh, Slovenská republika<br>\n        <strong>IČO:</strong> 56483155<br>\n        <strong>DIČ:</strong> 2122320134<br>\n        <strong>DIČ CZ:</strong> CZ688486306<br>\n        <strong>Web:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Predmet podnikania</h2>\n        <p>TS Palletium zabezpečuje najmä:</p>\n        <ul>\n          <li>nákup a predaj drevených paliet,</li>\n          <li>dodávky EPAL, EUR a priemyselných paliet,</li>\n          <li>výkup použitých paliet,</li>\n          <li>logistické zabezpečenie dodávok,</li>\n          <li>sprostredkovanie obchodných príležitostí v oblasti paliet a logistických riešení.</li>\n        </ul>\n\n        <h2>4. Cenové ponuky</h2>\n        <p>Všetky cenové ponuky spoločnosti TS Palletium sú individuálne a vypracúvajú sa na základe požadovaného množstva, typu paliet, miesta dodania, termínu dodania a aktuálnej situácie na trhu. Pokiaľ nie je uvedené inak, cenová ponuka platí počas obdobia uvedeného v ponuke.</p>\n\n        <h2>5. Uzatvorenie obchodu</h2>\n        <p>K uzatvoreniu obchodného vzťahu dochádza po písomnom potvrdení objednávky oboma stranami prostredníctvom e-mailu alebo iným dohodnutým spôsobom. Samotné odoslanie dopytu prostredníctvom webovej stránky nezakladá vznik zmluvného vzťahu.</p>\n\n        <h2>6. Platobné podmienky</h2>\n        <p>Platobné podmienky sú dohodnuté individuálne. Spoločnosť môže požadovať:</p>\n        <ul>\n          <li>platbu vopred,</li>\n          <li>čiastočnú zálohu,</li>\n          <li>platbu po dodaní,</li>\n          <li>alebo inú dohodnutú formu úhrady.</li>\n        </ul>\n        <p>V prípade omeškania s úhradou si spoločnosť vyhradzuje právo účtovať zákonný úrok z omeškania podľa platných právnych predpisov.</p>\n\n        <h2>7. Dodacie podmienky</h2>\n        <p>Dodacie termíny závisia od dostupnosti tovaru, výrobných kapacít a logistických možností. TS Palletium vynaloží primerané úsilie na dodržanie dohodnutých termínov, avšak nezodpovedá za omeškanie spôsobené okolnosťami, ktoré nemôže primerane ovplyvniť.</p>\n\n        <h2>8. Prevzatie tovaru</h2>\n        <p>Kupujúci je povinný pri prevzatí skontrolovať:</p>\n        <ul>\n          <li>množstvo,</li>\n          <li>viditeľný stav tovaru,</li>\n          <li>prípadné poškodenie počas prepravy.</li>\n        </ul>\n        <p>Viditeľné vady je potrebné oznámiť bez zbytočného odkladu.</p>\n\n        <h2>9. Reklamácie</h2>\n        <p>Reklamácie sa podávajú písomne na adresu: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n        <p>Reklamácia musí obsahovať:</p>\n        <ul>\n          <li>identifikáciu objednávky,</li>\n          <li>opis vady,</li>\n          <li>fotodokumentáciu (ak je to možné),</li>\n          <li>kontaktné údaje kupujúceho.</li>\n        </ul>\n        <p>Každá reklamácia bude individuálne posúdená.</p>\n\n        <h2>10. Zodpovednosť</h2>\n        <p>TS Palletium nezodpovedá za škody spôsobené:</p>\n        <ul>\n          <li>nesprávnym skladovaním paliet,</li>\n          <li>nevhodnou manipuláciou,</li>\n          <li>používaním v rozpore s ich určením,</li>\n          <li>zásahom vyššej moci.</li>\n        </ul>\n\n        <h2>11. Vyššia moc</h2>\n        <p>Za vyššiu moc sa považujú najmä:</p>\n        <ul>\n          <li>prírodné katastrofy,</li>\n          <li>vojnové udalosti,</li>\n          <li>štrajky,</li>\n          <li>výpadky dopravy,</li>\n          <li>mimoriadne opatrenia orgánov verejnej moci,</li>\n          <li>iné nepredvídateľné okolnosti.</li>\n        </ul>\n        <p>Počas trvania vyššej moci nenesie žiadna zo strán zodpovednosť za nemožnosť plnenia svojich povinností.</p>\n\n        <h2>12. Dôvernosť</h2>\n        <p>Obe strany sa zaväzujú zachovávať mlčanlivosť o všetkých obchodných, technických a cenových informáciách získaných počas spolupráce, pokiaľ ich zverejnenie nevyžaduje zákon alebo sa na ňom strany výslovne nedohodnú.</p>\n\n        <h2>13. Rozhodné právo</h2>\n        <p>Tieto obchodné podmienky sa riadia právnym poriadkom Slovenskej republiky. Prípadné spory sa budú riešiť prednostne rokovaním. Ak nedôjde k dohode, rozhodovať budú príslušné súdy Slovenskej republiky.</p>\n\n        <h2>14. Záverečné ustanovenia</h2>\n        <p>TS Palletium si vyhradzuje právo tieto Obchodné podmienky primerane meniť alebo dopĺňať. Aktuálne znenie je vždy zverejnené na webovej stránke www.tspalletium.com.</p>\n        <p>Používaním webovej stránky a nadviazaním obchodného vzťahu obchodný partner potvrdzuje, že sa s týmito Obchodnými podmienkami oboznámil.</p>"
+   },
+   "cs": {
+    "title": "Obchodní podmínky",
+    "h1": "Obchodní <span class=\"accent\">podmínky</span>",
+    "desc": "Obchodní podmínky společnosti TS Palletium (Tom Kave Company s. r. o.) pro B2B obchodní vztahy při dodávkách palet.",
+    "metaline": "Platnost od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodní značka TS Palletium",
+    "html": "<h2>1. Úvodní ustanovení</h2>\n        <p>Tyto Obchodní podmínky upravují obchodní vztahy mezi společností <strong>Tom Kave Company s. r. o.</strong>, která vystupuje pod obchodní značkou <strong>TS Palletium</strong>, a jejími obchodními partnery při dodávce dřevěných palet, logistických služeb a souvisejících obchodních činností.</p>\n        <p>Tyto podmínky se vztahují výlučně na obchodní vztahy mezi podnikateli (B2B).</p>\n\n        <h2>2. Identifikační údaje společnosti</h2>\n        <p><strong>Obchodní jméno:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Obchodní značka:</strong> TS Palletium<br>\n        <strong>Sídlo:</strong> Južná trieda 2881/4B, 040 01 Košice — městská část Juh, Slovenská republika<br>\n        <strong>IČO:</strong> 56483155<br>\n        <strong>DIČ:</strong> 2122320134<br>\n        <strong>DIČ CZ:</strong> CZ688486306<br>\n        <strong>Web:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Předmět podnikání</h2>\n        <p>TS Palletium zajišťuje zejména:</p>\n        <ul>\n          <li>nákup a prodej dřevěných palet,</li>\n          <li>dodávky EPAL, EUR a průmyslových palet,</li>\n          <li>výkup použitých palet,</li>\n          <li>logistické zajištění dodávek,</li>\n          <li>zprostředkování obchodních příležitostí v oblasti palet a logistických řešení.</li>\n        </ul>\n\n        <h2>4. Cenové nabídky</h2>\n        <p>Všechny cenové nabídky společnosti TS Palletium jsou individuální a zpracovávají se na základě požadovaného množství, typu palet, místa dodání, termínu dodání a aktuální situace na trhu. Není-li uvedeno jinak, cenová nabídka platí po dobu uvedenou v nabídce.</p>\n\n        <h2>5. Uzavření obchodu</h2>\n        <p>K uzavření obchodního vztahu dochází po písemném potvrzení objednávky oběma stranami prostřednictvím e-mailu nebo jiným dohodnutým způsobem. Samotné odeslání poptávky prostřednictvím webové stránky nezakládá vznik smluvního vztahu.</p>\n\n        <h2>6. Platební podmínky</h2>\n        <p>Platební podmínky jsou sjednány individuálně. Společnost může požadovat:</p>\n        <ul>\n          <li>platbu předem,</li>\n          <li>částečnou zálohu,</li>\n          <li>platbu po dodání,</li>\n          <li>nebo jinou dohodnutou formu úhrady.</li>\n        </ul>\n        <p>V případě prodlení s úhradou si společnost vyhrazuje právo účtovat zákonný úrok z prodlení podle platných právních předpisů.</p>\n\n        <h2>7. Dodací podmínky</h2>\n        <p>Dodací termíny závisí na dostupnosti zboží, výrobních kapacitách a logistických možnostech. TS Palletium vynaloží přiměřené úsilí na dodržení dohodnutých termínů, avšak neodpovídá za zpoždění způsobené okolnostmi, které nemůže přiměřeně ovlivnit.</p>\n\n        <h2>8. Převzetí zboží</h2>\n        <p>Kupující je povinen při převzetí zkontrolovat:</p>\n        <ul>\n          <li>množství,</li>\n          <li>viditelný stav zboží,</li>\n          <li>případné poškození během přepravy.</li>\n        </ul>\n        <p>Viditelné vady je třeba oznámit bez zbytečného odkladu.</p>\n\n        <h2>9. Reklamace</h2>\n        <p>Reklamace se podávají písemně na adresu: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n        <p>Reklamace musí obsahovat:</p>\n        <ul>\n          <li>identifikaci objednávky,</li>\n          <li>popis vady,</li>\n          <li>fotodokumentaci (je-li to možné),</li>\n          <li>kontaktní údaje kupujícího.</li>\n        </ul>\n        <p>Každá reklamace bude individuálně posouzena.</p>\n\n        <h2>10. Odpovědnost</h2>\n        <p>TS Palletium neodpovídá za škody způsobené:</p>\n        <ul>\n          <li>nesprávným skladováním palet,</li>\n          <li>nevhodnou manipulací,</li>\n          <li>používáním v rozporu s jejich určením,</li>\n          <li>zásahem vyšší moci.</li>\n        </ul>\n\n        <h2>11. Vyšší moc</h2>\n        <p>Za vyšší moc se považují zejména:</p>\n        <ul>\n          <li>přírodní katastrofy,</li>\n          <li>válečné události,</li>\n          <li>stávky,</li>\n          <li>výpadky dopravy,</li>\n          <li>mimořádná opatření orgánů veřejné moci,</li>\n          <li>jiné nepředvídatelné okolnosti.</li>\n        </ul>\n        <p>Po dobu trvání vyšší moci nenese žádná ze stran odpovědnost za nemožnost plnění svých povinností.</p>\n\n        <h2>12. Důvěrnost</h2>\n        <p>Obě strany se zavazují zachovávat mlčenlivost o všech obchodních, technických a cenových informacích získaných během spolupráce, pokud jejich zveřejnění nevyžaduje zákon nebo se na něm strany výslovně nedohodnou.</p>\n\n        <h2>13. Rozhodné právo</h2>\n        <p>Tyto obchodní podmínky se řídí právním řádem Slovenské republiky. Případné spory se budou řešit přednostně jednáním. Nedojde-li k dohodě, rozhodovat budou příslušné soudy Slovenské republiky.</p>\n\n        <h2>14. Závěrečná ustanovení</h2>\n        <p>TS Palletium si vyhrazuje právo tyto Obchodní podmínky přiměřeně měnit nebo doplňovat. Aktuální znění je vždy zveřejněno na webové stránce www.tspalletium.com.</p>\n        <p>Používáním webové stránky a navázáním obchodního vztahu obchodní partner potvrzuje, že se s těmito Obchodními podmínkami seznámil.</p>"
+   },
+   "en": {
+    "title": "Terms and Conditions",
+    "h1": "Terms &amp; <span class=\"accent\">Conditions</span>",
+    "desc": "Terms and Conditions of TS Palletium (Tom Kave Company s. r. o.) for B2B business relationships in pallet supply.",
+    "metaline": "Effective from: 16 July 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., trading as TS Palletium",
+    "html": "<h2>1. Introductory provisions</h2>\n        <p>These Terms and Conditions govern business relationships between <strong>Tom Kave Company s. r. o.</strong>, trading as <strong>TS Palletium</strong>, and its business partners in the supply of wooden pallets, logistics services and related business activities.</p>\n        <p>These terms apply exclusively to business-to-business (B2B) relationships.</p>\n\n        <h2>2. Company identification</h2>\n        <p><strong>Company name:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Trading name:</strong> TS Palletium<br>\n        <strong>Registered office:</strong> Južná trieda 2881/4B, 040 01 Košice — Juh district, Slovak Republic<br>\n        <strong>Company ID (IČO):</strong> 56483155<br>\n        <strong>Tax ID (SK):</strong> 2122320134<br>\n        <strong>VAT ID (CZ):</strong> CZ688486306<br>\n        <strong>Web:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Scope of business</h2>\n        <p>TS Palletium provides in particular:</p>\n        <ul>\n          <li>purchase and sale of wooden pallets,</li>\n          <li>supply of EPAL, EUR and industrial pallets,</li>\n          <li>buyback of used pallets,</li>\n          <li>logistics arrangements for deliveries,</li>\n          <li>brokering of business opportunities in pallets and logistics solutions.</li>\n        </ul>\n\n        <h2>4. Quotations</h2>\n        <p>All quotations issued by TS Palletium are individual and are prepared based on the required quantity, pallet type, place of delivery, delivery date and the current market situation. Unless stated otherwise, a quotation is valid for the period indicated in it.</p>\n\n        <h2>5. Conclusion of a transaction</h2>\n        <p>A business relationship is concluded upon written confirmation of the order by both parties by e-mail or in another agreed manner. Merely sending an enquiry via the website does not create a contractual relationship.</p>\n\n        <h2>6. Payment terms</h2>\n        <p>Payment terms are agreed individually. The company may require:</p>\n        <ul>\n          <li>payment in advance,</li>\n          <li>a partial deposit,</li>\n          <li>payment after delivery,</li>\n          <li>or another agreed form of payment.</li>\n        </ul>\n        <p>In the event of late payment, the company reserves the right to charge statutory default interest in accordance with applicable legislation.</p>\n\n        <h2>7. Delivery terms</h2>\n        <p>Delivery dates depend on the availability of goods, production capacity and logistics options. TS Palletium will make reasonable efforts to meet agreed dates but is not liable for delays caused by circumstances beyond its reasonable control.</p>\n\n        <h2>8. Acceptance of goods</h2>\n        <p>Upon acceptance, the buyer is obliged to check:</p>\n        <ul>\n          <li>the quantity,</li>\n          <li>the visible condition of the goods,</li>\n          <li>any damage caused during transport.</li>\n        </ul>\n        <p>Visible defects must be reported without undue delay.</p>\n\n        <h2>9. Complaints</h2>\n        <p>Complaints must be submitted in writing to: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n        <p>A complaint must include:</p>\n        <ul>\n          <li>identification of the order,</li>\n          <li>a description of the defect,</li>\n          <li>photo documentation (where possible),</li>\n          <li>the buyer's contact details.</li>\n        </ul>\n        <p>Each complaint will be assessed individually.</p>\n\n        <h2>10. Liability</h2>\n        <p>TS Palletium is not liable for damage caused by:</p>\n        <ul>\n          <li>improper storage of pallets,</li>\n          <li>inappropriate handling,</li>\n          <li>use contrary to their intended purpose,</li>\n          <li>force majeure.</li>\n        </ul>\n\n        <h2>11. Force majeure</h2>\n        <p>Force majeure includes in particular:</p>\n        <ul>\n          <li>natural disasters,</li>\n          <li>acts of war,</li>\n          <li>strikes,</li>\n          <li>transport outages,</li>\n          <li>extraordinary measures by public authorities,</li>\n          <li>other unforeseeable circumstances.</li>\n        </ul>\n        <p>For the duration of force majeure, neither party is liable for the inability to perform its obligations.</p>\n\n        <h2>12. Confidentiality</h2>\n        <p>Both parties undertake to keep confidential all business, technical and pricing information obtained during their cooperation, unless its disclosure is required by law or expressly agreed by the parties.</p>\n\n        <h2>13. Governing law</h2>\n        <p>These terms and conditions are governed by the laws of the Slovak Republic. Any disputes will preferably be resolved by negotiation. If no agreement is reached, the competent courts of the Slovak Republic will decide.</p>\n\n        <h2>14. Final provisions</h2>\n        <p>TS Palletium reserves the right to amend or supplement these Terms and Conditions as appropriate. The current version is always published at www.tspalletium.com.</p>\n        <p>By using the website and entering into a business relationship, the business partner confirms having read these Terms and Conditions.</p>"
+   },
+   "de": {
+    "title": "Allgemeine Geschäftsbedingungen",
+    "h1": "Allgemeine <span class=\"accent\">Geschäftsbedingungen</span>",
+    "desc": "Allgemeine Geschäftsbedingungen von TS Palletium (Tom Kave Company s. r. o.) für B2B-Geschäftsbeziehungen bei Palettenlieferungen.",
+    "metaline": "Gültig ab: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., Handelsmarke TS Palletium",
+    "html": "<h2>1. Einleitende Bestimmungen</h2>\n        <p>Diese Allgemeinen Geschäftsbedingungen regeln die Geschäftsbeziehungen zwischen der Gesellschaft <strong>Tom Kave Company s. r. o.</strong>, tätig unter der Handelsmarke <strong>TS Palletium</strong>, und ihren Geschäftspartnern bei der Lieferung von Holzpaletten, Logistikdienstleistungen und damit verbundenen Geschäftstätigkeiten.</p>\n        <p>Diese Bedingungen gelten ausschließlich für Geschäftsbeziehungen zwischen Unternehmern (B2B).</p>\n\n        <h2>2. Identifikationsdaten der Gesellschaft</h2>\n        <p><strong>Firmenname:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Handelsmarke:</strong> TS Palletium<br>\n        <strong>Sitz:</strong> Južná trieda 2881/4B, 040 01 Košice — Stadtteil Juh, Slowakische Republik<br>\n        <strong>Reg.-Nr. (IČO):</strong> 56483155<br>\n        <strong>Steuer-ID (SK):</strong> 2122320134<br>\n        <strong>USt-IdNr. (CZ):</strong> CZ688486306<br>\n        <strong>Web:</strong> www.tspalletium.com<br>\n        <strong>E-Mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n\n        <h2>3. Geschäftsgegenstand</h2>\n        <p>TS Palletium bietet insbesondere:</p>\n        <ul>\n          <li>Ankauf und Verkauf von Holzpaletten,</li>\n          <li>Lieferung von EPAL-, EUR- und Industriepaletten,</li>\n          <li>Ankauf gebrauchter Paletten,</li>\n          <li>logistische Abwicklung der Lieferungen,</li>\n          <li>Vermittlung von Geschäftsmöglichkeiten im Bereich Paletten und Logistiklösungen.</li>\n        </ul>\n\n        <h2>4. Angebote</h2>\n        <p>Alle Angebote der Gesellschaft TS Palletium sind individuell und werden auf Grundlage der gewünschten Menge, des Palettentyps, des Lieferorts, des Liefertermins und der aktuellen Marktlage erstellt. Sofern nicht anders angegeben, gilt ein Angebot für den im Angebot genannten Zeitraum.</p>\n\n        <h2>5. Vertragsabschluss</h2>\n        <p>Eine Geschäftsbeziehung kommt durch schriftliche Bestätigung der Bestellung durch beide Parteien per E-Mail oder auf andere vereinbarte Weise zustande. Das bloße Absenden einer Anfrage über die Website begründet kein Vertragsverhältnis.</p>\n\n        <h2>6. Zahlungsbedingungen</h2>\n        <p>Die Zahlungsbedingungen werden individuell vereinbart. Die Gesellschaft kann verlangen:</p>\n        <ul>\n          <li>Vorauszahlung,</li>\n          <li>teilweise Anzahlung,</li>\n          <li>Zahlung nach Lieferung,</li>\n          <li>oder eine andere vereinbarte Zahlungsform.</li>\n        </ul>\n        <p>Bei Zahlungsverzug behält sich die Gesellschaft das Recht vor, gesetzliche Verzugszinsen gemäß den geltenden Rechtsvorschriften zu berechnen.</p>\n\n        <h2>7. Lieferbedingungen</h2>\n        <p>Liefertermine hängen von der Verfügbarkeit der Ware, den Produktionskapazitäten und den logistischen Möglichkeiten ab. TS Palletium wird angemessene Anstrengungen unternehmen, vereinbarte Termine einzuhalten, haftet jedoch nicht für Verzögerungen aufgrund von Umständen, die es nicht angemessen beeinflussen kann.</p>\n\n        <h2>8. Warenübernahme</h2>\n        <p>Der Käufer ist verpflichtet, bei der Übernahme zu prüfen:</p>\n        <ul>\n          <li>die Menge,</li>\n          <li>den sichtbaren Zustand der Ware,</li>\n          <li>etwaige Transportschäden.</li>\n        </ul>\n        <p>Sichtbare Mängel sind unverzüglich anzuzeigen.</p>\n\n        <h2>9. Reklamationen</h2>\n        <p>Reklamationen sind schriftlich zu richten an: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a></p>\n        <p>Eine Reklamation muss enthalten:</p>\n        <ul>\n          <li>die Identifikation der Bestellung,</li>\n          <li>eine Beschreibung des Mangels,</li>\n          <li>Fotodokumentation (soweit möglich),</li>\n          <li>die Kontaktdaten des Käufers.</li>\n        </ul>\n        <p>Jede Reklamation wird individuell geprüft.</p>\n\n        <h2>10. Haftung</h2>\n        <p>TS Palletium haftet nicht für Schäden durch:</p>\n        <ul>\n          <li>unsachgemäße Lagerung der Paletten,</li>\n          <li>ungeeignete Handhabung,</li>\n          <li>bestimmungswidrige Verwendung,</li>\n          <li>höhere Gewalt.</li>\n        </ul>\n\n        <h2>11. Höhere Gewalt</h2>\n        <p>Als höhere Gewalt gelten insbesondere:</p>\n        <ul>\n          <li>Naturkatastrophen,</li>\n          <li>Kriegsereignisse,</li>\n          <li>Streiks,</li>\n          <li>Transportausfälle,</li>\n          <li>außerordentliche Maßnahmen von Behörden,</li>\n          <li>sonstige unvorhersehbare Umstände.</li>\n        </ul>\n        <p>Für die Dauer höherer Gewalt haftet keine der Parteien für die Unmöglichkeit der Erfüllung ihrer Pflichten.</p>\n\n        <h2>12. Vertraulichkeit</h2>\n        <p>Beide Parteien verpflichten sich, über alle geschäftlichen, technischen und preislichen Informationen, die sie während der Zusammenarbeit erhalten, Stillschweigen zu bewahren, sofern deren Offenlegung nicht gesetzlich vorgeschrieben ist oder die Parteien nicht ausdrücklich etwas anderes vereinbaren.</p>\n\n        <h2>13. Anwendbares Recht</h2>\n        <p>Diese Geschäftsbedingungen unterliegen dem Recht der Slowakischen Republik. Etwaige Streitigkeiten werden vorrangig durch Verhandlungen beigelegt. Kommt keine Einigung zustande, entscheiden die zuständigen Gerichte der Slowakischen Republik.</p>\n\n        <h2>14. Schlussbestimmungen</h2>\n        <p>TS Palletium behält sich das Recht vor, diese Geschäftsbedingungen angemessen zu ändern oder zu ergänzen. Die aktuelle Fassung wird stets auf der Website www.tspalletium.com veröffentlicht.</p>\n        <p>Durch die Nutzung der Website und die Aufnahme einer Geschäftsbeziehung bestätigt der Geschäftspartner, diese Geschäftsbedingungen zur Kenntnis genommen zu haben.</p>"
+   }
+  },
+  "pravne-informacie": {
+   "sk": {
+    "title": "Právne informácie",
+    "h1": "Právne informácie <span class=\"accent\">(Impressum)</span>",
+    "desc": "Právne informácie (Impressum) webovej stránky www.tspalletium.com — Tom Kave Company s. r. o., obchodná značka TS Palletium.",
+    "metaline": "Platnosť od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodná značka TS Palletium",
+    "html": "<h2>1. Prevádzkovateľ webovej stránky</h2>\n        <p>Webová stránka www.tspalletium.com je prevádzkovaná spoločnosťou:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>obchodná značka: TS Palletium</p>\n\n        <h2>2. Identifikačné údaje spoločnosti</h2>\n        <p><strong>Obchodné meno:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Sídlo spoločnosti:</strong> Južná trieda 2881/4B, 040 01 Košice — mestská časť Juh, Slovenská republika<br>\n        <strong>IČO:</strong> 56483155<br>\n        <strong>DIČ:</strong> 2122320134<br>\n        <strong>DIČ CZ:</strong> CZ688486306</p>\n\n        <h2>3. Kontaktné údaje</h2>\n        <p><strong>Webová stránka:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>\n        <strong>Telefón:</strong> <a href=\"tel:+420704222545\">+420 704 222 545</a></p>\n\n        <h2>4. Predmet činnosti</h2>\n        <p>TS Palletium sa špecializuje na:</p>\n        <ul>\n          <li>obchod s drevenými paletami,</li>\n          <li>dodávky EUR, EPAL a priemyselných paliet,</li>\n          <li>logistické riešenia súvisiace s distribúciou paliet,</li>\n          <li>prepájanie výrobcov, dodávateľov a odberateľov v rámci európskeho trhu.</li>\n        </ul>\n\n        <h2>5. Zodpovednosť za obsah webovej stránky</h2>\n        <p>Spoločnosť Tom Kave Company s. r. o. venuje primeranú pozornosť správnosti, aktuálnosti a úplnosti informácií uvedených na webovej stránke. Napriek tomu nie je možné úplne vylúčiť možnosť vzniku nepresností alebo technických chýb.</p>\n        <p>Spoločnosť si vyhradzuje právo upravovať, meniť alebo aktualizovať obsah webovej stránky bez predchádzajúceho upozornenia.</p>\n\n        <h2>6. Duševné vlastníctvo</h2>\n        <p>Obsah webovej stránky www.tspalletium.com, vrátane textov, grafických prvkov, loga, fotografií a ďalších materiálov, môže byť chránený právami duševného vlastníctva. Použitie alebo kopírovanie obsahu bez predchádzajúceho súhlasu spoločnosti Tom Kave Company s. r. o. nie je povolené, pokiaľ právne predpisy neurčujú inak.</p>\n\n        <h2>7. Odkazy na externé stránky</h2>\n        <p>Webová stránka môže obsahovať odkazy na webové stránky tretích strán. Spoločnosť Tom Kave Company s. r. o. nenesie zodpovednosť za obsah, bezpečnosť ani postupy ochrany osobných údajov týchto externých stránok.</p>\n\n        <h2>8. Ochrana osobných údajov</h2>\n        <p>Informácie o spracúvaní osobných údajov sú uvedené v samostatnom dokumente <a href=\"gdpr.html\">Zásady ochrany osobných údajov (GDPR)</a>.</p>\n\n        <h2>9. Cookies</h2>\n        <p>Informácie o používaní cookies sú uvedené v samostatnom dokumente <a href=\"cookies.html\">Cookies politika</a>.</p>\n\n        <h2>10. Rozhodné právo</h2>\n        <p>Právne vzťahy súvisiace s používaním tejto webovej stránky sa riadia právnym poriadkom Slovenskej republiky.</p>\n\n        <h2>11. Kontaktné údaje</h2>\n        <p>V prípade otázok týkajúcich sa webovej stránky nás môžete kontaktovať:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — mestská časť Juh, Slovenská republika<br>E-mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>www.tspalletium.com</p>"
+   },
+   "cs": {
+    "title": "Právní informace",
+    "h1": "Právní informace <span class=\"accent\">(Impressum)</span>",
+    "desc": "Právní informace (Impressum) webové stránky www.tspalletium.com — Tom Kave Company s. r. o., obchodní značka TS Palletium.",
+    "metaline": "Platnost od: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., obchodní značka TS Palletium",
+    "html": "<h2>1. Provozovatel webové stránky</h2>\n        <p>Webová stránka www.tspalletium.com je provozována společností:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>obchodní značka: TS Palletium</p>\n\n        <h2>2. Identifikační údaje společnosti</h2>\n        <p><strong>Obchodní jméno:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Sídlo společnosti:</strong> Južná trieda 2881/4B, 040 01 Košice — městská část Juh, Slovenská republika<br>\n        <strong>IČO:</strong> 56483155<br>\n        <strong>DIČ:</strong> 2122320134<br>\n        <strong>DIČ CZ:</strong> CZ688486306</p>\n\n        <h2>3. Kontaktní údaje</h2>\n        <p><strong>Webová stránka:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>\n        <strong>Telefon:</strong> <a href=\"tel:+420704222545\">+420 704 222 545</a></p>\n\n        <h2>4. Předmět činnosti</h2>\n        <p>TS Palletium se specializuje na:</p>\n        <ul>\n          <li>obchod s dřevěnými paletami,</li>\n          <li>dodávky EUR, EPAL a průmyslových palet,</li>\n          <li>logistická řešení související s distribucí palet,</li>\n          <li>propojování výrobců, dodavatelů a odběratelů v rámci evropského trhu.</li>\n        </ul>\n\n        <h2>5. Odpovědnost za obsah webové stránky</h2>\n        <p>Společnost Tom Kave Company s. r. o. věnuje přiměřenou pozornost správnosti, aktuálnosti a úplnosti informací uvedených na webové stránce. Přesto nelze zcela vyloučit možnost vzniku nepřesností nebo technických chyb.</p>\n        <p>Společnost si vyhrazuje právo upravovat, měnit nebo aktualizovat obsah webové stránky bez předchozího upozornění.</p>\n\n        <h2>6. Duševní vlastnictví</h2>\n        <p>Obsah webové stránky www.tspalletium.com, včetně textů, grafických prvků, loga, fotografií a dalších materiálů, může být chráněn právy duševního vlastnictví. Použití nebo kopírování obsahu bez předchozího souhlasu společnosti Tom Kave Company s. r. o. není povoleno, pokud právní předpisy nestanoví jinak.</p>\n\n        <h2>7. Odkazy na externí stránky</h2>\n        <p>Webová stránka může obsahovat odkazy na webové stránky třetích stran. Společnost Tom Kave Company s. r. o. nenese odpovědnost za obsah, bezpečnost ani postupy ochrany osobních údajů těchto externích stránek.</p>\n\n        <h2>8. Ochrana osobních údajů</h2>\n        <p>Informace o zpracování osobních údajů jsou uvedeny v samostatném dokumentu <a href=\"gdpr.html\">Zásady ochrany osobních údajů (GDPR)</a>.</p>\n\n        <h2>9. Cookies</h2>\n        <p>Informace o používání cookies jsou uvedeny v samostatném dokumentu <a href=\"cookies.html\">Cookies politika</a>.</p>\n\n        <h2>10. Rozhodné právo</h2>\n        <p>Právní vztahy související s používáním této webové stránky se řídí právním řádem Slovenské republiky.</p>\n\n        <h2>11. Kontaktní údaje</h2>\n        <p>V případě otázek týkajících se webové stránky nás můžete kontaktovat:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — městská část Juh, Slovenská republika<br>E-mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>www.tspalletium.com</p>"
+   },
+   "en": {
+    "title": "Legal Information",
+    "h1": "Legal Information <span class=\"accent\">(Imprint)</span>",
+    "desc": "Legal information (imprint) of www.tspalletium.com — Tom Kave Company s. r. o., trading as TS Palletium.",
+    "metaline": "Effective from: 16 July 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., trading as TS Palletium",
+    "html": "<h2>1. Website operator</h2>\n        <p>The website www.tspalletium.com is operated by:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>trading as: TS Palletium</p>\n\n        <h2>2. Company identification</h2>\n        <p><strong>Company name:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Registered office:</strong> Južná trieda 2881/4B, 040 01 Košice — Juh district, Slovak Republic<br>\n        <strong>Company ID (IČO):</strong> 56483155<br>\n        <strong>Tax ID (SK):</strong> 2122320134<br>\n        <strong>VAT ID (CZ):</strong> CZ688486306</p>\n\n        <h2>3. Contact details</h2>\n        <p><strong>Website:</strong> www.tspalletium.com<br>\n        <strong>E-mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>\n        <strong>Phone:</strong> <a href=\"tel:+420704222545\">+420 704 222 545</a></p>\n\n        <h2>4. Scope of business</h2>\n        <p>TS Palletium specialises in:</p>\n        <ul>\n          <li>trading in wooden pallets,</li>\n          <li>supply of EUR, EPAL and industrial pallets,</li>\n          <li>logistics solutions related to pallet distribution,</li>\n          <li>connecting manufacturers, suppliers and customers across the European market.</li>\n        </ul>\n\n        <h2>5. Responsibility for website content</h2>\n        <p>Tom Kave Company s. r. o. pays reasonable attention to the accuracy, currency and completeness of the information published on the website. Nevertheless, the possibility of inaccuracies or technical errors cannot be entirely excluded.</p>\n        <p>The company reserves the right to modify, change or update the content of the website without prior notice.</p>\n\n        <h2>6. Intellectual property</h2>\n        <p>The content of the website www.tspalletium.com, including texts, graphic elements, the logo, photographs and other materials, may be protected by intellectual property rights. Use or copying of the content without the prior consent of Tom Kave Company s. r. o. is not permitted unless otherwise provided by law.</p>\n\n        <h2>7. Links to external websites</h2>\n        <p>The website may contain links to third-party websites. Tom Kave Company s. r. o. is not responsible for the content, security or privacy practices of these external sites.</p>\n\n        <h2>8. Personal data protection</h2>\n        <p>Information on the processing of personal data is provided in a separate document, the <a href=\"gdpr.html\">Privacy Policy (GDPR)</a>.</p>\n\n        <h2>9. Cookies</h2>\n        <p>Information on the use of cookies is provided in a separate document, the <a href=\"cookies.html\">Cookie Policy</a>.</p>\n\n        <h2>10. Governing law</h2>\n        <p>Legal relationships arising from the use of this website are governed by the laws of the Slovak Republic.</p>\n\n        <h2>11. Contact details</h2>\n        <p>If you have any questions about the website, you can contact us:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — Juh district, Slovak Republic<br>E-mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>www.tspalletium.com</p>"
+   },
+   "de": {
+    "title": "Rechtliche Hinweise",
+    "h1": "Rechtliche Hinweise <span class=\"accent\">(Impressum)</span>",
+    "desc": "Rechtliche Hinweise (Impressum) der Website www.tspalletium.com — Tom Kave Company s. r. o., Handelsmarke TS Palletium.",
+    "metaline": "Gültig ab: 16. 7. 2026 &nbsp;·&nbsp; Tom Kave Company s. r. o., Handelsmarke TS Palletium",
+    "html": "<h2>1. Betreiber der Website</h2>\n        <p>Die Website www.tspalletium.com wird betrieben von:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Handelsmarke: TS Palletium</p>\n\n        <h2>2. Identifikationsdaten der Gesellschaft</h2>\n        <p><strong>Firmenname:</strong> Tom Kave Company s. r. o.<br>\n        <strong>Sitz der Gesellschaft:</strong> Južná trieda 2881/4B, 040 01 Košice — Stadtteil Juh, Slowakische Republik<br>\n        <strong>Reg.-Nr. (IČO):</strong> 56483155<br>\n        <strong>Steuer-ID (SK):</strong> 2122320134<br>\n        <strong>USt-IdNr. (CZ):</strong> CZ688486306</p>\n\n        <h2>3. Kontaktdaten</h2>\n        <p><strong>Website:</strong> www.tspalletium.com<br>\n        <strong>E-Mail:</strong> <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>\n        <strong>Telefon:</strong> <a href=\"tel:+420704222545\">+420 704 222 545</a></p>\n\n        <h2>4. Tätigkeitsbereich</h2>\n        <p>TS Palletium ist spezialisiert auf:</p>\n        <ul>\n          <li>den Handel mit Holzpaletten,</li>\n          <li>die Lieferung von EUR-, EPAL- und Industriepaletten,</li>\n          <li>Logistiklösungen im Zusammenhang mit der Palettendistribution,</li>\n          <li>die Vernetzung von Herstellern, Lieferanten und Abnehmern auf dem europäischen Markt.</li>\n        </ul>\n\n        <h2>5. Verantwortung für den Inhalt der Website</h2>\n        <p>Die Gesellschaft Tom Kave Company s. r. o. widmet der Richtigkeit, Aktualität und Vollständigkeit der auf der Website veröffentlichten Informationen angemessene Aufmerksamkeit. Dennoch können Ungenauigkeiten oder technische Fehler nicht vollständig ausgeschlossen werden.</p>\n        <p>Die Gesellschaft behält sich das Recht vor, den Inhalt der Website ohne vorherige Ankündigung zu bearbeiten, zu ändern oder zu aktualisieren.</p>\n\n        <h2>6. Geistiges Eigentum</h2>\n        <p>Der Inhalt der Website www.tspalletium.com, einschließlich Texte, Grafikelemente, Logo, Fotografien und weiterer Materialien, kann durch Rechte des geistigen Eigentums geschützt sein. Die Nutzung oder Vervielfältigung des Inhalts ohne vorherige Zustimmung der Gesellschaft Tom Kave Company s. r. o. ist nicht gestattet, sofern die Rechtsvorschriften nichts anderes bestimmen.</p>\n\n        <h2>7. Links zu externen Websites</h2>\n        <p>Die Website kann Links zu Websites Dritter enthalten. Die Gesellschaft Tom Kave Company s. r. o. übernimmt keine Verantwortung für den Inhalt, die Sicherheit oder die Datenschutzpraktiken dieser externen Seiten.</p>\n\n        <h2>8. Schutz personenbezogener Daten</h2>\n        <p>Informationen zur Verarbeitung personenbezogener Daten finden Sie im separaten Dokument <a href=\"gdpr.html\">Datenschutzerklärung (GDPR)</a>.</p>\n\n        <h2>9. Cookies</h2>\n        <p>Informationen zur Verwendung von Cookies finden Sie im separaten Dokument <a href=\"cookies.html\">Cookie-Richtlinie</a>.</p>\n\n        <h2>10. Anwendbares Recht</h2>\n        <p>Die Rechtsverhältnisse im Zusammenhang mit der Nutzung dieser Website unterliegen dem Recht der Slowakischen Republik.</p>\n\n        <h2>11. Kontaktdaten</h2>\n        <p>Bei Fragen zur Website können Sie uns kontaktieren:</p>\n        <p><strong>Tom Kave Company s. r. o.</strong><br>Južná trieda 2881/4B, 040 01 Košice — Stadtteil Juh, Slowakische Republik<br>E-Mail: <a href=\"mailto:info@tspalletium.com\">info@tspalletium.com</a><br>www.tspalletium.com</p>"
+   }
+  }
+ },
+ "defaults": {
+  "recipient_email": "info@tspalletium.com",
+  "sender_email": "info@tspalletium.com",
+  "autoreply_enabled": "1",
+  "autoreply_subject_sk": "TS Palletium — potvrdenie dopytu",
+  "autoreply_subject_cs": "TS Palletium — potvrzení poptávky",
+  "autoreply_subject_en": "TS Palletium — enquiry confirmation",
+  "autoreply_subject_de": "TS Palletium — Bestätigung Ihrer Anfrage",
+  "autoreply_text_sk": "Dobrý deň,\n\nďakujeme za Váš dopyt. Ozveme sa Vám čo najskôr s individuálnou cenovou ponukou.\n\nS pozdravom\nTS Palletium\nwww.tspalletium.com\n+420 704 222 545",
+  "autoreply_text_cs": "Dobrý den,\n\nděkujeme za Vaši poptávku. Ozveme se Vám co nejdříve s individuální cenovou nabídkou.\n\nS pozdravem\nTS Palletium\nwww.tspalletium.com\n+420 704 222 545",
+  "autoreply_text_en": "Hello,\n\nthank you for your enquiry. We will get back to you as soon as possible with an individual quote.\n\nBest regards\nTS Palletium\nwww.tspalletium.com\n+420 704 222 545",
+  "autoreply_text_de": "Guten Tag,\n\nvielen Dank für Ihre Anfrage. Wir melden uns so schnell wie möglich mit einem individuellen Angebot.\n\nMit freundlichen Grüßen\nTS Palletium\nwww.tspalletium.com\n+420 704 222 545"
+ }
+}

@@ -1,1 +1,3 @@
 podklady/
+hosting/public/data/*.db*
+hosting/public/seed/initial-password.txt
