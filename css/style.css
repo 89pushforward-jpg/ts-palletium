@@ -308,6 +308,11 @@ h1, h2, h3, h4 {
   object-position: 59% 40%;
 }
 
+/* desktop: photo shifted further left per client preference */
+@media (min-width: 1021px) {
+  .hero-media img { object-position: 66% 40%; }
+}
+
 /* Page hero (subpages) */
 .page-hero {
   position: relative;
