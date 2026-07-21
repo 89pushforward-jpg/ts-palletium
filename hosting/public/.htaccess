@@ -2,6 +2,9 @@
 
 RewriteEngine On
 
+# allow Let's Encrypt HTTP validation to pass through (no HTTPS/redirect)
+RewriteRule ^\.well-known/acme-challenge/ - [L]
+
 # force HTTPS
 RewriteCond %{HTTPS} !=on
 RewriteCond %{HTTP_HOST} !^localhost [NC]
