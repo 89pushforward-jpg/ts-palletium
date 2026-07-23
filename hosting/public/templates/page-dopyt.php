@@ -204,5 +204,6 @@
 
 <script>window.TSP_API='/form-submit.php';window.TSP_LANG='<?= $LANG ?>';</script>
 <script src="/js/main.js"></script>
+<?= view_beacon() ?>
 </body>
 </html>

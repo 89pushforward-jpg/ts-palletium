@@ -11,9 +11,27 @@ function db(): PDO {
         $pdo->exec('PRAGMA journal_mode = WAL');
         if ($fresh) {
             seed_db($pdo);
+        } else {
+            migrate_db($pdo);
         }
     }
     return $pdo;
+}
+
+/* Add columns introduced after the first release to an existing database. */
+function migrate_db(PDO $pdo): void {
+    try {
+        $cols = [];
+        foreach ($pdo->query('PRAGMA table_info(views)') as $c) {
+            $cols[] = $c['name'];
+        }
+        if ($cols && !in_array('created_at', $cols, true)) {
+            $pdo->exec('ALTER TABLE views ADD COLUMN created_at TEXT');
+        }
+        if ($cols && !in_array('duration', $cols, true)) {
+            $pdo->exec('ALTER TABLE views ADD COLUMN duration INTEGER');
+        }
+    } catch (Throwable $e) { /* never break the site over a migration */ }
 }
 
 function seed_db(PDO $pdo): void {
@@ -35,7 +53,8 @@ function seed_db(PDO $pdo): void {
             message TEXT, mail_sent INTEGER DEFAULT 0, autoreply_sent INTEGER DEFAULT 0);
         CREATE TABLE IF NOT EXISTS views (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            day TEXT NOT NULL, path TEXT NOT NULL, lang TEXT NOT NULL);
+            day TEXT NOT NULL, path TEXT NOT NULL, lang TEXT NOT NULL,
+            created_at TEXT, duration INTEGER);
         CREATE INDEX IF NOT EXISTS idx_views_day ON views(day);
         CREATE TABLE IF NOT EXISTS activity (
             id INTEGER PRIMARY KEY AUTOINCREMENT, created_at TEXT, action TEXT);
@@ -203,9 +222,26 @@ function sanitize_rich_html(string $html): string {
 
 function track_view(string $path, string $lang): void {
     try {
-        db()->prepare('INSERT INTO views (day, path, lang) VALUES (?,?,?)')
-            ->execute([date('Y-m-d'), $path, $lang]);
+        db()->prepare('INSERT INTO views (day, path, lang, created_at) VALUES (?,?,?,?)')
+            ->execute([date('Y-m-d'), $path, $lang, date('Y-m-d H:i:s')]);
+        $GLOBALS['TSP_VIEW_ID'] = (int)db()->lastInsertId();
     } catch (Throwable $e) { /* tracking must never break the page */ }
+}
+
+/* Measures how long the visitor stayed on the page and reports it once,
+   when the page is closed or hidden. No cookies, no third party. */
+function view_beacon(): string {
+    $id = (int)($GLOBALS['TSP_VIEW_ID'] ?? 0);
+    if ($id <= 0) {
+        return '';
+    }
+    return "<script>(function(){var i=$id,t=Date.now(),s=0;"
+         . "function f(){if(s)return;s=1;var d=Math.round((Date.now()-t)/1000);"
+         . "if(d<1||d>3600)return;"
+         . "try{navigator.sendBeacon('/track-time.php',new URLSearchParams({id:i,s:d}))}catch(e){}}"
+         . "document.addEventListener('visibilitychange',function(){"
+         . "if(document.visibilityState==='hidden')f()});"
+         . "window.addEventListener('pagehide',f)})();</script>\n";
 }
 
 function log_activity(string $action): void {
