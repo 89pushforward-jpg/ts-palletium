@@ -108,7 +108,9 @@ function t(string $key): string {
 
 function lang_url(string $lang, string $page): string {
     $prefix = $lang === DEFAULT_LANG ? '/' : '/' . $lang . '/';
-    return $prefix . ($page === 'index.html' && $lang === DEFAULT_LANG ? '' : $page);
+    // home pages use the clean folder URL (/ and /en/) so canonical, sitemap
+    // and the language switcher all point at exactly one address per page
+    return $prefix . ($page === 'index.html' ? '' : $page);
 }
 
 function lang_switcher(string $page): string {
@@ -121,12 +123,20 @@ function lang_switcher(string $page): string {
     return $out . "    </div>\n";
 }
 
+/* SEO head tags: canonical URL, hreflang alternates and Open Graph basics */
 function hreflangs(string $page): string {
-    $out = '';
+    $self = BASE_URL . lang_url($GLOBALS['LANG'], $page);
+    $out = '<link rel="canonical" href="' . $self . "\">\n";
     foreach (LANGS as $l) {
         $out .= '<link rel="alternate" hreflang="' . $l . '" href="' . BASE_URL . lang_url($l, $page) . "\">\n";
     }
     $out .= '<link rel="alternate" hreflang="x-default" href="' . BASE_URL . lang_url(DEFAULT_LANG, $page) . "\">\n";
+    $out .= '<meta property="og:type" content="website">' . "\n"
+          . '<meta property="og:site_name" content="TS Palletium">' . "\n"
+          . '<meta property="og:locale" content="' . $GLOBALS['LANG'] . "\">\n"
+          . '<meta property="og:url" content="' . $self . "\">\n"
+          . '<meta property="og:image" content="' . BASE_URL . "/assets/img/hero-building.jpg\">\n"
+          . '<meta name="twitter:card" content="summary_large_image">' . "\n";
     return $out;
 }
 

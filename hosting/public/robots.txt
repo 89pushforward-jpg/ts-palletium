@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /seed/
+Disallow: /templates/
+
+Sitemap: https://tspalletium.com/sitemap.xml

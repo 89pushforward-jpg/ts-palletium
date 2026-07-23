@@ -3,7 +3,15 @@
 require_once dirname(__DIR__) . '/lib.php';
 
 session_name('tspadmin');
-session_set_cookie_params(['httponly' => true, 'samesite' => 'Lax', 'path' => '/admin/']);
+// cookie path is derived from wherever this admin folder lives, so the folder
+// can be renamed (secret URL) without breaking sessions
+$adminPath = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? '/admin/x.php')), '/') . '/';
+session_set_cookie_params([
+    'httponly' => true,
+    'samesite' => 'Lax',
+    'path' => $adminPath,
+    'secure' => (($_SERVER['HTTPS'] ?? '') === 'on'),
+]);
 session_start();
 
 function is_logged_in(): bool {
