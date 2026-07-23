@@ -24,9 +24,35 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     exit;
 }
 
-// keys for this page, ordered as they appear
+// keys for this page, ordered as they appear.
+// Texts that sit on every page (menu, footer, cookie bar) belong to the shared
+// tab only — otherwise they would fill the top of every page tab and switching
+// tabs would look like nothing happened.
 $rows = $pdo->query('SELECT m.key, m.label, m.pages, m.ord FROM content_meta m ORDER BY m.ord')->fetchAll(PDO::FETCH_ASSOC);
-$keys = array_values(array_filter($rows, fn($r) => in_array($page, explode(',', $r['pages'] ?? ''), true)));
+$PAGE_TABS = ['index', 'o-spolocnosti', 'produkty', 'dopyt', 'kontakt'];
+
+$is_shared = function (array $p) use ($PAGE_TABS): bool {
+    foreach ($PAGE_TABS as $t) {
+        if (!in_array($t, $p, true)) return false;
+    }
+    return true;
+};
+
+$bucket = function (array $r) use ($is_shared, $PAGE_TABS): array {
+    $p = explode(',', $r['pages'] ?? '');
+    if (in_array('system', $p, true)) return ['system'];
+    if ($is_shared($p)) return ['legal-chrome'];
+    return array_values(array_intersect($PAGE_TABS, $p));
+};
+
+$counts = array_fill_keys(array_keys(ADMIN_PAGES), 0);
+$keys = [];
+foreach ($rows as $r) {
+    foreach ($bucket($r) as $tab) {
+        if (isset($counts[$tab])) $counts[$tab]++;
+    }
+    if (in_array($page, $bucket($r), true)) $keys[] = $r;
+}
 
 $vals = [];
 $st = $pdo->query('SELECT key, lang, value FROM content');
@@ -40,9 +66,11 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
 
 <div class="tabs">
   <?php foreach (ADMIN_PAGES as $p => $label): ?>
-    <a href="content.php?page=<?= $p ?>"<?= $p === $page ? ' class="active"' : '' ?>><?= esc($label) ?></a>
+    <a href="content.php?page=<?= $p ?>"<?= $p === $page ? ' class="active"' : '' ?>><?= esc($label) ?> <span class="tab-count"><?= (int)($counts[$p] ?? 0) ?></span></a>
   <?php endforeach; ?>
 </div>
+
+<h2 style="margin-top:0;">Upravujete: <?= esc(ADMIN_PAGES[$page]) ?> — <?= count($keys) ?> textov</h2>
 
 <p class="muted">Píšte bežný text. Ak chcete časť textu <span style="color:var(--gold-light);">zlatou farbou</span>, dajte ju medzi hviezdičky: <code style="color:var(--gold-light);">*takto*</code>. Nový riadok v políčku = nový riadok na webe. Zmeny sa na webe prejavia okamžite po uložení.</p>
 

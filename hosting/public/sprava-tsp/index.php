@@ -46,10 +46,20 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
 <div class="card">
   <div class="chart">
     <?php foreach ($days as $d => $c): ?>
-      <div class="bar" style="height:<?= round($c / $max * 100) ?>%" data-tip="<?= esc(date('j. n.', strtotime($d))) ?>: <?= $c ?>"></div>
+      <div class="bar<?= $c === 0 ? ' empty' : '' ?>" style="height:<?= $max ? round($c / $max * 100) : 0 ?>%" data-tip="<?= esc(date('j. n.', strtotime($d))) ?>: <?= $c ?>"></div>
     <?php endforeach; ?>
   </div>
-  <p class="muted">Merané na serveri bez cookies — bez vplyvu na cookie lištu a blokovanie reklám.</p>
+  <div class="chart-axis">
+    <span><?= esc(date('j. n.', strtotime(array_key_first($days)))) ?></span>
+    <span><?= esc(date('j. n.', strtotime(array_keys($days)[15]))) ?></span>
+    <span>dnes</span>
+  </div>
+  <?php
+  $activeDays = count(array_filter($days));
+  if ($activeDays <= 2): ?>
+    <p class="muted">Web zbiera dáta iba <?= $activeDays ?> <?= $activeDays === 1 ? 'deň' : 'dni' ?> — graf sa zaplní počas nasledujúcich dní. Prázdne stĺpce sú dni pred spustením webu.</p>
+  <?php endif; ?>
+  <p class="muted">Merané na serveri bez cookies — bez vplyvu na cookie lištu a blokovanie reklám. Prejdite myšou po stĺpci pre presné číslo.</p>
 </div>
 
 <div class="grid c2">
