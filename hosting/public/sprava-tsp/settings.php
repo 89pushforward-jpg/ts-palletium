@@ -28,6 +28,16 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
         }
         log_activity('Zmenené nastavenia autoodpovede');
         flash('Autoodpoveď bola uložená.');
+    } elseif ($section === 'seo') {
+        // accept either the bare code or the whole <meta> tag pasted from Google
+        $code = trim($_POST['google_verification'] ?? '');
+        if (preg_match('/content=["\']([^"\']+)["\']/', $code, $m)) {
+            $code = $m[1];
+        }
+        $code = preg_replace('/[^A-Za-z0-9_\-]/', '', $code);
+        set_setting('google_verification', $code);
+        log_activity('Zmenený overovací kód Google Search Console');
+        flash($code === '' ? 'Overovací kód bol vymazaný.' : 'Overovací kód bol uložený.');
     } elseif ($section === 'password') {
         $cur = $_POST['current'] ?? '';
         $new = $_POST['new1'] ?? '';
@@ -115,6 +125,31 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
       <?php endforeach; ?>
     </div>
     <p style="margin-top:14px;"><button class="btn small" type="submit">Uložiť autoodpoveď</button></p>
+  </form>
+</div>
+
+<div class="card">
+  <h2 style="margin-top:0;">Google Search Console — overenie webu</h2>
+  <p class="muted" style="margin-bottom:14px;">
+    Aby web našiel Google, treba v <a href="https://search.google.com/search-console" target="_blank" rel="noopener">Search Console</a>
+    potvrdiť, že stránka patrí vám. Google vám dá riadok
+    <code>&lt;meta name="google-site-verification" content="…"&gt;</code> — vložte ho sem celý,
+    kód si z neho vyberieme sami. Potom sa v Search Console vráťte a kliknite na „Overiť".
+  </p>
+  <form method="post">
+    <?= csrf_field() ?>
+    <input type="hidden" name="section" value="seo">
+    <label for="gv">Overovací kód (alebo celý meta tag)</label>
+    <input type="text" id="gv" name="google_verification" value="<?= esc(setting('google_verification')) ?>" placeholder="&lt;meta name=&quot;google-site-verification&quot; content=&quot;abc123…&quot;&gt;">
+    <p style="margin-top:14px; display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+      <button class="btn small" type="submit">Uložiť</button>
+      <?php if (trim(setting('google_verification')) !== ''): ?>
+        <span class="ok">✓ kód je vložený na webe</span>
+      <?php else: ?>
+        <span class="muted">Zatiaľ nevyplnené — web zatiaľ nie je overený v Google.</span>
+      <?php endif; ?>
+      <a class="btn ghost small" href="/sitemap.xml" target="_blank" rel="noopener">Zobraziť sitemap.xml</a>
+    </p>
   </form>
 </div>
 

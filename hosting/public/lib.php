@@ -156,6 +156,39 @@ function hreflangs(string $page): string {
           . '<meta property="og:url" content="' . $self . "\">\n"
           . '<meta property="og:image" content="' . BASE_URL . "/assets/img/hero-building.jpg\">\n"
           . '<meta name="twitter:card" content="summary_large_image">' . "\n";
+
+    // Google Search Console ownership check — pasted in the admin, no re-upload
+    $gv = trim(setting('google_verification'));
+    if ($gv !== '') {
+        $out .= '<meta name="google-site-verification" content="' . esc($gv) . "\">\n";
+    }
+
+    // Company details for search engines (rich results, knowledge panel)
+    if ($page === 'index.html') {
+        $out .= '<script type="application/ld+json">' . json_encode([
+            '@context' => 'https://schema.org',
+            '@type' => 'Organization',
+            'name' => 'TS Palletium',
+            'legalName' => 'Tom Kave Company s. r. o.',
+            'url' => BASE_URL . '/',
+            'logo' => BASE_URL . '/assets/img/logo-kruh.png',
+            'image' => BASE_URL . '/assets/img/hero-building.jpg',
+            'email' => 'info@tspalletium.com',
+            'telephone' => '+420704222545',
+            'vatID' => 'CZ688486306',
+            'taxID' => '2122320134',
+            'address' => [
+                '@type' => 'PostalAddress',
+                'streetAddress' => 'Južná trieda 2881/4B',
+                'addressLocality' => 'Košice',
+                'postalCode' => '040 01',
+                'addressCountry' => 'SK',
+            ],
+            'areaServed' => 'Europe',
+            'knowsLanguage' => ['sk', 'cs', 'en', 'de'],
+            'description' => 'Nákup, predaj, dodávky a logistická koordinácia drevených a plastových paliet v rámci európskeho trhu.',
+        ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . "</script>\n";
+    }
     return $out;
 }
 
