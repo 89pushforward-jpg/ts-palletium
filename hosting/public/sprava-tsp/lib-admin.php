@@ -68,7 +68,8 @@ function admin_header(string $title, string $active): void {
     echo '<meta name="robots" content="noindex, nofollow">';
     echo '<title>' . esc($title) . ' — TS Palletium admin</title>';
     echo '<link rel="icon" type="image/png" href="/assets/img/favicon.png">';
-    echo '<link rel="stylesheet" href="admin.css"></head><body>';
+    // version query busts the browser cache whenever the stylesheet changes
+    echo '<link rel="stylesheet" href="admin.css?v=' . (int)@filemtime(__DIR__ . '/admin.css') . '"></head><body>';
     echo '<header class="a-top"><div class="a-brand">TS <span>PALLETIUM</span> — admin</div><nav>';
     foreach ($items as $href => $label) {
         $cls = $href === $active ? ' class="active"' : '';

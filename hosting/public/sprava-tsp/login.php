@@ -34,7 +34,7 @@ if (is_logged_in()) {
 <meta name="robots" content="noindex, nofollow">
 <title>Prihlásenie — TS Palletium admin</title>
 <link rel="icon" type="image/png" href="/assets/img/favicon.png">
-<link rel="stylesheet" href="admin.css">
+<link rel="stylesheet" href="admin.css?v=<?= (int)@filemtime(__DIR__ . '/admin.css') ?>">
 </head>
 <body>
 <div class="login-wrap">
