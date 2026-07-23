@@ -32,7 +32,7 @@ if ($range === 'day') {
     $since = date('Y-m-01', strtotime('first day of -11 months'));
 }
 foreach ($buckets as $k => $v) {
-    $buckets[$k] += ['views' => 0, 'dur_sum' => 0, 'dur_n' => 0];
+    $buckets[$k] += ['views' => 0, 'dur_sum' => 0, 'dur_n' => 0, 'subs' => 0];
 }
 
 $bucket_of = function (string $day) use ($range): string {
@@ -54,7 +54,17 @@ foreach ($st->fetchAll(PDO::FETCH_ASSOC) as $r) {
     $buckets[$k]['dur_n']   += (int)$r['dur_n'];
 }
 
+// enquiries in the same buckets
+$st = $pdo->prepare('SELECT date(created_at) AS d, COUNT(*) AS c
+                     FROM submissions WHERE date(created_at) >= ? GROUP BY d');
+$st->execute([$since]);
+foreach ($st->fetchAll(PDO::FETCH_ASSOC) as $r) {
+    $k = $bucket_of($r['d']);
+    if (isset($buckets[$k])) $buckets[$k]['subs'] += (int)$r['c'];
+}
+
 $maxViews = max(1, max(array_column($buckets, 'views')));
+$maxSubs  = max(1, max(array_column($buckets, 'subs')));
 $avgOf = fn(array $b): int => $b['dur_n'] > 0 ? (int)round($b['dur_sum'] / $b['dur_n']) : 0;
 $maxAvg = max(1, max(array_map($avgOf, $buckets)));
 
@@ -140,6 +150,36 @@ if ($m = flash()) echo '<div class="flash">' . esc($m) . '</div>';
       <span><?= $range === 'day' ? 'dnes' : esc(end($lbls)) ?></span>
     </div>
     <p class="muted">Priemer z <?= $measured ?> meraných zobrazení. Meria sa čas od otvorenia stránky po jej opustenie.</p>
+  <?php endif; ?>
+</div>
+
+<h2>Dopyty z formulára — <?= esc(mb_strtolower($RANGES[$range])) ?></h2>
+<div class="card">
+  <?php
+  $subsInRange = array_sum(array_column($buckets, 'subs'));
+  $viewsInRange = array_sum(array_column($buckets, 'views'));
+  ?>
+  <?php if ($subsTotal === 0): ?>
+    <p class="muted">Zatiaľ neprišiel žiadny dopyt. Graf sa vykreslí hneď po prvom odoslanom formulári.</p>
+  <?php else: ?>
+    <div class="chart">
+      <?php foreach ($buckets as $b): ?>
+        <div class="bar subs<?= $b['subs'] === 0 ? ' empty' : '' ?>"
+             style="height:<?= round($b['subs'] / $maxSubs * 100) ?>%"
+             data-tip="<?= esc($b['label']) ?>: <?= $b['subs'] ?> dopytov"></div>
+      <?php endforeach; ?>
+    </div>
+    <div class="chart-axis">
+      <span><?= esc($lbls[0]) ?></span>
+      <span><?= esc($lbls[intdiv($n, 2)]) ?></span>
+      <span><?= $range === 'day' ? 'dnes' : esc(end($lbls)) ?></span>
+    </div>
+    <p class="muted">
+      <?= $subsInRange ?> dopytov za zobrazené obdobie
+      <?php if ($viewsInRange > 0): ?>
+        · z <?= $viewsInRange ?> návštev = <strong style="color:var(--gold-light);"><?= number_format($subsInRange / $viewsInRange * 100, 1, ',', ' ') ?> %</strong> konverzia
+      <?php endif; ?>
+    </p>
   <?php endif; ?>
 </div>
 

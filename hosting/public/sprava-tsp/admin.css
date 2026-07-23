@@ -84,6 +84,7 @@ input:focus, textarea:focus, select:focus { outline: none; border-color: var(--g
 .chart-axis { display: flex; justify-content: space-between; font-size: 11px;
   color: var(--grey-dark); border-top: 1px solid rgba(255,255,255,.08); padding-top: 6px; margin-bottom: 10px; }
 .chart .bar.time { background: linear-gradient(180deg, #9fc4e8, #4a7fae); }
+.chart .bar.subs { background: linear-gradient(180deg, #8fd6a4, #3f8f5c); }
 
 .range-bar { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin: 22px 0 4px; }
 .range-bar a { padding: 7px 15px; border-radius: 6px; background: var(--panel);
